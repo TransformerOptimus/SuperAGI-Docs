@@ -27,15 +27,15 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/haider/Desktop/SuperAGi-Docs/SuperAGI-Docs/sidebars.js",
-          "editUrl": "https://github.com/TransformerOptimus/SuperAGI/website/"
+          "sidebarPath": "/Users/haider/Desktop/SuperAGi-Docs/SuperAGI-Docs/SuperAGI-Docs/sidebars.js",
+          "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/TransformerOptimus/SuperAGI/website/"
+          "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/haider/Desktop/SuperAGi-Docs/SuperAGI-Docs/src/css/custom.css"
+          "customCss": "/Users/haider/Desktop/SuperAGi-Docs/SuperAGI-Docs/SuperAGI-Docs/src/css/custom.css"
         }
       }
     ]
@@ -45,7 +45,7 @@ export default {
     "navbar": {
       "title": "SuperAGI",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "SuperAGI Logo",
         "src": "https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png"
       },
       "items": [
@@ -54,6 +54,11 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Docs"
+        },
+        {
+          "to": "https://superagi.com/",
+          "label": "Website",
+          "position": "left"
         },
         {
           "href": "https://github.com/TransformerOptimus/SuperAGI",

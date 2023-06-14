@@ -53,14 +53,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TransformerOptimus/SuperAGI/website/',
+            'https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TransformerOptimus/SuperAGI/website/',
+            'https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -77,15 +77,21 @@ const config = {
       navbar: {
         title: 'SuperAGI',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'SuperAGI Logo',
           src: 'https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png',
         },
+        
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
+          },
+          {
+            to: 'https://superagi.com/',
+            label: 'Website',
+            position: 'left',
           },
           {
             href: 'https://github.com/TransformerOptimus/SuperAGI',
