@@ -94,6 +94,11 @@ const config = {
             position: 'left',
           },
           {
+            to: 'https://documenter.getpostman.com/view/9667257/2s93shypCT',
+            label: 'APIs',
+            position: 'left',
+          }, 
+          {
             href: 'https://github.com/TransformerOptimus/SuperAGI',
             label: 'GitHub Repo',
             position: 'right',
