@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction to SuperAGI",
-    "permalink": "/docs/"
+    "title": "ER Diagram",
+    "permalink": "/docs/Architecture/ER-diagram"
   },
   "next": {
     "title": "GitHub Codespaces",

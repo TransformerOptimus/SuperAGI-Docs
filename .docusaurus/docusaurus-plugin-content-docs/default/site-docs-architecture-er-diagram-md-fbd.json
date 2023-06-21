@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/ER-diagram",
+  "id": "Architecture/ER-diagram",
+  "title": "ER Diagram",
+  "description": "ER Diagram",
+  "source": "@site/docs/Architecture/ER Diagram.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/ER-diagram",
+  "permalink": "/docs/Architecture/ER-diagram",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/er_diagram.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "id": "ER-diagram"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools Architecture",
+    "permalink": "/docs/Architecture/tools-architecture"
+  },
+  "next": {
+    "title": "Win/MacOS/Linux",
+    "permalink": "/docs/Installation Guide/local"
+  }
+}

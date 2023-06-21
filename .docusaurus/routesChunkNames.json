@@ -1,56 +1,119 @@
 {
-  "/docs/markdown-page-eb5": {
-    "__comp": "1f391b9e",
+  "/docs/__docusaurus/debug-e00": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "de991f9a"
-    },
-    "content": "393be207"
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
   },
-  "/docs/-cef": {
-    "__comp": "1be78505",
+  "/docs/__docusaurus/debug/config-2df": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "b170ed79"
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
+  },
+  "/docs/__docusaurus/debug/content-695": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
     },
-    "versionMetadata": "935f2afb"
+    "allContent": "allContent---docs-docusaurus-debug-content-246-f36"
+  },
+  "/docs/__docusaurus/debug/globalData-d12": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
+  },
+  "/docs/__docusaurus/debug/metadata-9e2": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
+  },
+  "/docs/__docusaurus/debug/registry-b7c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
+  },
+  "/docs/__docusaurus/debug/routes-08f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
+    }
+  },
+  "/docs/markdown-page-822": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docs-markdown-page-07-b-9d5"
+    },
+    "content": "content---docs-markdown-page-393-8aa"
+  },
+  "/docs/-817": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-eaa-415"
+    },
+    "versionMetadata": "versionMetadata---docs-935-739"
   },
   "/docs/-2bf": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-0-e-3-18c"
+  },
+  "/docs/Architecture/agent-architecture-805": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-agent-architecture-92-b-7e8"
+  },
+  "/docs/Architecture/ER-diagram-7df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-er-diagramb-96-b6c"
+  },
+  "/docs/Architecture/superagi-architecture-847": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-superagi-architectureb-61-8e9"
+  },
+  "/docs/Architecture/tools-architecture-f73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-tools-architecture-4-c-1-ca6"
+  },
+  "/docs/Architecture/workflow-architecture-b56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-workflow-architectureda-3-34d"
   },
   "/docs/Installation Guide/gitcode-28d": {
-    "__comp": "17896441",
-    "content": "1e60679b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-installation-guide-gitcode-1-e-6-a5e"
   },
   "/docs/Installation Guide/local-e59": {
-    "__comp": "17896441",
-    "content": "1712804a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-installation-guide-local-171-e95"
   },
   "/docs/Tools/coding_tool-0f0": {
-    "__comp": "17896441",
-    "content": "39a3cfda"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-coding-tool-39-a-686"
   },
   "/docs/Tools/email-f59": {
-    "__comp": "17896441",
-    "content": "a7838936"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-emaila-78-2f9"
   },
   "/docs/Tools/google_search-d78": {
-    "__comp": "17896441",
-    "content": "53ccc3d4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-google-search-53-c-c2d"
   },
   "/docs/Tools/google_serp-dc0": {
-    "__comp": "17896441",
-    "content": "1429a0b0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-google-serp-142-c99"
   },
   "/docs/Tools/image_generation-947": {
-    "__comp": "17896441",
-    "content": "f69a803f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-image-generationf-69-a6c"
   },
   "/docs/Tools/jira-16b": {
-    "__comp": "17896441",
-    "content": "faaf90b2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-jirafaa-0f2"
   },
   "/docs/Tools/webscraper-e39": {
-    "__comp": "17896441",
-    "content": "f039c878"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-webscraperf-03-f01"
   }
 }

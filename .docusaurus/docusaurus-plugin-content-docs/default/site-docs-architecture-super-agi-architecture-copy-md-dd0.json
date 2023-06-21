@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Architecture/superagi-architecture",
+  "id": "Architecture/superagi-architecture",
+  "title": "SuperAGI Architecture",
+  "description": "SuperAGI Architecture involves the working of SuperAGI",
+  "source": "@site/docs/Architecture/SuperAGI Architecture copy.md",
+  "sourceDirName": "Architecture",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/SuperAGI Architecture copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "superagi-architecture",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to SuperAGI",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "SuperAGI Architecture",
+    "permalink": "/docs/"
+  }
+}

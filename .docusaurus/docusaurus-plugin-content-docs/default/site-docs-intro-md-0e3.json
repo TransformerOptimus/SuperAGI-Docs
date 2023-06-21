@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Win/MacOS/Linux",
-    "permalink": "/docs/Installation Guide/local"
+    "title": "SuperAGI Architecture",
+    "permalink": "/docs/Architecture/superagi-architecture"
   }
 }
