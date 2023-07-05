@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Toolkit/webscraper",
+  "id": "Toolkit/webscraper",
+  "title": "Web Scraper Tool",
+  "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
+  "source": "@site/docs/Toolkit/webscraper.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/webscraper",
+  "permalink": "/docs/Toolkit/webscraper",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/webscraper.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jira Tool",
+    "permalink": "/docs/Toolkit/jira"
+  }
+}

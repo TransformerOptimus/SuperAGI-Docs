@@ -75,51 +75,77 @@
       },
       {
         "type": "category",
-        "label": "Tools",
+        "label": "Toolkit",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
+            "type": "category",
+            "label": "Image Generation Toolkit",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Dall-E Tool",
+                "href": "/docs/Toolkit/Image Generation Toolkit/dalle",
+                "docId": "Toolkit/Image Generation Toolkit/dalle"
+              },
+              {
+                "type": "link",
+                "label": "Stable Diffusion Tool",
+                "href": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion",
+                "docId": "Toolkit/Image Generation Toolkit/stable_diffusion"
+              }
+            ]
+          },
+          {
             "type": "link",
             "label": "Coding Tool",
-            "href": "/docs/Tools/coding_tool",
-            "docId": "Tools/coding_tool"
+            "href": "/docs/Toolkit/coding_tool",
+            "docId": "Toolkit/coding_tool"
           },
           {
             "type": "link",
             "label": "Email Tool",
-            "href": "/docs/Tools/email",
-            "docId": "Tools/email"
+            "href": "/docs/Toolkit/email",
+            "docId": "Toolkit/email"
+          },
+          {
+            "type": "link",
+            "label": "GitHub Tool",
+            "href": "/docs/Toolkit/github",
+            "docId": "Toolkit/github"
+          },
+          {
+            "type": "link",
+            "label": "Google Calendar Tool",
+            "href": "/docs/Toolkit/google_calender",
+            "docId": "Toolkit/google_calender"
           },
           {
             "type": "link",
             "label": "Google Search Tool",
-            "href": "/docs/Tools/google_search",
-            "docId": "Tools/google_search"
+            "href": "/docs/Toolkit/google_search",
+            "docId": "Toolkit/google_search"
           },
           {
             "type": "link",
             "label": "Google SERP Search Tool",
-            "href": "/docs/Tools/google_serp",
-            "docId": "Tools/google_serp"
-          },
-          {
-            "type": "link",
-            "label": "Image Generation Tool",
-            "href": "/docs/Tools/image_generation",
-            "docId": "Tools/image_generation"
+            "href": "/docs/Toolkit/google_serp",
+            "docId": "Toolkit/google_serp"
           },
           {
             "type": "link",
             "label": "Jira Tool",
-            "href": "/docs/Tools/jira",
-            "docId": "Tools/jira"
+            "href": "/docs/Toolkit/jira",
+            "docId": "Toolkit/jira"
           },
           {
             "type": "link",
             "label": "Web Scraper Tool",
-            "href": "/docs/Tools/webscraper",
-            "docId": "Tools/webscraper"
+            "href": "/docs/Toolkit/webscraper",
+            "docId": "Toolkit/webscraper"
           }
         ]
       }
@@ -174,44 +200,62 @@
       "description": "A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/coding_tool": {
-      "id": "Tools/coding_tool",
+    "Toolkit/coding_tool": {
+      "id": "Toolkit/coding_tool",
       "title": "Coding Tool",
       "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/email": {
-      "id": "Tools/email",
+    "Toolkit/email": {
+      "id": "Toolkit/email",
       "title": "Email Tool",
       "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/google_search": {
-      "id": "Tools/google_search",
+    "Toolkit/github": {
+      "id": "Toolkit/github",
+      "title": "GitHub Tool",
+      "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/google_calender": {
+      "id": "Toolkit/google_calender",
+      "title": "Google Calendar Tool",
+      "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/google_search": {
+      "id": "Toolkit/google_search",
       "title": "Google Search Tool",
       "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/google_serp": {
-      "id": "Tools/google_serp",
+    "Toolkit/google_serp": {
+      "id": "Toolkit/google_serp",
       "title": "Google SERP Search Tool",
       "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/image_generation": {
-      "id": "Tools/image_generation",
-      "title": "Image Generation Tool",
+    "Toolkit/Image Generation Toolkit/dalle": {
+      "id": "Toolkit/Image Generation Toolkit/dalle",
+      "title": "Dall-E Tool",
       "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/jira": {
-      "id": "Tools/jira",
-      "title": "Jira Tool",
-      "description": "The robust SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other fascinating use cases.",
+    "Toolkit/Image Generation Toolkit/stable_diffusion": {
+      "id": "Toolkit/Image Generation Toolkit/stable_diffusion",
+      "title": "Stable Diffusion Tool",
+      "description": "Introducing Stable Diffusion Integration with SuperAGI",
       "sidebar": "tutorialSidebar"
     },
-    "Tools/webscraper": {
-      "id": "Tools/webscraper",
+    "Toolkit/jira": {
+      "id": "Toolkit/jira",
+      "title": "Jira Tool",
+      "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/webscraper": {
+      "id": "Toolkit/webscraper",
       "title": "Web Scraper Tool",
       "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
       "sidebar": "tutorialSidebar"

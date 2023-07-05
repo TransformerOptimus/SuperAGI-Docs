@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/image_generation",
+  "id": "Toolkit/image_generation",
+  "title": "Image Generation Tool",
+  "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+  "source": "@site/docs/Toolkit/image_generation.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/image_generation",
+  "permalink": "/docs/Toolkit/image_generation",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/image_generation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google SERP Search Tool",
+    "permalink": "/docs/Toolkit/google_serp"
+  },
+  "next": {
+    "title": "Jira Tool",
+    "permalink": "/docs/Toolkit/jira"
+  }
+}

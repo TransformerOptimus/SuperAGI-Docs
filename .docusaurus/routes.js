@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '817'),
+    component: ComponentCreator('/docs/', 'acf'),
     routes: [
       {
         path: '/docs/',
@@ -95,44 +95,62 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/coding_tool',
-        component: ComponentCreator('/docs/Tools/coding_tool', '0f0'),
+        path: '/docs/Toolkit/coding_tool',
+        component: ComponentCreator('/docs/Toolkit/coding_tool', 'b54'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/email',
-        component: ComponentCreator('/docs/Tools/email', 'f59'),
+        path: '/docs/Toolkit/email',
+        component: ComponentCreator('/docs/Toolkit/email', 'e57'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/google_search',
-        component: ComponentCreator('/docs/Tools/google_search', 'd78'),
+        path: '/docs/Toolkit/github',
+        component: ComponentCreator('/docs/Toolkit/github', '601'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/google_serp',
-        component: ComponentCreator('/docs/Tools/google_serp', 'dc0'),
+        path: '/docs/Toolkit/google_calender',
+        component: ComponentCreator('/docs/Toolkit/google_calender', '208'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/image_generation',
-        component: ComponentCreator('/docs/Tools/image_generation', '947'),
+        path: '/docs/Toolkit/google_search',
+        component: ComponentCreator('/docs/Toolkit/google_search', '40b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/jira',
-        component: ComponentCreator('/docs/Tools/jira', '16b'),
+        path: '/docs/Toolkit/google_serp',
+        component: ComponentCreator('/docs/Toolkit/google_serp', '411'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Tools/webscraper',
-        component: ComponentCreator('/docs/Tools/webscraper', 'e39'),
+        path: '/docs/Toolkit/Image Generation Toolkit/dalle',
+        component: ComponentCreator('/docs/Toolkit/Image Generation Toolkit/dalle', 'c74'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/Image Generation Toolkit/stable_diffusion',
+        component: ComponentCreator('/docs/Toolkit/Image Generation Toolkit/stable_diffusion', '5d3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/jira',
+        component: ComponentCreator('/docs/Toolkit/jira', '9fb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/webscraper',
+        component: ComponentCreator('/docs/Toolkit/webscraper', '3bf'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

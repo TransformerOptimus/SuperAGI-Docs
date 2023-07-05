@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/google_calender",
+  "id": "Toolkit/google_calender",
+  "title": "Google Calendar Tool",
+  "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
+  "source": "@site/docs/Toolkit/google_calender.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/google_calender",
+  "permalink": "/docs/Toolkit/google_calender",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_calender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Tool",
+    "permalink": "/docs/Toolkit/github"
+  },
+  "next": {
+    "title": "Google Search Tool",
+    "permalink": "/docs/Toolkit/google_search"
+  }
+}

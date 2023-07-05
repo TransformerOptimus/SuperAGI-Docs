@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/Image Generation Toolkit/dalle",
+  "id": "Toolkit/Image Generation Toolkit/dalle",
+  "title": "Dall-E Tool",
+  "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+  "source": "@site/docs/Toolkit/Image Generation Toolkit/dalle.md",
+  "sourceDirName": "Toolkit/Image Generation Toolkit",
+  "slug": "/Toolkit/Image Generation Toolkit/dalle",
+  "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation Toolkit/dalle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation Guide/gitcode"
+  },
+  "next": {
+    "title": "Stable Diffusion Tool",
+    "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
+  }
+}

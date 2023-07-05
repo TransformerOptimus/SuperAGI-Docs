@@ -179,8 +179,8 @@
                 "permalink": "/docs/Installation Guide/local"
               },
               "next": {
-                "title": "Coding Tool",
-                "permalink": "/docs/Tools/coding_tool"
+                "title": "Dall-E Tool",
+                "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle"
               }
             },
             {
@@ -236,16 +236,160 @@
               }
             },
             {
-              "unversionedId": "Tools/coding_tool",
-              "id": "Tools/coding_tool",
+              "unversionedId": "Toolkit/coding_tool",
+              "id": "Toolkit/coding_tool",
               "title": "Coding Tool",
               "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
-              "source": "@site/docs/Tools/coding_tool.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/coding_tool",
-              "permalink": "/docs/Tools/coding_tool",
+              "source": "@site/docs/Toolkit/coding_tool.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/coding_tool",
+              "permalink": "/docs/Toolkit/coding_tool",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/coding_tool.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/coding_tool.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Stable Diffusion Tool",
+                "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
+              },
+              "next": {
+                "title": "Email Tool",
+                "permalink": "/docs/Toolkit/email"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/email",
+              "id": "Toolkit/email",
+              "title": "Email Tool",
+              "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
+              "source": "@site/docs/Toolkit/email.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/email",
+              "permalink": "/docs/Toolkit/email",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/email.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coding Tool",
+                "permalink": "/docs/Toolkit/coding_tool"
+              },
+              "next": {
+                "title": "GitHub Tool",
+                "permalink": "/docs/Toolkit/github"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/github",
+              "id": "Toolkit/github",
+              "title": "GitHub Tool",
+              "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
+              "source": "@site/docs/Toolkit/github.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/github",
+              "permalink": "/docs/Toolkit/github",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/github.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Email Tool",
+                "permalink": "/docs/Toolkit/email"
+              },
+              "next": {
+                "title": "Google Calendar Tool",
+                "permalink": "/docs/Toolkit/google_calender"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/google_calender",
+              "id": "Toolkit/google_calender",
+              "title": "Google Calendar Tool",
+              "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
+              "source": "@site/docs/Toolkit/google_calender.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/google_calender",
+              "permalink": "/docs/Toolkit/google_calender",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_calender.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub Tool",
+                "permalink": "/docs/Toolkit/github"
+              },
+              "next": {
+                "title": "Google Search Tool",
+                "permalink": "/docs/Toolkit/google_search"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/google_search",
+              "id": "Toolkit/google_search",
+              "title": "Google Search Tool",
+              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+              "source": "@site/docs/Toolkit/google_search.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/google_search",
+              "permalink": "/docs/Toolkit/google_search",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_search.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Google Calendar Tool",
+                "permalink": "/docs/Toolkit/google_calender"
+              },
+              "next": {
+                "title": "Google SERP Search Tool",
+                "permalink": "/docs/Toolkit/google_serp"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/google_serp",
+              "id": "Toolkit/google_serp",
+              "title": "Google SERP Search Tool",
+              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+              "source": "@site/docs/Toolkit/google_serp.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/google_serp",
+              "permalink": "/docs/Toolkit/google_serp",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_serp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Google Search Tool",
+                "permalink": "/docs/Toolkit/google_search"
+              },
+              "next": {
+                "title": "Jira Tool",
+                "permalink": "/docs/Toolkit/jira"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/Image Generation Toolkit/dalle",
+              "id": "Toolkit/Image Generation Toolkit/dalle",
+              "title": "Dall-E Tool",
+              "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+              "source": "@site/docs/Toolkit/Image Generation Toolkit/dalle.md",
+              "sourceDirName": "Toolkit/Image Generation Toolkit",
+              "slug": "/Toolkit/Image Generation Toolkit/dalle",
+              "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation Toolkit/dalle.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -255,148 +399,76 @@
                 "permalink": "/docs/Installation Guide/gitcode"
               },
               "next": {
-                "title": "Email Tool",
-                "permalink": "/docs/Tools/email"
+                "title": "Stable Diffusion Tool",
+                "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
               }
             },
             {
-              "unversionedId": "Tools/email",
-              "id": "Tools/email",
-              "title": "Email Tool",
-              "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
-              "source": "@site/docs/Tools/email.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/email",
-              "permalink": "/docs/Tools/email",
+              "unversionedId": "Toolkit/Image Generation Toolkit/stable_diffusion",
+              "id": "Toolkit/Image Generation Toolkit/stable_diffusion",
+              "title": "Stable Diffusion Tool",
+              "description": "Introducing Stable Diffusion Integration with SuperAGI",
+              "source": "@site/docs/Toolkit/Image Generation Toolkit/stable_diffusion.md",
+              "sourceDirName": "Toolkit/Image Generation Toolkit",
+              "slug": "/Toolkit/Image Generation Toolkit/stable_diffusion",
+              "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/email.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation Toolkit/stable_diffusion.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
+                "title": "Dall-E Tool",
+                "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle"
+              },
+              "next": {
                 "title": "Coding Tool",
-                "permalink": "/docs/Tools/coding_tool"
-              },
-              "next": {
-                "title": "Google Search Tool",
-                "permalink": "/docs/Tools/google_search"
+                "permalink": "/docs/Toolkit/coding_tool"
               }
             },
             {
-              "unversionedId": "Tools/google_search",
-              "id": "Tools/google_search",
-              "title": "Google Search Tool",
-              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
-              "source": "@site/docs/Tools/google_search.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/google_search",
-              "permalink": "/docs/Tools/google_search",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/google_search.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Email Tool",
-                "permalink": "/docs/Tools/email"
-              },
-              "next": {
-                "title": "Google SERP Search Tool",
-                "permalink": "/docs/Tools/google_serp"
-              }
-            },
-            {
-              "unversionedId": "Tools/google_serp",
-              "id": "Tools/google_serp",
-              "title": "Google SERP Search Tool",
-              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
-              "source": "@site/docs/Tools/google_serp.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/google_serp",
-              "permalink": "/docs/Tools/google_serp",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/google_serp.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Google Search Tool",
-                "permalink": "/docs/Tools/google_search"
-              },
-              "next": {
-                "title": "Image Generation Tool",
-                "permalink": "/docs/Tools/image_generation"
-              }
-            },
-            {
-              "unversionedId": "Tools/image_generation",
-              "id": "Tools/image_generation",
-              "title": "Image Generation Tool",
-              "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
-              "source": "@site/docs/Tools/image_generation.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/image_generation",
-              "permalink": "/docs/Tools/image_generation",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/image_generation.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Google SERP Search Tool",
-                "permalink": "/docs/Tools/google_serp"
-              },
-              "next": {
-                "title": "Jira Tool",
-                "permalink": "/docs/Tools/jira"
-              }
-            },
-            {
-              "unversionedId": "Tools/jira",
-              "id": "Tools/jira",
+              "unversionedId": "Toolkit/jira",
+              "id": "Toolkit/jira",
               "title": "Jira Tool",
-              "description": "The robust SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other fascinating use cases.",
-              "source": "@site/docs/Tools/jira.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/jira",
-              "permalink": "/docs/Tools/jira",
+              "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+              "source": "@site/docs/Toolkit/jira.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/jira",
+              "permalink": "/docs/Toolkit/jira",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/jira.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/jira.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Image Generation Tool",
-                "permalink": "/docs/Tools/image_generation"
+                "title": "Google SERP Search Tool",
+                "permalink": "/docs/Toolkit/google_serp"
               },
               "next": {
                 "title": "Web Scraper Tool",
-                "permalink": "/docs/Tools/webscraper"
+                "permalink": "/docs/Toolkit/webscraper"
               }
             },
             {
-              "unversionedId": "Tools/webscraper",
-              "id": "Tools/webscraper",
+              "unversionedId": "Toolkit/webscraper",
+              "id": "Toolkit/webscraper",
               "title": "Web Scraper Tool",
               "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
-              "source": "@site/docs/Tools/webscraper.md",
-              "sourceDirName": "Tools",
-              "slug": "/Tools/webscraper",
-              "permalink": "/docs/Tools/webscraper",
+              "source": "@site/docs/Toolkit/webscraper.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/webscraper",
+              "permalink": "/docs/Toolkit/webscraper",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Tools/webscraper.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/webscraper.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Jira Tool",
-                "permalink": "/docs/Tools/jira"
+                "permalink": "/docs/Toolkit/jira"
               }
             }
           ],
@@ -453,37 +525,57 @@
               },
               {
                 "type": "category",
-                "label": "Tools",
+                "label": "Toolkit",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "Tools/coding_tool"
+                    "type": "category",
+                    "label": "Image Generation Toolkit",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/Image Generation Toolkit/dalle"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/Image Generation Toolkit/stable_diffusion"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/email"
+                    "id": "Toolkit/coding_tool"
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/google_search"
+                    "id": "Toolkit/email"
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/google_serp"
+                    "id": "Toolkit/github"
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/image_generation"
+                    "id": "Toolkit/google_calender"
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/jira"
+                    "id": "Toolkit/google_search"
                   },
                   {
                     "type": "doc",
-                    "id": "Tools/webscraper"
+                    "id": "Toolkit/google_serp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Toolkit/jira"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Toolkit/webscraper"
                   }
                 ]
               }
