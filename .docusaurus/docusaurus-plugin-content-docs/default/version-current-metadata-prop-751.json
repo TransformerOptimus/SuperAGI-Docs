@@ -143,6 +143,18 @@
           },
           {
             "type": "link",
+            "label": "Searx Search Tool",
+            "href": "/docs/Toolkit/searx",
+            "docId": "Toolkit/searx"
+          },
+          {
+            "type": "link",
+            "label": "Slack Toolkit",
+            "href": "/docs/Toolkit/slack",
+            "docId": "Toolkit/slack"
+          },
+          {
+            "type": "link",
             "label": "Web Scraper Tool",
             "href": "/docs/Toolkit/webscraper",
             "docId": "Toolkit/webscraper"
@@ -252,6 +264,18 @@
       "id": "Toolkit/jira",
       "title": "Jira Tool",
       "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/searx": {
+      "id": "Toolkit/searx",
+      "title": "Searx Search Tool",
+      "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/slack": {
+      "id": "Toolkit/slack",
+      "title": "Slack Toolkit",
+      "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
       "sidebar": "tutorialSidebar"
     },
     "Toolkit/webscraper": {

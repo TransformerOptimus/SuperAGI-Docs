@@ -96,6 +96,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Toolkit/searx",
+              "path": "/docs/Toolkit/searx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/slack",
+              "path": "/docs/Toolkit/slack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Toolkit/webscraper",
               "path": "/docs/Toolkit/webscraper",
               "sidebar": "tutorialSidebar"

@@ -447,6 +447,54 @@
                 "permalink": "/docs/Toolkit/google_serp"
               },
               "next": {
+                "title": "Searx Search Tool",
+                "permalink": "/docs/Toolkit/searx"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/searx",
+              "id": "Toolkit/searx",
+              "title": "Searx Search Tool",
+              "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
+              "source": "@site/docs/Toolkit/searx.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/searx",
+              "permalink": "/docs/Toolkit/searx",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/searx.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Jira Tool",
+                "permalink": "/docs/Toolkit/jira"
+              },
+              "next": {
+                "title": "Slack Toolkit",
+                "permalink": "/docs/Toolkit/slack"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/slack",
+              "id": "Toolkit/slack",
+              "title": "Slack Toolkit",
+              "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
+              "source": "@site/docs/Toolkit/slack.md",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/slack",
+              "permalink": "/docs/Toolkit/slack",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/slack.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Searx Search Tool",
+                "permalink": "/docs/Toolkit/searx"
+              },
+              "next": {
                 "title": "Web Scraper Tool",
                 "permalink": "/docs/Toolkit/webscraper"
               }
@@ -467,8 +515,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Jira Tool",
-                "permalink": "/docs/Toolkit/jira"
+                "title": "Slack Toolkit",
+                "permalink": "/docs/Toolkit/slack"
               }
             }
           ],
@@ -572,6 +620,14 @@
                   {
                     "type": "doc",
                     "id": "Toolkit/jira"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Toolkit/searx"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Toolkit/slack"
                   },
                   {
                     "type": "doc",

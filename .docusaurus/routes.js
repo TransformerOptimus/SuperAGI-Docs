@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', 'acf'),
+    component: ComponentCreator('/docs/', '164'),
     routes: [
       {
         path: '/docs/',
@@ -145,6 +145,18 @@ export default [
       {
         path: '/docs/Toolkit/jira',
         component: ComponentCreator('/docs/Toolkit/jira', '9fb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/searx',
+        component: ComponentCreator('/docs/Toolkit/searx', '055'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/slack',
+        component: ComponentCreator('/docs/Toolkit/slack', '798'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
