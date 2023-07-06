@@ -2,9 +2,9 @@
 
 The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.
 
-## 💡 Features
+## Features
 
-1.**Create Issue:** SuperAGI's JIRA tool lets you seamlessly create new tasks in your project by defining the task's details such as its summary, description, type, and priority. 
+1. **Create Issue:** SuperAGI's JIRA tool lets you seamlessly create new tasks in your project by defining the task's details such as its summary, description, type, and priority. 
 
 2. **Edit Issue:** Modify existing tasks quickly with SuperAGI's JIRA tool, which allows you to change any task details like summary, description, type, and priority.
 
@@ -12,12 +12,7 @@ The SuperAGI Jira Tool lets users create, edit and search issues while providing
 
 4. **Get Projects:** Discover and access all your projects with ease using the 'Get Projects' feature, providing a bird's eye view of your workload and streamlining project-based searches.
 
-## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
-
-### 🔧 **Add Jira configuration settings in SuperAGI Dashboard**
+### **Add Jira configuration settings in SuperAGI Dashboard**
 Add the following configuration settings in the file:
 
 1. _JIRA API TOKEN:_

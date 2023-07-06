@@ -2,7 +2,7 @@
 
 The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.
 
-## 💡 Features
+## Features
 
 1.**Read Emails:** With SuperAGI's Email Tool, you can effortlessly manage your inbox and ensure that you never overlook a critical detail.
 
@@ -16,9 +16,9 @@ The robust SuperAGI Email Tool lets users send and read emails while providing a
 
 6.**Auto-Reply and Answer Questions:** Allow SuperAGI to read, analyse, and respond to incoming emails with precise answers to streamline your email responses.
 
-## ⚙️ Installation
+## Installation
 
-### 🔧 **Add Email configuration settings in config.yaml**
+### **Add Email configuration settings in config.yaml**
 Add the following configuration settings in the file:
 
 1. _Email address and password:_

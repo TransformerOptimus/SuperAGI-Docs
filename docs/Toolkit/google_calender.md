@@ -2,18 +2,17 @@
 
 Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:
 
+## Features
+
 1. **Create Calendar Events**
+
 2. **List your Calendar Events**
+
 3. **Fetch an event from your Calendar**
+
 4. **Delete Calendar Events**
 
-## ⚙️ Installation
-
-### ⚒️ Setting up of SuperAGI
-
-Set up SuperAGI by following the instructions given [here](https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
-
-# ✅ Quickstart Guide:
+# Quickstart Guide:
 
 In order to get started with integrating Google Calendar with SuperAGI, you need to do the following:
 
@@ -57,7 +56,7 @@ In order to get started with integrating Google Calendar with SuperAGI, you need
 
 ![](https://github.com/Phoenix2809/SuperAGI/assets/92881074/9e540069-387e-407f-a4e2-bcd0ca0070aa)
 
-## 🔧 Configuring endpoints & obtaining Client ID and Client Secret Key
+## Configuring endpoints & obtaining Client ID and Client Secret Key
 
 In order to obtain the Client ID and Secret ID, you need to do the following steps: 
 

@@ -2,16 +2,11 @@
 
 The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.
 
-## 💡 Features
+## Features
 
 1. **Customizable Prompts:** Users can input their own prompts to guide the image generation process, allowing for a wide range of creative possibilities.
 
 2. **High-quality Image Output:** The tool utilizes DALL-E's advanced capabilities to generate high-quality images that match the user's prompts.
-
-## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
 
 If you've put the correct OpenAI key during the installation, you'd be able to use the Image Generation tool as well.
 

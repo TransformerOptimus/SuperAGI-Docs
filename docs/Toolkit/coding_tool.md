@@ -2,7 +2,7 @@
 
 The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.
 
-## 💡 Features
+## Features
 
 1. **Write Code:** With SuperAGI's Coding Tool, writing new code is a streamlined and effortless process, making your programming tasks much simpler.
 

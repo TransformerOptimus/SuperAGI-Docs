@@ -2,7 +2,7 @@
 
 The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.
 
-### 🔧 **Add Google Serp Search API Key in SuperAGI Dashboard**
+### **Add Google Serp Search API Key in SuperAGI Dashboard**
 
 1. Register an account verifying your email and phone number.
 

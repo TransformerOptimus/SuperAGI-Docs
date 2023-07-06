@@ -4,13 +4,7 @@ Introducing Stable Diffusion Integration with SuperAGI
 
 You can now use SuperAGI to summon Stable Diffusion to create true-to-life images which opens up a whole new range of possibilities. 
 
-# ⚙️ Installation
-
-## 🛠️ Setting up SuperAGI
-
-Set up SuperAGI by following the instruction given [here](https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
-
-## 🔧Configuring API from DreamStudio
+## Configuring API from DreamStudio
 
 You can now get your API Key from Dream Studio to use Stable Diffusion by following the instructions below: 
 
@@ -24,7 +18,7 @@ You can now get your API Key from Dream Studio to use Stable Diffusion by follow
 
 3. Copy the API Key and save it in a separate file
 
-## 🛠️Configuring Stable Diffusion with SuperAGI
+## Configuring Stable Diffusion with SuperAGI
 
 You can configure SuperAGI with Stable Diffusion using the following steps:
 

@@ -44,41 +44,11 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '9b3'),
+    component: ComponentCreator('/docs/', '58a'),
     routes: [
       {
         path: '/docs/',
         component: ComponentCreator('/docs/', '2bf'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Architecture/agent-architecture',
-        component: ComponentCreator('/docs/Architecture/agent-architecture', '805'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Architecture/ER-diagram',
-        component: ComponentCreator('/docs/Architecture/ER-diagram', '7df'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Architecture/superagi-architecture',
-        component: ComponentCreator('/docs/Architecture/superagi-architecture', '847'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Architecture/tools-architecture',
-        component: ComponentCreator('/docs/Architecture/tools-architecture', 'f73'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Architecture/workflow-architecture',
-        component: ComponentCreator('/docs/Architecture/workflow-architecture', 'b56'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

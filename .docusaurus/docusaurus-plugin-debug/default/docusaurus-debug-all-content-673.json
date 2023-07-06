@@ -20,146 +20,6 @@
           "contentPathLocalized": "D:\\SuperAGI-Docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "Architecture/agent-architecture",
-              "id": "Architecture/agent-architecture",
-              "title": "Agent Architecture",
-              "description": "Agent Architecture",
-              "source": "@site/docs/Architecture/agent_architecture.md",
-              "sourceDirName": "Architecture",
-              "slug": "/Architecture/agent-architecture",
-              "permalink": "/docs/Architecture/agent-architecture",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/agent_architecture.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2,
-                "id": "agent-architecture"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "SuperAGI Architecture",
-                "permalink": "/docs/Architecture/superagi-architecture"
-              },
-              "next": {
-                "title": "Agent Workflow Architecture",
-                "permalink": "/docs/Architecture/workflow-architecture"
-              }
-            },
-            {
-              "unversionedId": "Architecture/ER-diagram",
-              "id": "Architecture/ER-diagram",
-              "title": "ER Diagram",
-              "description": "ER Diagram",
-              "source": "@site/docs/Architecture/er_diagram.md",
-              "sourceDirName": "Architecture",
-              "slug": "/Architecture/ER-diagram",
-              "permalink": "/docs/Architecture/ER-diagram",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/er_diagram.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5,
-                "id": "ER-diagram"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tools Architecture",
-                "permalink": "/docs/Architecture/tools-architecture"
-              },
-              "next": {
-                "title": "Win/MacOS/Linux",
-                "permalink": "/docs/Installation Guide/local"
-              }
-            },
-            {
-              "unversionedId": "Architecture/superagi-architecture",
-              "id": "Architecture/superagi-architecture",
-              "title": "SuperAGI Architecture",
-              "description": "SuperAGI Architecture",
-              "source": "@site/docs/Architecture/superagi_architecture.md",
-              "sourceDirName": "Architecture",
-              "slug": "/Architecture/superagi-architecture",
-              "permalink": "/docs/Architecture/superagi-architecture",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/superagi_architecture.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1,
-                "id": "superagi-architecture"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction to SuperAGI",
-                "permalink": "/docs/"
-              },
-              "next": {
-                "title": "Agent Architecture",
-                "permalink": "/docs/Architecture/agent-architecture"
-              }
-            },
-            {
-              "unversionedId": "Architecture/tools-architecture",
-              "id": "Architecture/tools-architecture",
-              "title": "Tools Architecture",
-              "description": "Tools Architecture",
-              "source": "@site/docs/Architecture/tools_architecture.md",
-              "sourceDirName": "Architecture",
-              "slug": "/Architecture/tools-architecture",
-              "permalink": "/docs/Architecture/tools-architecture",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/tools_architecture.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4,
-                "id": "tools-architecture"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Agent Workflow Architecture",
-                "permalink": "/docs/Architecture/workflow-architecture"
-              },
-              "next": {
-                "title": "ER Diagram",
-                "permalink": "/docs/Architecture/ER-diagram"
-              }
-            },
-            {
-              "unversionedId": "Architecture/workflow-architecture",
-              "id": "Architecture/workflow-architecture",
-              "title": "Agent Workflow Architecture",
-              "description": "Agent Workflow Architecture",
-              "source": "@site/docs/Architecture/agent_workflow_architecture copy.md",
-              "sourceDirName": "Architecture",
-              "slug": "/Architecture/workflow-architecture",
-              "permalink": "/docs/Architecture/workflow-architecture",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/agent_workflow_architecture copy.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3,
-                "id": "workflow-architecture"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Agent Architecture",
-                "permalink": "/docs/Architecture/agent-architecture"
-              },
-              "next": {
-                "title": "Tools Architecture",
-                "permalink": "/docs/Architecture/tools-architecture"
-              }
-            },
-            {
               "unversionedId": "Installation Guide/gitcode",
               "id": "Installation Guide/gitcode",
               "title": "GitHub Codespaces",
@@ -202,8 +62,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ER Diagram",
-                "permalink": "/docs/Architecture/ER-diagram"
+                "title": "Introduction to SuperAGI",
+                "permalink": "/docs/"
               },
               "next": {
                 "title": "GitHub Codespaces",
@@ -231,8 +91,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "SuperAGI Architecture",
-                "permalink": "/docs/Architecture/superagi-architecture"
+                "title": "Win/MacOS/Linux",
+                "permalink": "/docs/Installation Guide/local"
               }
             },
             {
@@ -526,34 +386,6 @@
               {
                 "type": "doc",
                 "id": "superagi-home"
-              },
-              {
-                "type": "category",
-                "label": "Architecture",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Architecture/superagi-architecture"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Architecture/agent-architecture"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Architecture/workflow-architecture"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Architecture/tools-architecture"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Architecture/ER-diagram"
-                  }
-                ]
               },
               {
                 "type": "category",

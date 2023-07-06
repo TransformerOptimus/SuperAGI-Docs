@@ -2,13 +2,13 @@
 
 The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.
 
-## 💡 Features
+## Features
 
 1. **Add Files or Folders:** With SuperAGI's GitHub Tool, you can easily add files or folders to a GitHub repository
 2. **Delete Files:** Remove files from a GitHub repository effortlessly using SuperAGI's GitHub Tool. 
 3. **Search for Files or Folders:** Find specific files or folders within a GitHub repository using SuperAGI's GitHub Tool. 
 
-### 🔧 **Add GitHub Configuration Settings in SuperAGI Dashboard**
+### **Add GitHub Configuration Settings in SuperAGI Dashboard**
 
 Add the following configuration settings to the GitHub Toolkit Page:
 

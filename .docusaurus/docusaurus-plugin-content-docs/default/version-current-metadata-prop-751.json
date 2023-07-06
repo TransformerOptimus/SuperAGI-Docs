@@ -17,44 +17,6 @@
       },
       {
         "type": "category",
-        "label": "Architecture",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "SuperAGI Architecture",
-            "href": "/docs/Architecture/superagi-architecture",
-            "docId": "Architecture/superagi-architecture"
-          },
-          {
-            "type": "link",
-            "label": "Agent Architecture",
-            "href": "/docs/Architecture/agent-architecture",
-            "docId": "Architecture/agent-architecture"
-          },
-          {
-            "type": "link",
-            "label": "Agent Workflow Architecture",
-            "href": "/docs/Architecture/workflow-architecture",
-            "docId": "Architecture/workflow-architecture"
-          },
-          {
-            "type": "link",
-            "label": "Tools Architecture",
-            "href": "/docs/Architecture/tools-architecture",
-            "docId": "Architecture/tools-architecture"
-          },
-          {
-            "type": "link",
-            "label": "ER Diagram",
-            "href": "/docs/Architecture/ER-diagram",
-            "docId": "Architecture/ER-diagram"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Installation Guide",
         "collapsible": true,
         "collapsed": true,
@@ -164,36 +126,6 @@
     ]
   },
   "docs": {
-    "Architecture/agent-architecture": {
-      "id": "Architecture/agent-architecture",
-      "title": "Agent Architecture",
-      "description": "Agent Architecture",
-      "sidebar": "tutorialSidebar"
-    },
-    "Architecture/ER-diagram": {
-      "id": "Architecture/ER-diagram",
-      "title": "ER Diagram",
-      "description": "ER Diagram",
-      "sidebar": "tutorialSidebar"
-    },
-    "Architecture/superagi-architecture": {
-      "id": "Architecture/superagi-architecture",
-      "title": "SuperAGI Architecture",
-      "description": "SuperAGI Architecture",
-      "sidebar": "tutorialSidebar"
-    },
-    "Architecture/tools-architecture": {
-      "id": "Architecture/tools-architecture",
-      "title": "Tools Architecture",
-      "description": "Tools Architecture",
-      "sidebar": "tutorialSidebar"
-    },
-    "Architecture/workflow-architecture": {
-      "id": "Architecture/workflow-architecture",
-      "title": "Agent Workflow Architecture",
-      "description": "Agent Workflow Architecture",
-      "sidebar": "tutorialSidebar"
-    },
     "Installation Guide/gitcode": {
       "id": "Installation Guide/gitcode",
       "title": "GitHub Codespaces",

@@ -2,13 +2,11 @@
 
 This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.
 
-**Features:**
+## **Features:**
 
 1. Send Message - This tool gives SuperAGI the ability to send messages to Slack Channels that you have specified
 
-## 🛠️ Installation
-
-### 🔧 **Slack Configuration:**
+### **Slack Configuration:**
 
 1. Create an Application on SlackAPI Portal
     

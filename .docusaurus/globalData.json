@@ -11,31 +11,6 @@
           "mainDocId": "superagi-home",
           "docs": [
             {
-              "id": "Architecture/agent-architecture",
-              "path": "/docs/Architecture/agent-architecture",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Architecture/ER-diagram",
-              "path": "/docs/Architecture/ER-diagram",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Architecture/superagi-architecture",
-              "path": "/docs/Architecture/superagi-architecture",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Architecture/tools-architecture",
-              "path": "/docs/Architecture/tools-architecture",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Architecture/workflow-architecture",
-              "path": "/docs/Architecture/workflow-architecture",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Installation Guide/gitcode",
               "path": "/docs/Installation Guide/gitcode",
               "sidebar": "tutorialSidebar"

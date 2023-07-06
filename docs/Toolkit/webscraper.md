@@ -2,16 +2,11 @@
 
 The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.
 
-## 💡 Features
+## Features
 
 1. **URL Extraction:** The SuperAGI Web Scraper Tool can extract URLs from web pages, allowing users to collect and analyze links for further processing.
 
 2. **Text Retrieval:** The tool is capable of retrieving textual content from websites, enabling users to gather and analyze data from various sources.
-
-## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
 
 You'll be able to use the Web Scraper Tool on the fly once you have setup SuperAGI.
 
