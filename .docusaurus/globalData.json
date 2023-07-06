@@ -26,38 +26,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/coding_tool",
-              "path": "/docs/Tools/coding_tool",
+              "id": "Toolkit/coding_tool",
+              "path": "/docs/Toolkit/coding_tool",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/email",
-              "path": "/docs/Tools/email",
+              "id": "Toolkit/email",
+              "path": "/docs/Toolkit/email",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/google_search",
-              "path": "/docs/Tools/google_search",
+              "id": "Toolkit/github",
+              "path": "/docs/Toolkit/github",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/google_serp",
-              "path": "/docs/Tools/google_serp",
+              "id": "Toolkit/google_calender",
+              "path": "/docs/Toolkit/google_calender",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/image_generation",
-              "path": "/docs/Tools/image_generation",
+              "id": "Toolkit/google_search",
+              "path": "/docs/Toolkit/google_search",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/jira",
-              "path": "/docs/Tools/jira",
+              "id": "Toolkit/google_serp",
+              "path": "/docs/Toolkit/google_serp",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tools/webscraper",
-              "path": "/docs/Tools/webscraper",
+              "id": "Toolkit/Image Generation/dalle",
+              "path": "/docs/Toolkit/Image Generation/dalle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/Image Generation/stable_diffusion",
+              "path": "/docs/Toolkit/Image Generation/stable_diffusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/jira",
+              "path": "/docs/Toolkit/jira",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/searx",
+              "path": "/docs/Toolkit/searx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/slack",
+              "path": "/docs/Toolkit/slack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/webscraper",
+              "path": "/docs/Toolkit/webscraper",
               "sidebar": "tutorialSidebar"
             }
           ],

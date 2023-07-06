@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/coding_tool",
+  "id": "Toolkit/coding_tool",
+  "title": "Coding",
+  "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
+  "source": "@site/docs/Toolkit/coding_tool.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/coding_tool",
+  "permalink": "/docs/Toolkit/coding_tool",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/coding_tool.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stable Diffusion",
+    "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
+  },
+  "next": {
+    "title": "Email",
+    "permalink": "/docs/Toolkit/email"
+  }
+}

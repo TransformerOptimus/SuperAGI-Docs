@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/email",
+  "id": "Toolkit/email",
+  "title": "Email",
+  "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
+  "source": "@site/docs/Toolkit/email.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/email",
+  "permalink": "/docs/Toolkit/email",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/email.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coding",
+    "permalink": "/docs/Toolkit/coding_tool"
+  },
+  "next": {
+    "title": "GitHub",
+    "permalink": "/docs/Toolkit/github"
+  }
+}

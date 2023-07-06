@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/superagi-architecture",
+  "id": "Architecture/superagi-architecture",
+  "title": "SuperAGI Architecture",
+  "description": "SuperAGI Architecture involves the working of SuperAGI",
+  "source": "@site/docs/Architecture/SuperAGI Architecture.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/superagi-architecture",
+  "permalink": "/docs/Architecture/superagi-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/SuperAGI Architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "superagi-architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to SuperAGI",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Agent Architecture",
+    "permalink": "/docs/Architecture/agent-architecture"
+  }
+}

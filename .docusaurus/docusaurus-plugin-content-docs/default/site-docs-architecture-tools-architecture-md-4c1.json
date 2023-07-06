@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/tools-architecture",
+  "id": "Architecture/tools-architecture",
+  "title": "Tools Architecture",
+  "description": "Tools Architecture",
+  "source": "@site/docs/Architecture/tools_architecture.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/tools-architecture",
+  "permalink": "/docs/Architecture/tools-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/tools_architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "id": "tools-architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Workflow Architecture",
+    "permalink": "/docs/Architecture/workflow-architecture"
+  },
+  "next": {
+    "title": "ER Diagram",
+    "permalink": "/docs/Architecture/ER-diagram"
+  }
+}

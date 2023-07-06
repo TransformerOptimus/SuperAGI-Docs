@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/jira",
+  "id": "Toolkit/jira",
+  "title": "Jira",
+  "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+  "source": "@site/docs/Toolkit/jira.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/jira",
+  "permalink": "/docs/Toolkit/jira",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/jira.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google SERP Search",
+    "permalink": "/docs/Toolkit/google_serp"
+  },
+  "next": {
+    "title": "Searx Search",
+    "permalink": "/docs/Toolkit/searx"
+  }
+}

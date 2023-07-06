@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/Image Generation/image_generation",
+  "id": "Toolkit/Image Generation/image_generation",
+  "title": "Image Generation Tool",
+  "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+  "source": "@site/docs/Toolkit/Image Generation/image_generation.md",
+  "sourceDirName": "Toolkit/Image Generation",
+  "slug": "/Toolkit/Image Generation/image_generation",
+  "permalink": "/docs/Toolkit/Image Generation/image_generation",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/image_generation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation Guide/gitcode"
+  },
+  "next": {
+    "title": "Coding Tool",
+    "permalink": "/docs/Toolkit/coding_tool"
+  }
+}

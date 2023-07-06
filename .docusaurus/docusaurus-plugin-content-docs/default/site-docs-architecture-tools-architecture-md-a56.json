@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/workflow-architecture",
+  "id": "Architecture/workflow-architecture",
+  "title": "Agent Workflow Architecture",
+  "description": "Agent Workflow Architecture",
+  "source": "@site/docs/Architecture/ToolsArchitecture.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/workflow-architecture",
+  "permalink": "/docs/Architecture/workflow-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Architecture/ToolsArchitecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "id": "workflow-architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Architecture",
+    "permalink": "/docs/Architecture/agent-architecture"
+  },
+  "next": {
+    "title": "Agent Workflow Architecture",
+    "permalink": "/docs/Architecture/workflow-architecture"
+  }
+}
