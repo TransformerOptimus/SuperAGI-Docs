@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/email",
   "id": "Toolkit/email",
-  "title": "Email Tool",
+  "title": "Email",
   "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
   "source": "@site/docs/Toolkit/email.md",
   "sourceDirName": "Toolkit",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Coding Tool",
+    "title": "Coding",
     "permalink": "/docs/Toolkit/coding_tool"
   },
   "next": {
-    "title": "GitHub Tool",
+    "title": "GitHub",
     "permalink": "/docs/Toolkit/github"
   }
 }

@@ -2,7 +2,7 @@
   "unversionedId": "Architecture/superagi-architecture",
   "id": "Architecture/superagi-architecture",
   "title": "SuperAGI Architecture",
-  "description": "SuperAGI Architecture involves the working of SuperAGI",
+  "description": "SuperAGI Architecture",
   "source": "@site/docs/Architecture/superagi_architecture.md",
   "sourceDirName": "Architecture",
   "slug": "/Architecture/superagi-architecture",

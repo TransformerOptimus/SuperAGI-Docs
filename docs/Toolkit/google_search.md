@@ -1,4 +1,4 @@
-# Google Search Tool
+# Google Search
 
 The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.
 
@@ -9,9 +9,6 @@ The SuperAGI Google Search Tool helps users perform a Google search and extract 
 2. **Webpages Extraction:** Extract webpages from the search results for further analysis and processing.
 
 ## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
 
 If you've put the correct Google API key and Custom Search Engine ID, you'll be able to use the Google Search Tool as well.
 

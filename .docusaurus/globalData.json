@@ -81,13 +81,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/Image Generation Toolkit/dalle",
-              "path": "/docs/Toolkit/Image Generation Toolkit/dalle",
+              "id": "Toolkit/Image Generation/dalle",
+              "path": "/docs/Toolkit/Image Generation/dalle",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/Image Generation Toolkit/stable_diffusion",
-              "path": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion",
+              "id": "Toolkit/Image Generation/stable_diffusion",
+              "path": "/docs/Toolkit/Image Generation/stable_diffusion",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/google_search",
   "id": "Toolkit/google_search",
-  "title": "Google Search Tool",
+  "title": "Google Search",
   "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
   "source": "@site/docs/Toolkit/google_search.md",
   "sourceDirName": "Toolkit",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Google Calendar Tool",
+    "title": "Google Calendar",
     "permalink": "/docs/Toolkit/google_calender"
   },
   "next": {
-    "title": "Google SERP Search Tool",
+    "title": "Google SERP Search",
     "permalink": "/docs/Toolkit/google_serp"
   }
 }

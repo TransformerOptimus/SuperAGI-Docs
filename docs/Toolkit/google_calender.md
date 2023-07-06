@@ -1,4 +1,4 @@
-# Google Calendar Tool
+# Google Calendar
 
 Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:
 

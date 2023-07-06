@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/Image Generation Toolkit/stable_diffusion",
   "id": "Toolkit/Image Generation Toolkit/stable_diffusion",
-  "title": "Stable Diffusion Tool",
+  "title": "Stable Diffusion",
   "description": "Introducing Stable Diffusion Integration with SuperAGI",
   "source": "@site/docs/Toolkit/Image Generation Toolkit/stable_diffusion.md",
   "sourceDirName": "Toolkit/Image Generation Toolkit",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dall-E Tool",
+    "title": "Dall-E",
     "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle"
   },
   "next": {
-    "title": "Coding Tool",
+    "title": "Coding",
     "permalink": "/docs/Toolkit/coding_tool"
   }
 }

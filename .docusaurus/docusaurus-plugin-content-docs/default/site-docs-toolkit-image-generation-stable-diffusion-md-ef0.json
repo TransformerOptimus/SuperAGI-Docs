@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/Image Generation/stable_diffusion",
+  "id": "Toolkit/Image Generation/stable_diffusion",
+  "title": "Stable Diffusion",
+  "description": "Introducing Stable Diffusion Integration with SuperAGI",
+  "source": "@site/docs/Toolkit/Image Generation/stable_diffusion.md",
+  "sourceDirName": "Toolkit/Image Generation",
+  "slug": "/Toolkit/Image Generation/stable_diffusion",
+  "permalink": "/docs/Toolkit/Image Generation/stable_diffusion",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/stable_diffusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dall-E",
+    "permalink": "/docs/Toolkit/Image Generation/dalle"
+  },
+  "next": {
+    "title": "Coding",
+    "permalink": "/docs/Toolkit/coding_tool"
+  }
+}

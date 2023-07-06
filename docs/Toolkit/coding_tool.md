@@ -1,4 +1,4 @@
-# Coding Tool
+# Coding
 
 The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.
 
@@ -13,11 +13,6 @@ The robust SuperAGI Coding Tool lets help with their coding tasks like writing, 
 4. **Debugging:** The Coding Tool is equipped to identify and fix bugs efficiently, ensuring your code performs as intended.
 
 5. **Concept Explanation:** This feature provides clear explanations for various programming concepts, enhancing your understanding and making complex coding problems easier to solve.
-
-## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
 
 You'll be able to use the Coding Tool on the fly once you have setup SuperAGI.
 

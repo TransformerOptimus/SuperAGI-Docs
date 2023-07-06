@@ -1,4 +1,4 @@
-# Email Tool
+# Email
 
 The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.
 
@@ -17,9 +17,6 @@ The robust SuperAGI Email Tool lets users send and read emails while providing a
 6.**Auto-Reply and Answer Questions:** Allow SuperAGI to read, analyse, and respond to incoming emails with precise answers to streamline your email responses.
 
 ## ⚙️ Installation
-
-### 🛠 **Setting Up of SuperAGI**
-Set up the SuperAGI by following the instructions given (https://github.com/TransformerOptimus/SuperAGI/blob/main/README.MD)
 
 ### 🔧 **Add Email configuration settings in config.yaml**
 Add the following configuration settings in the file:
@@ -70,8 +67,6 @@ To send an email to a particular receiver, mention the receiver id in your goal.
 ![send_email](https://github.com/TransformerOptimus/SuperAGI/assets/97586318/c4dc52b9-ab68-4db3-b1f9-3431c00710c4)
 
 3. **Send an email with attachment**
-
-![goals](https://github.com/TransformerOptimus/SuperAGI/assets/97586318/286194d2-05c6-4087-82c5-640e23eeb2a8)
 
 To attach a file with your email from local device, add the path of the directory to config.yaml else you can also mention the full path of the file in the goal.
 

@@ -49,7 +49,7 @@
     },
     "content": "content---docs-markdown-page-393-8aa"
   },
-  "/docs/-164": {
+  "/docs/-9b3": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-eaa-415"
@@ -112,13 +112,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-toolkit-google-serpf-06-32d"
   },
-  "/docs/Toolkit/Image Generation Toolkit/dalle-c74": {
+  "/docs/Toolkit/Image Generation/dalle-deb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-image-generation-toolkit-dalle-666-0cb"
+    "content": "content---docs-toolkit-image-generation-dalle-931-63f"
   },
-  "/docs/Toolkit/Image Generation Toolkit/stable_diffusion-5d3": {
+  "/docs/Toolkit/Image Generation/stable_diffusion-a33": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-image-generation-toolkit-stable-diffusione-56-d52"
+    "content": "content---docs-toolkit-image-generation-stable-diffusionef-0-dd5"
   },
   "/docs/Toolkit/jira-9fb": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,8 +1,8 @@
 {
   "unversionedId": "Toolkit/google_serp",
   "id": "Toolkit/google_serp",
-  "title": "Google SERP Search Tool",
-  "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+  "title": "Google SERP Search",
+  "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
   "source": "@site/docs/Toolkit/google_serp.md",
   "sourceDirName": "Toolkit",
   "slug": "/Toolkit/google_serp",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Google Search Tool",
+    "title": "Google Search",
     "permalink": "/docs/Toolkit/google_search"
   },
   "next": {
-    "title": "Jira Tool",
+    "title": "Jira",
     "permalink": "/docs/Toolkit/jira"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/webscraper",
   "id": "Toolkit/webscraper",
-  "title": "Web Scraper Tool",
+  "title": "Web Scraper",
   "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
   "source": "@site/docs/Toolkit/webscraper.md",
   "sourceDirName": "Toolkit",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Slack Toolkit",
+    "title": "Slack",
     "permalink": "/docs/Toolkit/slack"
   }
 }

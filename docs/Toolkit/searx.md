@@ -1,4 +1,4 @@
-# Searx Search Tool
+# Searx Search
 
 The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.
 

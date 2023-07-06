@@ -79,7 +79,7 @@
               "unversionedId": "Architecture/superagi-architecture",
               "id": "Architecture/superagi-architecture",
               "title": "SuperAGI Architecture",
-              "description": "SuperAGI Architecture involves the working of SuperAGI",
+              "description": "SuperAGI Architecture",
               "source": "@site/docs/Architecture/superagi_architecture.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/superagi-architecture",
@@ -179,8 +179,8 @@
                 "permalink": "/docs/Installation Guide/local"
               },
               "next": {
-                "title": "Dall-E Tool",
-                "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle"
+                "title": "Dall-E",
+                "permalink": "/docs/Toolkit/Image Generation/dalle"
               }
             },
             {
@@ -214,7 +214,7 @@
               "unversionedId": "superagi-home",
               "id": "superagi-home",
               "title": "Introduction to SuperAGI",
-              "description": "A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+              "description": "A dev-first open source autonomous AI agent framework enabling developers to build, manage & run useful autonomous agents. You can run concurrent agents seamlessly, extend agent capabilities with tools. The agents efficiently perform a variety of tasks and continually improve their performance with each subsequent run.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -238,7 +238,7 @@
             {
               "unversionedId": "Toolkit/coding_tool",
               "id": "Toolkit/coding_tool",
-              "title": "Coding Tool",
+              "title": "Coding",
               "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
               "source": "@site/docs/Toolkit/coding_tool.md",
               "sourceDirName": "Toolkit",
@@ -251,18 +251,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Stable Diffusion Tool",
-                "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
+                "title": "Stable Diffusion",
+                "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
               },
               "next": {
-                "title": "Email Tool",
+                "title": "Email",
                 "permalink": "/docs/Toolkit/email"
               }
             },
             {
               "unversionedId": "Toolkit/email",
               "id": "Toolkit/email",
-              "title": "Email Tool",
+              "title": "Email",
               "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
               "source": "@site/docs/Toolkit/email.md",
               "sourceDirName": "Toolkit",
@@ -275,18 +275,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Coding Tool",
+                "title": "Coding",
                 "permalink": "/docs/Toolkit/coding_tool"
               },
               "next": {
-                "title": "GitHub Tool",
+                "title": "GitHub",
                 "permalink": "/docs/Toolkit/github"
               }
             },
             {
               "unversionedId": "Toolkit/github",
               "id": "Toolkit/github",
-              "title": "GitHub Tool",
+              "title": "GitHub",
               "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
               "source": "@site/docs/Toolkit/github.md",
               "sourceDirName": "Toolkit",
@@ -299,18 +299,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Email Tool",
+                "title": "Email",
                 "permalink": "/docs/Toolkit/email"
               },
               "next": {
-                "title": "Google Calendar Tool",
+                "title": "Google Calendar",
                 "permalink": "/docs/Toolkit/google_calender"
               }
             },
             {
               "unversionedId": "Toolkit/google_calender",
               "id": "Toolkit/google_calender",
-              "title": "Google Calendar Tool",
+              "title": "Google Calendar",
               "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
               "source": "@site/docs/Toolkit/google_calender.md",
               "sourceDirName": "Toolkit",
@@ -323,18 +323,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "GitHub Tool",
+                "title": "GitHub",
                 "permalink": "/docs/Toolkit/github"
               },
               "next": {
-                "title": "Google Search Tool",
+                "title": "Google Search",
                 "permalink": "/docs/Toolkit/google_search"
               }
             },
             {
               "unversionedId": "Toolkit/google_search",
               "id": "Toolkit/google_search",
-              "title": "Google Search Tool",
+              "title": "Google Search",
               "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
               "source": "@site/docs/Toolkit/google_search.md",
               "sourceDirName": "Toolkit",
@@ -347,19 +347,19 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Google Calendar Tool",
+                "title": "Google Calendar",
                 "permalink": "/docs/Toolkit/google_calender"
               },
               "next": {
-                "title": "Google SERP Search Tool",
+                "title": "Google SERP Search",
                 "permalink": "/docs/Toolkit/google_serp"
               }
             },
             {
               "unversionedId": "Toolkit/google_serp",
               "id": "Toolkit/google_serp",
-              "title": "Google SERP Search Tool",
-              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+              "title": "Google SERP Search",
+              "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
               "source": "@site/docs/Toolkit/google_serp.md",
               "sourceDirName": "Toolkit",
               "slug": "/Toolkit/google_serp",
@@ -371,25 +371,25 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Google Search Tool",
+                "title": "Google Search",
                 "permalink": "/docs/Toolkit/google_search"
               },
               "next": {
-                "title": "Jira Tool",
+                "title": "Jira",
                 "permalink": "/docs/Toolkit/jira"
               }
             },
             {
-              "unversionedId": "Toolkit/Image Generation Toolkit/dalle",
-              "id": "Toolkit/Image Generation Toolkit/dalle",
-              "title": "Dall-E Tool",
+              "unversionedId": "Toolkit/Image Generation/dalle",
+              "id": "Toolkit/Image Generation/dalle",
+              "title": "Dall-E",
               "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
-              "source": "@site/docs/Toolkit/Image Generation Toolkit/dalle.md",
-              "sourceDirName": "Toolkit/Image Generation Toolkit",
-              "slug": "/Toolkit/Image Generation Toolkit/dalle",
-              "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle",
+              "source": "@site/docs/Toolkit/Image Generation/dalle.md",
+              "sourceDirName": "Toolkit/Image Generation",
+              "slug": "/Toolkit/Image Generation/dalle",
+              "permalink": "/docs/Toolkit/Image Generation/dalle",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation Toolkit/dalle.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/dalle.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -399,38 +399,38 @@
                 "permalink": "/docs/Installation Guide/gitcode"
               },
               "next": {
-                "title": "Stable Diffusion Tool",
-                "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
+                "title": "Stable Diffusion",
+                "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
               }
             },
             {
-              "unversionedId": "Toolkit/Image Generation Toolkit/stable_diffusion",
-              "id": "Toolkit/Image Generation Toolkit/stable_diffusion",
-              "title": "Stable Diffusion Tool",
+              "unversionedId": "Toolkit/Image Generation/stable_diffusion",
+              "id": "Toolkit/Image Generation/stable_diffusion",
+              "title": "Stable Diffusion",
               "description": "Introducing Stable Diffusion Integration with SuperAGI",
-              "source": "@site/docs/Toolkit/Image Generation Toolkit/stable_diffusion.md",
-              "sourceDirName": "Toolkit/Image Generation Toolkit",
-              "slug": "/Toolkit/Image Generation Toolkit/stable_diffusion",
-              "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion",
+              "source": "@site/docs/Toolkit/Image Generation/stable_diffusion.md",
+              "sourceDirName": "Toolkit/Image Generation",
+              "slug": "/Toolkit/Image Generation/stable_diffusion",
+              "permalink": "/docs/Toolkit/Image Generation/stable_diffusion",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation Toolkit/stable_diffusion.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/stable_diffusion.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Dall-E Tool",
-                "permalink": "/docs/Toolkit/Image Generation Toolkit/dalle"
+                "title": "Dall-E",
+                "permalink": "/docs/Toolkit/Image Generation/dalle"
               },
               "next": {
-                "title": "Coding Tool",
+                "title": "Coding",
                 "permalink": "/docs/Toolkit/coding_tool"
               }
             },
             {
               "unversionedId": "Toolkit/jira",
               "id": "Toolkit/jira",
-              "title": "Jira Tool",
+              "title": "Jira",
               "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
               "source": "@site/docs/Toolkit/jira.md",
               "sourceDirName": "Toolkit",
@@ -443,18 +443,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Google SERP Search Tool",
+                "title": "Google SERP Search",
                 "permalink": "/docs/Toolkit/google_serp"
               },
               "next": {
-                "title": "Searx Search Tool",
+                "title": "Searx Search",
                 "permalink": "/docs/Toolkit/searx"
               }
             },
             {
               "unversionedId": "Toolkit/searx",
               "id": "Toolkit/searx",
-              "title": "Searx Search Tool",
+              "title": "Searx Search",
               "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
               "source": "@site/docs/Toolkit/searx.md",
               "sourceDirName": "Toolkit",
@@ -467,18 +467,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Jira Tool",
+                "title": "Jira",
                 "permalink": "/docs/Toolkit/jira"
               },
               "next": {
-                "title": "Slack Toolkit",
+                "title": "Slack",
                 "permalink": "/docs/Toolkit/slack"
               }
             },
             {
               "unversionedId": "Toolkit/slack",
               "id": "Toolkit/slack",
-              "title": "Slack Toolkit",
+              "title": "Slack",
               "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
               "source": "@site/docs/Toolkit/slack.md",
               "sourceDirName": "Toolkit",
@@ -491,18 +491,18 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Searx Search Tool",
+                "title": "Searx Search",
                 "permalink": "/docs/Toolkit/searx"
               },
               "next": {
-                "title": "Web Scraper Tool",
+                "title": "Web Scraper",
                 "permalink": "/docs/Toolkit/webscraper"
               }
             },
             {
               "unversionedId": "Toolkit/webscraper",
               "id": "Toolkit/webscraper",
-              "title": "Web Scraper Tool",
+              "title": "Web Scraper",
               "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
               "source": "@site/docs/Toolkit/webscraper.md",
               "sourceDirName": "Toolkit",
@@ -515,7 +515,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Slack Toolkit",
+                "title": "Slack",
                 "permalink": "/docs/Toolkit/slack"
               }
             }
@@ -579,17 +579,17 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "Image Generation Toolkit",
+                    "label": "Image Generation",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Toolkit/Image Generation Toolkit/dalle"
+                        "id": "Toolkit/Image Generation/dalle"
                       },
                       {
                         "type": "doc",
-                        "id": "Toolkit/Image Generation Toolkit/stable_diffusion"
+                        "id": "Toolkit/Image Generation/stable_diffusion"
                       }
                     ]
                   },

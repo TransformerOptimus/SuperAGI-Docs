@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/slack",
   "id": "Toolkit/slack",
-  "title": "Slack Toolkit",
+  "title": "Slack",
   "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
   "source": "@site/docs/Toolkit/slack.md",
   "sourceDirName": "Toolkit",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Searx Search Tool",
+    "title": "Searx Search",
     "permalink": "/docs/Toolkit/searx"
   },
   "next": {
-    "title": "Web Scraper Tool",
+    "title": "Web Scraper",
     "permalink": "/docs/Toolkit/webscraper"
   }
 }

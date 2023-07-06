@@ -1,7 +1,7 @@
 {
   "unversionedId": "Toolkit/coding_tool",
   "id": "Toolkit/coding_tool",
-  "title": "Coding Tool",
+  "title": "Coding",
   "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
   "source": "@site/docs/Toolkit/coding_tool.md",
   "sourceDirName": "Toolkit",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Stable Diffusion Tool",
-    "permalink": "/docs/Toolkit/Image Generation Toolkit/stable_diffusion"
+    "title": "Stable Diffusion",
+    "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
   },
   "next": {
-    "title": "Email Tool",
+    "title": "Email",
     "permalink": "/docs/Toolkit/email"
   }
 }

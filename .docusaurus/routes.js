@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '164'),
+    component: ComponentCreator('/docs/', '9b3'),
     routes: [
       {
         path: '/docs/',
@@ -131,14 +131,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Image Generation Toolkit/dalle',
-        component: ComponentCreator('/docs/Toolkit/Image Generation Toolkit/dalle', 'c74'),
+        path: '/docs/Toolkit/Image Generation/dalle',
+        component: ComponentCreator('/docs/Toolkit/Image Generation/dalle', 'deb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Image Generation Toolkit/stable_diffusion',
-        component: ComponentCreator('/docs/Toolkit/Image Generation Toolkit/stable_diffusion', '5d3'),
+        path: '/docs/Toolkit/Image Generation/stable_diffusion',
+        component: ComponentCreator('/docs/Toolkit/Image Generation/stable_diffusion', 'a33'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
