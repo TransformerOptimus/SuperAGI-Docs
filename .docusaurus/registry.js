@@ -1,4 +1,5 @@
 export default {
+
   '__comp---theme-debug-config-23-a-2ff': [() => import(/* webpackChunkName: '__comp---theme-debug-config-23-a-2ff' */ '@theme/DebugConfig'), '@theme/DebugConfig', require.resolveWeak('@theme/DebugConfig')],
   '__comp---theme-debug-contentba-8-ce7': [() => import(/* webpackChunkName: '__comp---theme-debug-contentba-8-ce7' */ '@theme/DebugContent'), '@theme/DebugContent', require.resolveWeak('@theme/DebugContent')],
   '__comp---theme-debug-global-dataede-0fa': [() => import(/* webpackChunkName: '__comp---theme-debug-global-dataede-0fa' */ '@theme/DebugGlobalData'), '@theme/DebugGlobalData', require.resolveWeak('@theme/DebugGlobalData')],
