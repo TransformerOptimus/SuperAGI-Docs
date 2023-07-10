@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Installation Guide/index",
+              "path": "/docs/Installation Guide/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Installation Guide/local",
               "path": "/docs/Installation Guide/local",
               "sidebar": "tutorialSidebar"
@@ -61,8 +66,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Toolkit/Image Generation/index",
+              "path": "/docs/Toolkit/Image Generation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Toolkit/Image Generation/stable_diffusion",
               "path": "/docs/Toolkit/Image Generation/stable_diffusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/index",
+              "path": "/docs/Toolkit/",
               "sidebar": "tutorialSidebar"
             },
             {

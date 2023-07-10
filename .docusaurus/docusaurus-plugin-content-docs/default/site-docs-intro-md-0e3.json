@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Win/MacOS/Linux",
-    "permalink": "/docs/Installation Guide/local"
+    "title": "Installation",
+    "permalink": "/docs/Installation Guide/"
   }
 }

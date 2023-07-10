@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction to SuperAGI",
-    "permalink": "/docs/"
+    "title": "Installation",
+    "permalink": "/docs/Installation Guide/"
   },
   "next": {
     "title": "GitHub Codespaces",

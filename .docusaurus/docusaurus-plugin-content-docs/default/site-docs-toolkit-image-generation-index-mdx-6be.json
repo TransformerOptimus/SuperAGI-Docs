@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/Image Generation/index",
+  "id": "Toolkit/Image Generation/index",
+  "title": "Image Generation",
+  "description": "",
+  "source": "@site/docs/Toolkit/Image Generation/index.mdx",
+  "sourceDirName": "Toolkit/Image Generation",
+  "slug": "/Toolkit/Image Generation/",
+  "permalink": "/docs/Toolkit/Image Generation/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toolkit",
+    "permalink": "/docs/Toolkit/"
+  },
+  "next": {
+    "title": "Dall-E",
+    "permalink": "/docs/Toolkit/Image Generation/dalle"
+  }
+}

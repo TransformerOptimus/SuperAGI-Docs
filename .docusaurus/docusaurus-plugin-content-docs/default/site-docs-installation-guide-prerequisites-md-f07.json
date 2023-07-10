@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation Guide/prerequisites",
+  "id": "Installation Guide/prerequisites",
+  "title": "prerequisites",
+  "description": "",
+  "source": "@site/docs/Installation Guide/prerequisites.md",
+  "sourceDirName": "Installation Guide",
+  "slug": "/Installation Guide/prerequisites",
+  "permalink": "/docs/Installation Guide/prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation Guide/gitcode"
+  },
+  "next": {
+    "title": "Toolkit",
+    "permalink": "/docs/Toolkit/"
+  }
+}

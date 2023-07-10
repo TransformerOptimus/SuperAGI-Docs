@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation Guide/index",
+  "id": "Installation Guide/index",
+  "title": "Installation",
+  "description": "",
+  "source": "@site/docs/Installation Guide/index.mdx",
+  "sourceDirName": "Installation Guide",
+  "slug": "/Installation Guide/",
+  "permalink": "/docs/Installation Guide/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to SuperAGI",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Win/MacOS/Linux",
+    "permalink": "/docs/Installation Guide/local"
+  }
+}

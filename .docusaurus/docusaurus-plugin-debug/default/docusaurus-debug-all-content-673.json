@@ -39,8 +39,32 @@
                 "permalink": "/docs/Installation Guide/local"
               },
               "next": {
-                "title": "Dall-E",
-                "permalink": "/docs/Toolkit/Image Generation/dalle"
+                "title": "Toolkit",
+                "permalink": "/docs/Toolkit/"
+              }
+            },
+            {
+              "unversionedId": "Installation Guide/index",
+              "id": "Installation Guide/index",
+              "title": "Installation",
+              "description": "",
+              "source": "@site/docs/Installation Guide/index.mdx",
+              "sourceDirName": "Installation Guide",
+              "slug": "/Installation Guide/",
+              "permalink": "/docs/Installation Guide/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to SuperAGI",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Win/MacOS/Linux",
+                "permalink": "/docs/Installation Guide/local"
               }
             },
             {
@@ -62,8 +86,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction to SuperAGI",
-                "permalink": "/docs/"
+                "title": "Installation",
+                "permalink": "/docs/Installation Guide/"
               },
               "next": {
                 "title": "GitHub Codespaces",
@@ -91,8 +115,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Win/MacOS/Linux",
-                "permalink": "/docs/Installation Guide/local"
+                "title": "Installation",
+                "permalink": "/docs/Installation Guide/"
               }
             },
             {
@@ -255,12 +279,36 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "GitHub Codespaces",
-                "permalink": "/docs/Installation Guide/gitcode"
+                "title": "Image Generation",
+                "permalink": "/docs/Toolkit/Image Generation/"
               },
               "next": {
                 "title": "Stable Diffusion",
                 "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/Image Generation/index",
+              "id": "Toolkit/Image Generation/index",
+              "title": "Image Generation",
+              "description": "",
+              "source": "@site/docs/Toolkit/Image Generation/index.mdx",
+              "sourceDirName": "Toolkit/Image Generation",
+              "slug": "/Toolkit/Image Generation/",
+              "permalink": "/docs/Toolkit/Image Generation/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Toolkit",
+                "permalink": "/docs/Toolkit/"
+              },
+              "next": {
+                "title": "Dall-E",
+                "permalink": "/docs/Toolkit/Image Generation/dalle"
               }
             },
             {
@@ -285,6 +333,30 @@
               "next": {
                 "title": "Coding",
                 "permalink": "/docs/Toolkit/coding_tool"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/index",
+              "id": "Toolkit/index",
+              "title": "Toolkit",
+              "description": "",
+              "source": "@site/docs/Toolkit/index.mdx",
+              "sourceDirName": "Toolkit",
+              "slug": "/Toolkit/",
+              "permalink": "/docs/Toolkit/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub Codespaces",
+                "permalink": "/docs/Installation Guide/gitcode"
+              },
+              "next": {
+                "title": "Image Generation",
+                "permalink": "/docs/Toolkit/Image Generation/"
               }
             },
             {
@@ -389,7 +461,7 @@
               },
               {
                 "type": "category",
-                "label": "Installation Guide",
+                "label": "Installation",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -401,7 +473,11 @@
                     "type": "doc",
                     "id": "Installation Guide/gitcode"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "Installation Guide/index"
+                }
               },
               {
                 "type": "category",
@@ -423,7 +499,11 @@
                         "type": "doc",
                         "id": "Toolkit/Image Generation/stable_diffusion"
                       }
-                    ]
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Toolkit/Image Generation/index"
+                    }
                   },
                   {
                     "type": "doc",
@@ -465,7 +545,11 @@
                     "type": "doc",
                     "id": "Toolkit/webscraper"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "Toolkit/index"
+                }
               }
             ]
           }
