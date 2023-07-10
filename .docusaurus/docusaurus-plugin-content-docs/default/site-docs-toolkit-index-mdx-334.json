@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/index",
+  "id": "Toolkit/index",
+  "title": "Toolkit",
+  "description": "",
+  "source": "@site/docs/Toolkit/index.mdx",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/",
+  "permalink": "/docs/Toolkit/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation Guide/gitcode"
+  },
+  "next": {
+    "title": "Image Generation",
+    "permalink": "/docs/Toolkit/Image Generation/"
+  }
+}

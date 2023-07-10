@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "GitHub Codespaces",
-    "permalink": "/docs/Installation Guide/gitcode"
+    "title": "Image Generation",
+    "permalink": "/docs/Toolkit/Image Generation/"
   },
   "next": {
     "title": "Stable Diffusion",

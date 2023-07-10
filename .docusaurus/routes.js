@@ -44,11 +44,17 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '58a'),
+    component: ComponentCreator('/docs/', '85a'),
     routes: [
       {
         path: '/docs/',
         component: ComponentCreator('/docs/', '2bf'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation Guide/',
+        component: ComponentCreator('/docs/Installation Guide/', '9bf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -61,6 +67,12 @@ export default [
       {
         path: '/docs/Installation Guide/local',
         component: ComponentCreator('/docs/Installation Guide/local', 'e59'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/',
+        component: ComponentCreator('/docs/Toolkit/', '1d4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -97,6 +109,12 @@ export default [
       {
         path: '/docs/Toolkit/google_serp',
         component: ComponentCreator('/docs/Toolkit/google_serp', '411'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/Image Generation/',
+        component: ComponentCreator('/docs/Toolkit/Image Generation/', '738'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
