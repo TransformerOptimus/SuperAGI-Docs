@@ -17,6 +17,11 @@
       "name": "@docusaurus/plugin-content-pages",
       "version": "2.4.1"
     },
+    "docusaurus-plugin-google-gtag": {
+      "type": "package",
+      "name": "@docusaurus/plugin-google-gtag",
+      "version": "2.4.1"
+    },
     "docusaurus-plugin-sitemap": {
       "type": "package",
       "name": "@docusaurus/plugin-sitemap",

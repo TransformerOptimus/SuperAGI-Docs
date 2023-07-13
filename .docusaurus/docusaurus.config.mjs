@@ -36,6 +36,10 @@ export default {
         },
         "theme": {
           "customCss": "D:\\SuperAGI-Docs\\src\\css\\custom.css"
+        },
+        "gtag": {
+          "trackingID": "G-41SSL05Z94",
+          "anonymizeIP": true
         }
       }
     ]

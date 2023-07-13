@@ -1,4 +1,13 @@
 {
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-41SSL05Z94"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs/",
