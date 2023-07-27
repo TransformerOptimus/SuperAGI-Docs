@@ -245,6 +245,30 @@
                 "permalink": "/docs/Core Components/Agents/agent_schedule"
               },
               "next": {
+                "title": "Agent Performance Monitoring",
+                "permalink": "/docs/Core Components/Agents/apm"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/apm",
+              "id": "Core Components/Agents/apm",
+              "title": "Agent Performance Monitoring",
+              "description": "APM is the analytics dashboard that gives detailed insights into all the agents, models, tokens, runs, etc.",
+              "source": "@site/docs/Core Components/Agents/apm.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/apm",
+              "permalink": "/docs/Core Components/Agents/apm",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/apm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent type",
+                "permalink": "/docs/Core Components/Agents/agent_type"
+              },
+              "next": {
                 "title": "Delete Agent",
                 "permalink": "/docs/Core Components/Agents/delete_agent"
               }
@@ -265,8 +289,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Agent type",
-                "permalink": "/docs/Core Components/Agents/agent_type"
+                "title": "Agent Performance Monitoring",
+                "permalink": "/docs/Core Components/Agents/apm"
               },
               "next": {
                 "title": "Edit Agent Template",
@@ -1199,6 +1223,10 @@
                       {
                         "type": "doc",
                         "id": "Core Components/Agents/agent_type"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/apm"
                       },
                       {
                         "type": "doc",

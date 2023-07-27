@@ -65,6 +65,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Core Components/Agents/apm",
+              "path": "/docs/Core Components/Agents/apm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Core Components/Agents/delete_agent",
               "path": "/docs/Core Components/Agents/delete_agent",
               "sidebar": "tutorialSidebar"

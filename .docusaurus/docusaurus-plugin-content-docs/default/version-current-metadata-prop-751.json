@@ -110,6 +110,12 @@
               },
               {
                 "type": "link",
+                "label": "Agent Performance Monitoring",
+                "href": "/docs/Core Components/Agents/apm",
+                "docId": "Core Components/Agents/apm"
+              },
+              {
+                "type": "link",
                 "label": "Delete Agent",
                 "href": "/docs/Core Components/Agents/delete_agent",
                 "docId": "Core Components/Agents/delete_agent"
@@ -360,6 +366,12 @@
       "id": "Core Components/Agents/agent_type",
       "title": "Agent type",
       "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/apm": {
+      "id": "Core Components/Agents/apm",
+      "title": "Agent Performance Monitoring",
+      "description": "APM is the analytics dashboard that gives detailed insights into all the agents, models, tokens, runs, etc.",
       "sidebar": "tutorialSidebar"
     },
     "Core Components/Agents/delete_agent": {

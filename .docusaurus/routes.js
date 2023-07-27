@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', 'ae9'),
+    component: ComponentCreator('/docs/', '5ee'),
     routes: [
       {
         path: '/docs/',
@@ -80,6 +80,12 @@ export default [
       {
         path: '/docs/Core Components/Agents/agent_type',
         component: ComponentCreator('/docs/Core Components/Agents/agent_type', '09a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/apm',
+        component: ComponentCreator('/docs/Core Components/Agents/apm', 'efe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

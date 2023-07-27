@@ -18,7 +18,7 @@
     "permalink": "/docs/Core Components/Agents/agent_schedule"
   },
   "next": {
-    "title": "Delete Agent",
-    "permalink": "/docs/Core Components/Agents/delete_agent"
+    "title": "Agent Performance Monitoring",
+    "permalink": "/docs/Core Components/Agents/apm"
   }
 }

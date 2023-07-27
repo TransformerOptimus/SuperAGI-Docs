@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Agent type",
-    "permalink": "/docs/Core Components/Agents/agent_type"
+    "title": "Agent Performance Monitoring",
+    "permalink": "/docs/Core Components/Agents/apm"
   },
   "next": {
     "title": "Edit Agent Template",

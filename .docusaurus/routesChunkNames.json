@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/docs/-ae9": {
+  "/docs/-5ee": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "eaa68edf"
@@ -60,6 +60,10 @@
   "/docs/Core Components/Agents/agent_type-09a": {
     "__comp": "17896441",
     "content": "fea11035"
+  },
+  "/docs/Core Components/Agents/apm-efe": {
+    "__comp": "17896441",
+    "content": "c9d169c6"
   },
   "/docs/Core Components/Agents/delete_agent-b91": {
     "__comp": "17896441",
