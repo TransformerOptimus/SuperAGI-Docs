@@ -1,7 +1,6 @@
-<p align="center">
-
-### Documentation of
-</p>
+<h2 align="center">
+Documentation of
+</h2>
 
 <p align="center">
   <a href="https://superagi.com//#gh-light-mode-only">
