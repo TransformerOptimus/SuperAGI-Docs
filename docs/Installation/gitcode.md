@@ -3,8 +3,6 @@ sidebar_position: 3
 ---
 
 # GitHub Codespaces
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/iSPHZ1onQ44?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 1. Open the SuperAGI GitHub repository `https://github.com/TransformerOptimus/SuperAGI/` and click on `Code > Codespaces > Create new codespace`
 2. Navigate to the directory and create a copy of `config_template.yaml` and name it `config.yaml`.
