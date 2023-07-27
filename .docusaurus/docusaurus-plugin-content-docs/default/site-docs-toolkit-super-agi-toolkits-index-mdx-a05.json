@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/index",
+  "id": "Toolkit/SuperAGI Toolkits/index",
+  "title": "SuperAGI's Toolkits",
+  "description": "With ready-to-use toolkits available out of the box on SuperAGI’s ecosystem, toolkits provide you with the following advantages:",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/index.mdx",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to add a Custom Toolkit",
+    "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+  },
+  "next": {
+    "title": "Image Generation",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/"
+  }
+}

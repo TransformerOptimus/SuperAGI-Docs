@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/instagram",
+  "id": "Toolkit/SuperAGI Toolkits/instagram",
+  "title": "Instagram",
+  "description": "The SuperAGI Instagram Tool works with the stable diffusion tool, generates an image & caption based on the goals defined by the user and posts it on their instagram business account. Currently will only work on the Cloud Version",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/instagram.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/instagram",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/instagram",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/instagram.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google SERP Search",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_serp"
+  },
+  "next": {
+    "title": "Jira",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
+  }
+}

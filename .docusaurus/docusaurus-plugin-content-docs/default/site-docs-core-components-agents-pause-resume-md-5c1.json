@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Agents/pause_resume",
+  "id": "Core Components/Agents/pause_resume",
+  "title": "Pause & Resume an Agent",
+  "description": "You can pause an agent during the middle of a run of resume a paused agent if you would like the agent to continue operating.",
+  "source": "@site/docs/Core Components/Agents/pause_resume.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/pause_resume",
+  "permalink": "/docs/Core Components/Agents/pause_resume",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/pause_resume.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Feed",
+    "permalink": "/docs/Core Components/Agents/agent_feed"
+  },
+  "next": {
+    "title": "Agent New Run",
+    "permalink": "/docs/Core Components/Agents/agent_newrun"
+  }
+}

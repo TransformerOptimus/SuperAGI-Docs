@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/docs/-85a": {
+  "/docs/-ae9": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "eaa68edf"
@@ -17,72 +17,176 @@
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/Installation Guide/-9bf": {
+  "/docs/benchmark-b3f": {
     "__comp": "17896441",
-    "content": "ab9b5c6f"
+    "content": "9d965dc0"
   },
-  "/docs/Installation Guide/gitcode-28d": {
+  "/docs/Contribute/-4df": {
     "__comp": "17896441",
-    "content": "1e60679b"
+    "content": "791fe6c2"
   },
-  "/docs/Installation Guide/local-e59": {
+  "/docs/Contribute/contribute_code-e4a": {
     "__comp": "17896441",
-    "content": "1712804a"
+    "content": "0da94253"
   },
-  "/docs/Toolkit/-1d4": {
+  "/docs/Core Components/-84f": {
     "__comp": "17896441",
-    "content": "334efd32"
+    "content": "d483291e"
   },
-  "/docs/Toolkit/coding_tool-b54": {
+  "/docs/Core Components/Agents/-7cb": {
     "__comp": "17896441",
-    "content": "30c8481f"
+    "content": "30ff9d7c"
   },
-  "/docs/Toolkit/email-e57": {
+  "/docs/Core Components/Agents/agent_details-95c": {
     "__comp": "17896441",
-    "content": "3d8943a1"
+    "content": "e94dde4e"
   },
-  "/docs/Toolkit/github-601": {
+  "/docs/Core Components/Agents/agent_feed-b69": {
     "__comp": "17896441",
-    "content": "e10299f8"
+    "content": "1fa1d607"
   },
-  "/docs/Toolkit/google_calender-208": {
+  "/docs/Core Components/Agents/agent_newrun-abe": {
     "__comp": "17896441",
-    "content": "818b8ea4"
+    "content": "bf516a20"
   },
-  "/docs/Toolkit/google_search-40b": {
+  "/docs/Core Components/Agents/agent_provisioning-5f0": {
     "__comp": "17896441",
-    "content": "284ba151"
+    "content": "7bb77681"
   },
-  "/docs/Toolkit/google_serp-411": {
+  "/docs/Core Components/Agents/agent_schedule-328": {
     "__comp": "17896441",
-    "content": "f0655ddb"
+    "content": "3a6fd89f"
   },
-  "/docs/Toolkit/Image Generation/-738": {
+  "/docs/Core Components/Agents/agent_type-09a": {
     "__comp": "17896441",
-    "content": "6be744fd"
+    "content": "fea11035"
   },
-  "/docs/Toolkit/Image Generation/dalle-deb": {
+  "/docs/Core Components/Agents/delete_agent-b91": {
     "__comp": "17896441",
-    "content": "9315eaf4"
+    "content": "7efce611"
   },
-  "/docs/Toolkit/Image Generation/stable_diffusion-a33": {
+  "/docs/Core Components/Agents/edit_agent_template-ca9": {
     "__comp": "17896441",
-    "content": "ef0ec36c"
+    "content": "6e2dc67f"
   },
-  "/docs/Toolkit/jira-9fb": {
+  "/docs/Core Components/Agents/pause_resume-d51": {
     "__comp": "17896441",
-    "content": "f0949d8f"
+    "content": "5c1600a7"
   },
-  "/docs/Toolkit/searx-055": {
+  "/docs/Core Components/Agents/run_history-9f1": {
     "__comp": "17896441",
-    "content": "f5218af0"
+    "content": "306b5e1a"
   },
-  "/docs/Toolkit/slack-798": {
+  "/docs/Core Components/resourcemanager-f31": {
     "__comp": "17896441",
-    "content": "cf58208f"
+    "content": "b5aa5c3a"
   },
-  "/docs/Toolkit/webscraper-3bf": {
+  "/docs/Installation/-5bb": {
     "__comp": "17896441",
-    "content": "34e92df5"
+    "content": "beebaad6"
+  },
+  "/docs/Installation/cloud-de8": {
+    "__comp": "17896441",
+    "content": "4160ff4f"
+  },
+  "/docs/Installation/docker-7aa": {
+    "__comp": "17896441",
+    "content": "3b941570"
+  },
+  "/docs/Installation/gitcode-c87": {
+    "__comp": "17896441",
+    "content": "0c5defec"
+  },
+  "/docs/Installation/prerequisites-3fa": {
+    "__comp": "17896441",
+    "content": "76a268bf"
+  },
+  "/docs/Marketplace/-0fd": {
+    "__comp": "17896441",
+    "content": "b96bff6f"
+  },
+  "/docs/Marketplace/agent_template_marketplace-45b": {
+    "__comp": "17896441",
+    "content": "62237e8e"
+  },
+  "/docs/Marketplace/toolkit_marketplace-bf7": {
+    "__comp": "17896441",
+    "content": "62ba9268"
+  },
+  "/docs/Toolkit/-36b": {
+    "__comp": "17896441",
+    "content": "50337adc"
+  },
+  "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit-178": {
+    "__comp": "17896441",
+    "content": "590864cf"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/-144": {
+    "__comp": "17896441",
+    "content": "a0507036"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/coding_tool-2d7": {
+    "__comp": "17896441",
+    "content": "4c867cb9"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/duckduckgo-6b5": {
+    "__comp": "17896441",
+    "content": "9d2938d0"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/email-fbf": {
+    "__comp": "17896441",
+    "content": "d94eb7bd"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/github-f2d": {
+    "__comp": "17896441",
+    "content": "d21320b1"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/google_calendar-9af": {
+    "__comp": "17896441",
+    "content": "22c2069b"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/google_search-129": {
+    "__comp": "17896441",
+    "content": "56e4d574"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/google_serp-56f": {
+    "__comp": "17896441",
+    "content": "71bb6150"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/Image Generation/-481": {
+    "__comp": "17896441",
+    "content": "15925129"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle-1d6": {
+    "__comp": "17896441",
+    "content": "01fddfde"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion-d53": {
+    "__comp": "17896441",
+    "content": "99d62167"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/instagram-1c5": {
+    "__comp": "17896441",
+    "content": "9897e9d4"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/jira-70f": {
+    "__comp": "17896441",
+    "content": "6e74905b"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/searx-e42": {
+    "__comp": "17896441",
+    "content": "3f2576f0"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/slack-328": {
+    "__comp": "17896441",
+    "content": "c0591dcf"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/twitter-21d": {
+    "__comp": "17896441",
+    "content": "2c52041a"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/webscraper-cb3": {
+    "__comp": "17896441",
+    "content": "2e652882"
   }
 }

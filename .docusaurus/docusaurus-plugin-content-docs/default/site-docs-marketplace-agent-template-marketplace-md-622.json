@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Marketplace/agent_template_marketplace",
+  "id": "Marketplace/agent_template_marketplace",
+  "title": "Agent Template Marketplace",
+  "description": "The SuperAGI Agent Template Marketplace, offers users a curated selection of agent templates that are pre-approved by SuperAGI. Each template is designed to address specific use cases, ensuring users have a tailored starting point for a variety of tasks. With predefined attributes like Agent Name, Description, Goals, Instructions, Tool, Agent Type, and Models., these templates accelerate the agent creation process.",
+  "source": "@site/docs/Marketplace/agent_template_marketplace.md",
+  "sourceDirName": "Marketplace",
+  "slug": "/Marketplace/agent_template_marketplace",
+  "permalink": "/docs/Marketplace/agent_template_marketplace",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/agent_template_marketplace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Marketplace",
+    "permalink": "/docs/Marketplace/"
+  },
+  "next": {
+    "title": "Toolkit Marketplace",
+    "permalink": "/docs/Marketplace/toolkit_marketplace"
+  }
+}

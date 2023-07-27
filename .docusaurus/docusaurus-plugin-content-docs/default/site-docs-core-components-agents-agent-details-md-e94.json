@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Agents/agent_details",
+  "id": "Core Components/Agents/agent_details",
+  "title": "Agent Details",
+  "description": "Agent Details provide you with a complete view of the Agent’s Performance and a summary of the details you had given while provisioning an agent.",
+  "source": "@site/docs/Core Components/Agents/agent_details.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/agent_details",
+  "permalink": "/docs/Core Components/Agents/agent_details",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_details.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Provisioning",
+    "permalink": "/docs/Core Components/Agents/agent_provisioning"
+  },
+  "next": {
+    "title": "Agent Feed",
+    "permalink": "/docs/Core Components/Agents/agent_feed"
+  }
+}

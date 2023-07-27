@@ -20,64 +20,36 @@
           "contentPathLocalized": "D:\\SuperAGI-Docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "Installation Guide/gitcode",
-              "id": "Installation Guide/gitcode",
-              "title": "GitHub Codespaces",
-              "description": "1. Open the SuperAGI GitHub repository https://github.com/TransformerOptimus/SuperAGI/ and click on Code > Codespaces > Create new codespace",
-              "source": "@site/docs/Installation Guide/gitcode.md",
-              "sourceDirName": "Installation Guide",
-              "slug": "/Installation Guide/gitcode",
-              "permalink": "/docs/Installation Guide/gitcode",
+              "unversionedId": "benchmark",
+              "id": "benchmark",
+              "title": "Benchmarking",
+              "description": "| Objective           | Goals                                                                                              | Tools                                      | Models | Expected Output                                                        | Agent Output                                                | Tested | Doesn’t work | Somewhat Works | Works Perfect |",
+              "source": "@site/docs/benchmark.md",
+              "sourceDirName": ".",
+              "slug": "/benchmark",
+              "permalink": "/docs/benchmark",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/gitcode.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/benchmark.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Win/MacOS/Linux",
-                "permalink": "/docs/Installation Guide/local"
-              },
-              "next": {
-                "title": "Toolkit",
-                "permalink": "/docs/Toolkit/"
+                "title": "Contribute to Code",
+                "permalink": "/docs/Contribute/contribute_code"
               }
             },
             {
-              "unversionedId": "Installation Guide/index",
-              "id": "Installation Guide/index",
-              "title": "Installation",
-              "description": "",
-              "source": "@site/docs/Installation Guide/index.mdx",
-              "sourceDirName": "Installation Guide",
-              "slug": "/Installation Guide/",
-              "permalink": "/docs/Installation Guide/",
+              "unversionedId": "Contribute/contribute_code",
+              "id": "Contribute/contribute_code",
+              "title": "Contribute to Code",
+              "description": "First of all, thank you for taking the time to contribute to this project. We truly appreciate your contributions, whether it's bug reports, feature suggestions, or pull requests. Your time and effort are highly valued in this project. 🚀",
+              "source": "@site/docs/Contribute/contribute_code.md",
+              "sourceDirName": "Contribute",
+              "slug": "/Contribute/contribute_code",
+              "permalink": "/docs/Contribute/contribute_code",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/index.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction to SuperAGI",
-                "permalink": "/docs/"
-              },
-              "next": {
-                "title": "Win/MacOS/Linux",
-                "permalink": "/docs/Installation Guide/local"
-              }
-            },
-            {
-              "unversionedId": "Installation Guide/local",
-              "id": "Installation Guide/local",
-              "title": "Win/MacOS/Linux",
-              "description": "1. Download the repo using git clone https://github.com/TransformerOptimus/SuperAGI.git in your terminal or directly from github page in zip format.",
-              "source": "@site/docs/Installation Guide/local.md",
-              "sourceDirName": "Installation Guide",
-              "slug": "/Installation Guide/local",
-              "permalink": "/docs/Installation Guide/local",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation Guide/local.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Contribute/contribute_code.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -86,12 +58,582 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Installation",
-                "permalink": "/docs/Installation Guide/"
+                "title": "Contribute",
+                "permalink": "/docs/Contribute/"
+              },
+              "next": {
+                "title": "Benchmarking",
+                "permalink": "/docs/benchmark"
+              }
+            },
+            {
+              "unversionedId": "Contribute/index",
+              "id": "Contribute/index",
+              "title": "Contribute",
+              "description": "",
+              "source": "@site/docs/Contribute/index.md",
+              "sourceDirName": "Contribute",
+              "slug": "/Contribute/",
+              "permalink": "/docs/Contribute/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Contribute/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Toolkit Marketplace",
+                "permalink": "/docs/Marketplace/toolkit_marketplace"
+              },
+              "next": {
+                "title": "Contribute to Code",
+                "permalink": "/docs/Contribute/contribute_code"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_details",
+              "id": "Core Components/Agents/agent_details",
+              "title": "Agent Details",
+              "description": "Agent Details provide you with a complete view of the Agent’s Performance and a summary of the details you had given while provisioning an agent.",
+              "source": "@site/docs/Core Components/Agents/agent_details.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_details",
+              "permalink": "/docs/Core Components/Agents/agent_details",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_details.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent Provisioning",
+                "permalink": "/docs/Core Components/Agents/agent_provisioning"
+              },
+              "next": {
+                "title": "Agent Feed",
+                "permalink": "/docs/Core Components/Agents/agent_feed"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_feed",
+              "id": "Core Components/Agents/agent_feed",
+              "title": "Agent Feed",
+              "description": "The agent feed page provides you with complete, real-time visibility of the activities performed by the agent.",
+              "source": "@site/docs/Core Components/Agents/agent_feed.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_feed",
+              "permalink": "/docs/Core Components/Agents/agent_feed",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_feed.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent Details",
+                "permalink": "/docs/Core Components/Agents/agent_details"
+              },
+              "next": {
+                "title": "Pause & Resume an Agent",
+                "permalink": "/docs/Core Components/Agents/pause_resume"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_newrun",
+              "id": "Core Components/Agents/agent_newrun",
+              "title": "Agent New Run",
+              "description": "Agent New Run provides you with the capability to start a New Run of an Agent that has been previously provisioned.",
+              "source": "@site/docs/Core Components/Agents/agent_newrun.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_newrun",
+              "permalink": "/docs/Core Components/Agents/agent_newrun",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_newrun.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pause & Resume an Agent",
+                "permalink": "/docs/Core Components/Agents/pause_resume"
+              },
+              "next": {
+                "title": "Run History",
+                "permalink": "/docs/Core Components/Agents/run_history"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_provisioning",
+              "id": "Core Components/Agents/agent_provisioning",
+              "title": "Agent Provisioning",
+              "description": "Introduction:",
+              "source": "@site/docs/Core Components/Agents/agent_provisioning.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_provisioning",
+              "permalink": "/docs/Core Components/Agents/agent_provisioning",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_provisioning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agents",
+                "permalink": "/docs/Core Components/Agents/"
+              },
+              "next": {
+                "title": "Agent Details",
+                "permalink": "/docs/Core Components/Agents/agent_details"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_schedule",
+              "id": "Core Components/Agents/agent_schedule",
+              "title": "Agent Scheduling",
+              "description": "Agents can now be scheduled to run at a particular time and also run recursively at pre-defined timer intervals and also after ‘n’ number of run completions.",
+              "source": "@site/docs/Core Components/Agents/agent_schedule.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_schedule",
+              "permalink": "/docs/Core Components/Agents/agent_schedule",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_schedule.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run History",
+                "permalink": "/docs/Core Components/Agents/run_history"
+              },
+              "next": {
+                "title": "Agent type",
+                "permalink": "/docs/Core Components/Agents/agent_type"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/agent_type",
+              "id": "Core Components/Agents/agent_type",
+              "title": "Agent type",
+              "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
+              "source": "@site/docs/Core Components/Agents/agent_type.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/agent_type",
+              "permalink": "/docs/Core Components/Agents/agent_type",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_type.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent Scheduling",
+                "permalink": "/docs/Core Components/Agents/agent_schedule"
+              },
+              "next": {
+                "title": "Delete Agent",
+                "permalink": "/docs/Core Components/Agents/delete_agent"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/delete_agent",
+              "id": "Core Components/Agents/delete_agent",
+              "title": "Delete Agent",
+              "description": "You can delete a provisioned agent - the activity feed and run history associated with the agent.",
+              "source": "@site/docs/Core Components/Agents/delete_agent.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/delete_agent",
+              "permalink": "/docs/Core Components/Agents/delete_agent",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/delete_agent.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent type",
+                "permalink": "/docs/Core Components/Agents/agent_type"
+              },
+              "next": {
+                "title": "Edit Agent Template",
+                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/edit_agent_template",
+              "id": "Core Components/Agents/edit_agent_template",
+              "title": "Edit Agent Template",
+              "description": "You can make changes to an existing template - such as modifying the goals, instructions, toolkits, the agent type, etc.",
+              "source": "@site/docs/Core Components/Agents/edit_agent_template.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/edit_agent_template",
+              "permalink": "/docs/Core Components/Agents/edit_agent_template",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/edit_agent_template.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delete Agent",
+                "permalink": "/docs/Core Components/Agents/delete_agent"
+              },
+              "next": {
+                "title": "Resource Manager",
+                "permalink": "/docs/Core Components/resourcemanager"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/index",
+              "id": "Core Components/Agents/index",
+              "title": "Agents",
+              "description": "Agents in SuperAGI are complex systems that leverage the power of LLMs to operate independently, reason, perform tasks, and takes decisions without the constant need for human intervention.",
+              "source": "@site/docs/Core Components/Agents/index.mdx",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/",
+              "permalink": "/docs/Core Components/Agents/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Core Components",
+                "permalink": "/docs/Core Components/"
+              },
+              "next": {
+                "title": "Agent Provisioning",
+                "permalink": "/docs/Core Components/Agents/agent_provisioning"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/pause_resume",
+              "id": "Core Components/Agents/pause_resume",
+              "title": "Pause & Resume an Agent",
+              "description": "You can pause an agent during the middle of a run of resume a paused agent if you would like the agent to continue operating.",
+              "source": "@site/docs/Core Components/Agents/pause_resume.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/pause_resume",
+              "permalink": "/docs/Core Components/Agents/pause_resume",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/pause_resume.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent Feed",
+                "permalink": "/docs/Core Components/Agents/agent_feed"
+              },
+              "next": {
+                "title": "Agent New Run",
+                "permalink": "/docs/Core Components/Agents/agent_newrun"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Agents/run_history",
+              "id": "Core Components/Agents/run_history",
+              "title": "Run History",
+              "description": "The Agent Run History provides you with a view of the runs that the agent has performed. It shows the last time the agent has run and the number of calls it has made",
+              "source": "@site/docs/Core Components/Agents/run_history.md",
+              "sourceDirName": "Core Components/Agents",
+              "slug": "/Core Components/Agents/run_history",
+              "permalink": "/docs/Core Components/Agents/run_history",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/run_history.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent New Run",
+                "permalink": "/docs/Core Components/Agents/agent_newrun"
+              },
+              "next": {
+                "title": "Agent Scheduling",
+                "permalink": "/docs/Core Components/Agents/agent_schedule"
+              }
+            },
+            {
+              "unversionedId": "Core Components/index",
+              "id": "Core Components/index",
+              "title": "Core Components",
+              "description": "",
+              "source": "@site/docs/Core Components/index.md",
+              "sourceDirName": "Core Components",
+              "slug": "/Core Components/",
+              "permalink": "/docs/Core Components/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SuperAGI Cloud",
+                "permalink": "/docs/Installation/cloud"
+              },
+              "next": {
+                "title": "Agents",
+                "permalink": "/docs/Core Components/Agents/"
+              }
+            },
+            {
+              "unversionedId": "Core Components/resourcemanager",
+              "id": "Core Components/resourcemanager",
+              "title": "Resource Manager",
+              "description": "Introduction",
+              "source": "@site/docs/Core Components/resourcemanager.md",
+              "sourceDirName": "Core Components",
+              "slug": "/Core Components/resourcemanager",
+              "permalink": "/docs/Core Components/resourcemanager",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/resourcemanager.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edit Agent Template",
+                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+              },
+              "next": {
+                "title": "Toolkits",
+                "permalink": "/docs/Toolkit/"
+              }
+            },
+            {
+              "unversionedId": "Installation/cloud",
+              "id": "Installation/cloud",
+              "title": "SuperAGI Cloud",
+              "description": "1. Navigate to app.superagi.com",
+              "source": "@site/docs/Installation/cloud.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/cloud",
+              "permalink": "/docs/Installation/cloud",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/cloud.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub Codespaces",
+                "permalink": "/docs/Installation/gitcode"
+              },
+              "next": {
+                "title": "Core Components",
+                "permalink": "/docs/Core Components/"
+              }
+            },
+            {
+              "unversionedId": "Installation/docker",
+              "id": "Installation/docker",
+              "title": "Docker",
+              "description": "1. Download the repo using git clone https://github.com/TransformerOptimus/SuperAGI.git in your terminal or directly from GitHub page in a zip format.",
+              "source": "@site/docs/Installation/docker.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/docker",
+              "permalink": "/docs/Installation/docker",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/docker.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/docs/Installation/prerequisites"
               },
               "next": {
                 "title": "GitHub Codespaces",
-                "permalink": "/docs/Installation Guide/gitcode"
+                "permalink": "/docs/Installation/gitcode"
+              }
+            },
+            {
+              "unversionedId": "Installation/gitcode",
+              "id": "Installation/gitcode",
+              "title": "GitHub Codespaces",
+              "description": "1. Open the SuperAGI GitHub repository https://github.com/TransformerOptimus/SuperAGI/ and click on Code > Codespaces > Create new codespace",
+              "source": "@site/docs/Installation/gitcode.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/gitcode",
+              "permalink": "/docs/Installation/gitcode",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/gitcode.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docker",
+                "permalink": "/docs/Installation/docker"
+              },
+              "next": {
+                "title": "SuperAGI Cloud",
+                "permalink": "/docs/Installation/cloud"
+              }
+            },
+            {
+              "unversionedId": "Installation/index",
+              "id": "Installation/index",
+              "title": "Getting Started",
+              "description": "",
+              "source": "@site/docs/Installation/index.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/",
+              "permalink": "/docs/Installation/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to SuperAGI",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Prerequisites",
+                "permalink": "/docs/Installation/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "Installation/prerequisites",
+              "id": "Installation/prerequisites",
+              "title": "Prerequisites",
+              "description": "You will require an API key for the LLM to  get started with your first agent. In this tutorial, you will learn how to obtain the OpenAI's API Key.",
+              "source": "@site/docs/Installation/prerequisites.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/prerequisites",
+              "permalink": "/docs/Installation/prerequisites",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/prerequisites.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/Installation/"
+              },
+              "next": {
+                "title": "Docker",
+                "permalink": "/docs/Installation/docker"
+              }
+            },
+            {
+              "unversionedId": "Marketplace/agent_template_marketplace",
+              "id": "Marketplace/agent_template_marketplace",
+              "title": "Agent Template Marketplace",
+              "description": "The SuperAGI Agent Template Marketplace, offers users a curated selection of agent templates that are pre-approved by SuperAGI. Each template is designed to address specific use cases, ensuring users have a tailored starting point for a variety of tasks. With predefined attributes like Agent Name, Description, Goals, Instructions, Tool, Agent Type, and Models., these templates accelerate the agent creation process.",
+              "source": "@site/docs/Marketplace/agent_template_marketplace.md",
+              "sourceDirName": "Marketplace",
+              "slug": "/Marketplace/agent_template_marketplace",
+              "permalink": "/docs/Marketplace/agent_template_marketplace",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/agent_template_marketplace.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Marketplace",
+                "permalink": "/docs/Marketplace/"
+              },
+              "next": {
+                "title": "Toolkit Marketplace",
+                "permalink": "/docs/Marketplace/toolkit_marketplace"
+              }
+            },
+            {
+              "unversionedId": "Marketplace/index",
+              "id": "Marketplace/index",
+              "title": "Marketplace",
+              "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+              "source": "@site/docs/Marketplace/index.md",
+              "sourceDirName": "Marketplace",
+              "slug": "/Marketplace/",
+              "permalink": "/docs/Marketplace/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Web Scraper",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+              },
+              "next": {
+                "title": "Agent Template Marketplace",
+                "permalink": "/docs/Marketplace/agent_template_marketplace"
+              }
+            },
+            {
+              "unversionedId": "Marketplace/toolkit_marketplace",
+              "id": "Marketplace/toolkit_marketplace",
+              "title": "Toolkit Marketplace",
+              "description": "The SuperAGI Toolkit Marketplace, accessible at marketplace.superagi.com, serves as a centralized repository of toolkits developed by SuperAGI. It contains a collection of specialized tools that can be integrated into the agents. By browsing the marketplace, users can access, review, and install essential tools to enhance the capabilities of their agents.",
+              "source": "@site/docs/Marketplace/toolkit_marketplace.md",
+              "sourceDirName": "Marketplace",
+              "slug": "/Marketplace/toolkit_marketplace",
+              "permalink": "/docs/Marketplace/toolkit_marketplace",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/toolkit_marketplace.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agent Template Marketplace",
+                "permalink": "/docs/Marketplace/agent_template_marketplace"
+              },
+              "next": {
+                "title": "Contribute",
+                "permalink": "/docs/Contribute/"
               }
             },
             {
@@ -115,340 +657,467 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Installation",
-                "permalink": "/docs/Installation Guide/"
+                "title": "Getting Started",
+                "permalink": "/docs/Installation/"
               }
             },
             {
-              "unversionedId": "Toolkit/coding_tool",
-              "id": "Toolkit/coding_tool",
-              "title": "Coding",
-              "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
-              "source": "@site/docs/Toolkit/coding_tool.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/coding_tool",
-              "permalink": "/docs/Toolkit/coding_tool",
+              "unversionedId": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+              "id": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+              "title": "How to add a Custom Toolkit",
+              "description": "With a few easy-to-follow steps, you can get started with building and adding your own custom Toolkits to SuperAGI:",
+              "source": "@site/docs/Toolkit/Adding Custom Toolkit/custom_toolkit.md",
+              "sourceDirName": "Toolkit/Adding Custom Toolkit",
+              "slug": "/Toolkit/Adding Custom Toolkit/custom_toolkit",
+              "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/coding_tool.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Adding Custom Toolkit/custom_toolkit.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Stable Diffusion",
-                "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
-              },
-              "next": {
-                "title": "Email",
-                "permalink": "/docs/Toolkit/email"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/email",
-              "id": "Toolkit/email",
-              "title": "Email",
-              "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
-              "source": "@site/docs/Toolkit/email.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/email",
-              "permalink": "/docs/Toolkit/email",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/email.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Coding",
-                "permalink": "/docs/Toolkit/coding_tool"
-              },
-              "next": {
-                "title": "GitHub",
-                "permalink": "/docs/Toolkit/github"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/github",
-              "id": "Toolkit/github",
-              "title": "GitHub",
-              "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
-              "source": "@site/docs/Toolkit/github.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/github",
-              "permalink": "/docs/Toolkit/github",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/github.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Email",
-                "permalink": "/docs/Toolkit/email"
-              },
-              "next": {
-                "title": "Google Calendar",
-                "permalink": "/docs/Toolkit/google_calender"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/google_calender",
-              "id": "Toolkit/google_calender",
-              "title": "Google Calendar",
-              "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
-              "source": "@site/docs/Toolkit/google_calender.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/google_calender",
-              "permalink": "/docs/Toolkit/google_calender",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_calender.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "GitHub",
-                "permalink": "/docs/Toolkit/github"
-              },
-              "next": {
-                "title": "Google Search",
-                "permalink": "/docs/Toolkit/google_search"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/google_search",
-              "id": "Toolkit/google_search",
-              "title": "Google Search",
-              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
-              "source": "@site/docs/Toolkit/google_search.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/google_search",
-              "permalink": "/docs/Toolkit/google_search",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_search.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Google Calendar",
-                "permalink": "/docs/Toolkit/google_calender"
-              },
-              "next": {
-                "title": "Google SERP Search",
-                "permalink": "/docs/Toolkit/google_serp"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/google_serp",
-              "id": "Toolkit/google_serp",
-              "title": "Google SERP Search",
-              "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
-              "source": "@site/docs/Toolkit/google_serp.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/google_serp",
-              "permalink": "/docs/Toolkit/google_serp",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/google_serp.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Google Search",
-                "permalink": "/docs/Toolkit/google_search"
-              },
-              "next": {
-                "title": "Jira",
-                "permalink": "/docs/Toolkit/jira"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/Image Generation/dalle",
-              "id": "Toolkit/Image Generation/dalle",
-              "title": "Dall-E",
-              "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
-              "source": "@site/docs/Toolkit/Image Generation/dalle.md",
-              "sourceDirName": "Toolkit/Image Generation",
-              "slug": "/Toolkit/Image Generation/dalle",
-              "permalink": "/docs/Toolkit/Image Generation/dalle",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/dalle.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Image Generation",
-                "permalink": "/docs/Toolkit/Image Generation/"
-              },
-              "next": {
-                "title": "Stable Diffusion",
-                "permalink": "/docs/Toolkit/Image Generation/stable_diffusion"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/Image Generation/index",
-              "id": "Toolkit/Image Generation/index",
-              "title": "Image Generation",
-              "description": "",
-              "source": "@site/docs/Toolkit/Image Generation/index.mdx",
-              "sourceDirName": "Toolkit/Image Generation",
-              "slug": "/Toolkit/Image Generation/",
-              "permalink": "/docs/Toolkit/Image Generation/",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/index.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Toolkit",
+                "title": "Toolkits",
                 "permalink": "/docs/Toolkit/"
               },
               "next": {
-                "title": "Dall-E",
-                "permalink": "/docs/Toolkit/Image Generation/dalle"
-              }
-            },
-            {
-              "unversionedId": "Toolkit/Image Generation/stable_diffusion",
-              "id": "Toolkit/Image Generation/stable_diffusion",
-              "title": "Stable Diffusion",
-              "description": "Introducing Stable Diffusion Integration with SuperAGI",
-              "source": "@site/docs/Toolkit/Image Generation/stable_diffusion.md",
-              "sourceDirName": "Toolkit/Image Generation",
-              "slug": "/Toolkit/Image Generation/stable_diffusion",
-              "permalink": "/docs/Toolkit/Image Generation/stable_diffusion",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Image Generation/stable_diffusion.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Dall-E",
-                "permalink": "/docs/Toolkit/Image Generation/dalle"
-              },
-              "next": {
-                "title": "Coding",
-                "permalink": "/docs/Toolkit/coding_tool"
+                "title": "SuperAGI's Toolkits",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/"
               }
             },
             {
               "unversionedId": "Toolkit/index",
               "id": "Toolkit/index",
-              "title": "Toolkit",
-              "description": "",
-              "source": "@site/docs/Toolkit/index.mdx",
+              "title": "Toolkits",
+              "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+              "source": "@site/docs/Toolkit/index.md",
               "sourceDirName": "Toolkit",
               "slug": "/Toolkit/",
               "permalink": "/docs/Toolkit/",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/index.mdx",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resource Manager",
+                "permalink": "/docs/Core Components/resourcemanager"
+              },
+              "next": {
+                "title": "How to add a Custom Toolkit",
+                "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/coding_tool",
+              "id": "Toolkit/SuperAGI Toolkits/coding_tool",
+              "title": "Coding Toolkit",
+              "description": "The Coding Toolkit lies at the heart of SuperAGI's SuperCoder - providing your agent with the ability to create a codebase from a single prompt.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/coding_tool.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/coding_tool",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/coding_tool",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/coding_tool.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "GitHub Codespaces",
-                "permalink": "/docs/Installation Guide/gitcode"
+                "title": "Stable Diffusion",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion"
               },
               "next": {
-                "title": "Image Generation",
-                "permalink": "/docs/Toolkit/Image Generation/"
+                "title": "DuckDuckGo",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo"
               }
             },
             {
-              "unversionedId": "Toolkit/jira",
-              "id": "Toolkit/jira",
-              "title": "Jira",
-              "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
-              "source": "@site/docs/Toolkit/jira.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/jira",
-              "permalink": "/docs/Toolkit/jira",
+              "unversionedId": "Toolkit/SuperAGI Toolkits/duckduckgo",
+              "id": "Toolkit/SuperAGI Toolkits/duckduckgo",
+              "title": "DuckDuckGo",
+              "description": "The SuperAGI DuckDuckGo Search Tool helps users perform a DuckDuckGo search and extract snippets and webpages.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/duckduckgo.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/duckduckgo",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/jira.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/duckduckgo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coding Toolkit",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/coding_tool"
+              },
+              "next": {
+                "title": "Email",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/email"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/email",
+              "id": "Toolkit/SuperAGI Toolkits/email",
+              "title": "Email",
+              "description": "The SuperAGI Email Tool lets users send and read emails while providing a foundation for other use cases.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/email.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/email",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/email",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/email.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DuckDuckGo",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo"
+              },
+              "next": {
+                "title": "GitHub",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/github"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/github",
+              "id": "Toolkit/SuperAGI Toolkits/github",
+              "title": "GitHub",
+              "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/github.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/github",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/github",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/github.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Email",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/email"
+              },
+              "next": {
+                "title": "Google Calendar",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_calendar"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/google_calendar",
+              "id": "Toolkit/SuperAGI Toolkits/google_calendar",
+              "title": "Google Calendar",
+              "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/google_calendar.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/google_calendar",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_calendar",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/google_calendar.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/github"
+              },
+              "next": {
+                "title": "Google Search",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_search"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/google_search",
+              "id": "Toolkit/SuperAGI Toolkits/google_search",
+              "title": "Google Search",
+              "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/google_search.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/google_search",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_search",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/google_search.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Google Calendar",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_calendar"
+              },
+              "next": {
+                "title": "Google SERP Search",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_serp"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/google_serp",
+              "id": "Toolkit/SuperAGI Toolkits/google_serp",
+              "title": "Google SERP Search",
+              "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/google_serp.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/google_serp",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_serp",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/google_serp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Google Search",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_search"
+              },
+              "next": {
+                "title": "Instagram",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/instagram"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "title": "Dall-E",
+              "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits/Image Generation",
+              "slug": "/Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Image Generation",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/"
+              },
+              "next": {
+                "title": "Stable Diffusion",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/Image Generation/index",
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/index",
+              "title": "Image Generation",
+              "description": "",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/Image Generation/index.mdx",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits/Image Generation",
+              "slug": "/Toolkit/SuperAGI Toolkits/Image Generation/",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/Image Generation/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SuperAGI's Toolkits",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/"
+              },
+              "next": {
+                "title": "Dall-E",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "title": "Stable Diffusion",
+              "description": "Introducing Stable Diffusion Integration with SuperAGI",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits/Image Generation",
+              "slug": "/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dall-E",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle"
+              },
+              "next": {
+                "title": "Coding Toolkit",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/coding_tool"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/index",
+              "id": "Toolkit/SuperAGI Toolkits/index",
+              "title": "SuperAGI's Toolkits",
+              "description": "With ready-to-use toolkits available out of the box on SuperAGI’s ecosystem, toolkits provide you with the following advantages:",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/index.mdx",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to add a Custom Toolkit",
+                "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+              },
+              "next": {
+                "title": "Image Generation",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/instagram",
+              "id": "Toolkit/SuperAGI Toolkits/instagram",
+              "title": "Instagram",
+              "description": "The SuperAGI Instagram Tool works with the stable diffusion tool, generates an image & caption based on the goals defined by the user and posts it on their instagram business account. Currently will only work on the Cloud Version",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/instagram.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/instagram",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/instagram",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/instagram.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Google SERP Search",
-                "permalink": "/docs/Toolkit/google_serp"
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/google_serp"
               },
               "next": {
-                "title": "Searx Search",
-                "permalink": "/docs/Toolkit/searx"
+                "title": "Jira",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
               }
             },
             {
-              "unversionedId": "Toolkit/searx",
-              "id": "Toolkit/searx",
+              "unversionedId": "Toolkit/SuperAGI Toolkits/jira",
+              "id": "Toolkit/SuperAGI Toolkits/jira",
+              "title": "Jira",
+              "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/jira.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/jira",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/jira.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Instagram",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/instagram"
+              },
+              "next": {
+                "title": "Searx Search",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/searx",
+              "id": "Toolkit/SuperAGI Toolkits/searx",
               "title": "Searx Search",
               "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
-              "source": "@site/docs/Toolkit/searx.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/searx",
-              "permalink": "/docs/Toolkit/searx",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/searx.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/searx",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/searx.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/searx.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Jira",
-                "permalink": "/docs/Toolkit/jira"
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
               },
               "next": {
                 "title": "Slack",
-                "permalink": "/docs/Toolkit/slack"
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack"
               }
             },
             {
-              "unversionedId": "Toolkit/slack",
-              "id": "Toolkit/slack",
+              "unversionedId": "Toolkit/SuperAGI Toolkits/slack",
+              "id": "Toolkit/SuperAGI Toolkits/slack",
               "title": "Slack",
-              "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
-              "source": "@site/docs/Toolkit/slack.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/slack",
-              "permalink": "/docs/Toolkit/slack",
+              "description": "This SuperAGI Tool lets users send messages to Slack Channels.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/slack.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/slack",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/slack.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/slack.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Searx Search",
-                "permalink": "/docs/Toolkit/searx"
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx"
               },
               "next": {
-                "title": "Web Scraper",
-                "permalink": "/docs/Toolkit/webscraper"
+                "title": "Twitter",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/twitter"
               }
             },
             {
-              "unversionedId": "Toolkit/webscraper",
-              "id": "Toolkit/webscraper",
-              "title": "Web Scraper",
-              "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
-              "source": "@site/docs/Toolkit/webscraper.md",
-              "sourceDirName": "Toolkit",
-              "slug": "/Toolkit/webscraper",
-              "permalink": "/docs/Toolkit/webscraper",
+              "unversionedId": "Toolkit/SuperAGI Toolkits/twitter",
+              "id": "Toolkit/SuperAGI Toolkits/twitter",
+              "title": "Twitter",
+              "description": "Introducing Twitter Toolkit for SuperAGI. With Twitter Integrated into SuperAGI, you can now deploy agents to",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/twitter.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/twitter",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/twitter",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/webscraper.md",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/twitter.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Slack",
-                "permalink": "/docs/Toolkit/slack"
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack"
+              },
+              "next": {
+                "title": "Web Scraper",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/webscraper",
+              "id": "Toolkit/SuperAGI Toolkits/webscraper",
+              "title": "Web Scraper",
+              "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/webscraper.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/webscraper",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/webscraper.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Twitter",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/twitter"
+              },
+              "next": {
+                "title": "Marketplace",
+                "permalink": "/docs/Marketplace/"
               }
             }
           ],
@@ -461,95 +1130,247 @@
               },
               {
                 "type": "category",
-                "label": "Installation",
+                "label": "Getting Started",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Installation Guide/local"
+                    "id": "Installation/prerequisites"
                   },
                   {
                     "type": "doc",
-                    "id": "Installation Guide/gitcode"
+                    "id": "Installation/docker"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Installation/gitcode"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Installation/cloud"
                   }
                 ],
                 "link": {
                   "type": "doc",
-                  "id": "Installation Guide/index"
+                  "id": "Installation/index"
                 }
               },
               {
                 "type": "category",
-                "label": "Toolkit",
+                "label": "Core Components",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "category",
-                    "label": "Image Generation",
+                    "label": "Agents",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Toolkit/Image Generation/dalle"
+                        "id": "Core Components/Agents/agent_provisioning"
                       },
                       {
                         "type": "doc",
-                        "id": "Toolkit/Image Generation/stable_diffusion"
+                        "id": "Core Components/Agents/agent_details"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/agent_feed"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/pause_resume"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/agent_newrun"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/run_history"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/agent_schedule"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/agent_type"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/delete_agent"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Agents/edit_agent_template"
                       }
                     ],
                     "link": {
                       "type": "doc",
-                      "id": "Toolkit/Image Generation/index"
+                      "id": "Core Components/Agents/index"
                     }
                   },
                   {
                     "type": "doc",
-                    "id": "Toolkit/coding_tool"
+                    "id": "Core Components/resourcemanager"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "Core Components/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Toolkits",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Adding Custom Toolkit",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/Adding Custom Toolkit/custom_toolkit"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "Toolkit/email"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/github"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/google_calender"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/google_search"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/google_serp"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/jira"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/searx"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/slack"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Toolkit/webscraper"
+                    "type": "category",
+                    "label": "SuperAGI's Toolkits",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Image Generation",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Toolkit/SuperAGI Toolkits/Image Generation/dalle"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion"
+                          }
+                        ],
+                        "link": {
+                          "type": "doc",
+                          "id": "Toolkit/SuperAGI Toolkits/Image Generation/index"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/coding_tool"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/duckduckgo"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/email"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/github"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/google_calendar"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/google_search"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/google_serp"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/instagram"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/jira"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/searx"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/slack"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/twitter"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/webscraper"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Toolkit/SuperAGI Toolkits/index"
+                    }
                   }
                 ],
                 "link": {
                   "type": "doc",
                   "id": "Toolkit/index"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Marketplace",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Marketplace/agent_template_marketplace"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketplace/toolkit_marketplace"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "Marketplace/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Contribute",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Contribute/contribute_code"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "Contribute/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "benchmark"
               }
             ]
           }
@@ -582,6 +1403,7 @@
     ]
   },
   "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-google-gtag": {},
   "docusaurus-theme-classic": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}

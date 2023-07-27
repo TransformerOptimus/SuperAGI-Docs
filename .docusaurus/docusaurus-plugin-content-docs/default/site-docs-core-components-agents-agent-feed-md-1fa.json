@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Agents/agent_feed",
+  "id": "Core Components/Agents/agent_feed",
+  "title": "Agent Feed",
+  "description": "The agent feed page provides you with complete, real-time visibility of the activities performed by the agent.",
+  "source": "@site/docs/Core Components/Agents/agent_feed.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/agent_feed",
+  "permalink": "/docs/Core Components/Agents/agent_feed",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_feed.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Details",
+    "permalink": "/docs/Core Components/Agents/agent_details"
+  },
+  "next": {
+    "title": "Pause & Resume an Agent",
+    "permalink": "/docs/Core Components/Agents/pause_resume"
+  }
+}

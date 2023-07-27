@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Agents/agent_newrun",
+  "id": "Core Components/Agents/agent_newrun",
+  "title": "Agent New Run",
+  "description": "Agent New Run provides you with the capability to start a New Run of an Agent that has been previously provisioned.",
+  "source": "@site/docs/Core Components/Agents/agent_newrun.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/agent_newrun",
+  "permalink": "/docs/Core Components/Agents/agent_newrun",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_newrun.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pause & Resume an Agent",
+    "permalink": "/docs/Core Components/Agents/pause_resume"
+  },
+  "next": {
+    "title": "Run History",
+    "permalink": "/docs/Core Components/Agents/run_history"
+  }
+}

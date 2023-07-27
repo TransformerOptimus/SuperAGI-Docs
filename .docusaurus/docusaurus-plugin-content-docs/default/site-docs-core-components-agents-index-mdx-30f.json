@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Agents/index",
+  "id": "Core Components/Agents/index",
+  "title": "Agents",
+  "description": "Agents in SuperAGI are complex systems that leverage the power of LLMs to operate independently, reason, perform tasks, and takes decisions without the constant need for human intervention.",
+  "source": "@site/docs/Core Components/Agents/index.mdx",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/",
+  "permalink": "/docs/Core Components/Agents/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core Components",
+    "permalink": "/docs/Core Components/"
+  },
+  "next": {
+    "title": "Agent Provisioning",
+    "permalink": "/docs/Core Components/Agents/agent_provisioning"
+  }
+}

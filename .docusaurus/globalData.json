@@ -20,18 +20,123 @@
           "mainDocId": "superagi-home",
           "docs": [
             {
-              "id": "Installation Guide/gitcode",
-              "path": "/docs/Installation Guide/gitcode",
+              "id": "benchmark",
+              "path": "/docs/benchmark",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Installation Guide/index",
-              "path": "/docs/Installation Guide/",
+              "id": "Contribute/contribute_code",
+              "path": "/docs/Contribute/contribute_code",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Installation Guide/local",
-              "path": "/docs/Installation Guide/local",
+              "id": "Contribute/index",
+              "path": "/docs/Contribute/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_details",
+              "path": "/docs/Core Components/Agents/agent_details",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_feed",
+              "path": "/docs/Core Components/Agents/agent_feed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_newrun",
+              "path": "/docs/Core Components/Agents/agent_newrun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_provisioning",
+              "path": "/docs/Core Components/Agents/agent_provisioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_schedule",
+              "path": "/docs/Core Components/Agents/agent_schedule",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/agent_type",
+              "path": "/docs/Core Components/Agents/agent_type",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/delete_agent",
+              "path": "/docs/Core Components/Agents/delete_agent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/edit_agent_template",
+              "path": "/docs/Core Components/Agents/edit_agent_template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/index",
+              "path": "/docs/Core Components/Agents/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/pause_resume",
+              "path": "/docs/Core Components/Agents/pause_resume",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/run_history",
+              "path": "/docs/Core Components/Agents/run_history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/index",
+              "path": "/docs/Core Components/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/resourcemanager",
+              "path": "/docs/Core Components/resourcemanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/cloud",
+              "path": "/docs/Installation/cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/docker",
+              "path": "/docs/Installation/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/gitcode",
+              "path": "/docs/Installation/gitcode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/index",
+              "path": "/docs/Installation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/prerequisites",
+              "path": "/docs/Installation/prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketplace/agent_template_marketplace",
+              "path": "/docs/Marketplace/agent_template_marketplace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketplace/index",
+              "path": "/docs/Marketplace/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketplace/toolkit_marketplace",
+              "path": "/docs/Marketplace/toolkit_marketplace",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -40,48 +145,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/coding_tool",
-              "path": "/docs/Toolkit/coding_tool",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/email",
-              "path": "/docs/Toolkit/email",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/github",
-              "path": "/docs/Toolkit/github",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/google_calender",
-              "path": "/docs/Toolkit/google_calender",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/google_search",
-              "path": "/docs/Toolkit/google_search",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/google_serp",
-              "path": "/docs/Toolkit/google_serp",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/Image Generation/dalle",
-              "path": "/docs/Toolkit/Image Generation/dalle",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/Image Generation/index",
-              "path": "/docs/Toolkit/Image Generation/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Toolkit/Image Generation/stable_diffusion",
-              "path": "/docs/Toolkit/Image Generation/stable_diffusion",
+              "id": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+              "path": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -90,23 +155,88 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/jira",
-              "path": "/docs/Toolkit/jira",
+              "id": "Toolkit/SuperAGI Toolkits/coding_tool",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/coding_tool",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/searx",
-              "path": "/docs/Toolkit/searx",
+              "id": "Toolkit/SuperAGI Toolkits/duckduckgo",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/slack",
-              "path": "/docs/Toolkit/slack",
+              "id": "Toolkit/SuperAGI Toolkits/email",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/email",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Toolkit/webscraper",
-              "path": "/docs/Toolkit/webscraper",
+              "id": "Toolkit/SuperAGI Toolkits/github",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/github",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/google_calendar",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/google_calendar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/google_search",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/google_search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/google_serp",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/google_serp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/index",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/index",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/instagram",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/instagram",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/jira",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/jira",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/searx",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/searx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/slack",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/slack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/twitter",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/twitter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/webscraper",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/webscraper",
               "sidebar": "tutorialSidebar"
             }
           ],

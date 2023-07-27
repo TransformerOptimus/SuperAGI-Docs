@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Installation/prerequisites",
+  "id": "Installation/prerequisites",
+  "title": "Prerequisites",
+  "description": "You will require an API key for the LLM to  get started with your first agent. In this tutorial, you will learn how to obtain the OpenAI's API Key.",
+  "source": "@site/docs/Installation/prerequisites.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/prerequisites",
+  "permalink": "/docs/Installation/prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/Installation/"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/Installation/docker"
+  }
+}

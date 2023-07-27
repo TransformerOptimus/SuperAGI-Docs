@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Installation/cloud",
+  "id": "Installation/cloud",
+  "title": "SuperAGI Cloud",
+  "description": "1. Navigate to app.superagi.com",
+  "source": "@site/docs/Installation/cloud.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/cloud",
+  "permalink": "/docs/Installation/cloud",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/cloud.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation/gitcode"
+  },
+  "next": {
+    "title": "Core Components",
+    "permalink": "/docs/Core Components/"
+  }
+}

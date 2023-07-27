@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '85a'),
+    component: ComponentCreator('/docs/', 'ae9'),
     routes: [
       {
         path: '/docs/',
@@ -18,104 +18,260 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Installation Guide/',
-        component: ComponentCreator('/docs/Installation Guide/', '9bf'),
+        path: '/docs/benchmark',
+        component: ComponentCreator('/docs/benchmark', 'b3f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Installation Guide/gitcode',
-        component: ComponentCreator('/docs/Installation Guide/gitcode', '28d'),
+        path: '/docs/Contribute/',
+        component: ComponentCreator('/docs/Contribute/', '4df'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Installation Guide/local',
-        component: ComponentCreator('/docs/Installation Guide/local', 'e59'),
+        path: '/docs/Contribute/contribute_code',
+        component: ComponentCreator('/docs/Contribute/contribute_code', 'e4a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/',
+        component: ComponentCreator('/docs/Core Components/', '84f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/',
+        component: ComponentCreator('/docs/Core Components/Agents/', '7cb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_details',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_details', '95c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_feed',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_feed', 'b69'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_newrun',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_newrun', 'abe'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_provisioning',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_provisioning', '5f0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_schedule',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_schedule', '328'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/agent_type',
+        component: ComponentCreator('/docs/Core Components/Agents/agent_type', '09a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/delete_agent',
+        component: ComponentCreator('/docs/Core Components/Agents/delete_agent', 'b91'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/edit_agent_template',
+        component: ComponentCreator('/docs/Core Components/Agents/edit_agent_template', 'ca9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/pause_resume',
+        component: ComponentCreator('/docs/Core Components/Agents/pause_resume', 'd51'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/run_history',
+        component: ComponentCreator('/docs/Core Components/Agents/run_history', '9f1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/resourcemanager',
+        component: ComponentCreator('/docs/Core Components/resourcemanager', 'f31'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/',
+        component: ComponentCreator('/docs/Installation/', '5bb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/cloud',
+        component: ComponentCreator('/docs/Installation/cloud', 'de8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/docker',
+        component: ComponentCreator('/docs/Installation/docker', '7aa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/gitcode',
+        component: ComponentCreator('/docs/Installation/gitcode', 'c87'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/prerequisites',
+        component: ComponentCreator('/docs/Installation/prerequisites', '3fa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Marketplace/',
+        component: ComponentCreator('/docs/Marketplace/', '0fd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Marketplace/agent_template_marketplace',
+        component: ComponentCreator('/docs/Marketplace/agent_template_marketplace', '45b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Marketplace/toolkit_marketplace',
+        component: ComponentCreator('/docs/Marketplace/toolkit_marketplace', 'bf7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/Toolkit/',
-        component: ComponentCreator('/docs/Toolkit/', '1d4'),
+        component: ComponentCreator('/docs/Toolkit/', '36b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/coding_tool',
-        component: ComponentCreator('/docs/Toolkit/coding_tool', 'b54'),
+        path: '/docs/Toolkit/Adding Custom Toolkit/custom_toolkit',
+        component: ComponentCreator('/docs/Toolkit/Adding Custom Toolkit/custom_toolkit', '178'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/email',
-        component: ComponentCreator('/docs/Toolkit/email', 'e57'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/', '144'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/github',
-        component: ComponentCreator('/docs/Toolkit/github', '601'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/coding_tool',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/coding_tool', '2d7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/google_calender',
-        component: ComponentCreator('/docs/Toolkit/google_calender', '208'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/duckduckgo',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/duckduckgo', '6b5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/google_search',
-        component: ComponentCreator('/docs/Toolkit/google_search', '40b'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/email',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/email', 'fbf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/google_serp',
-        component: ComponentCreator('/docs/Toolkit/google_serp', '411'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/github',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/github', 'f2d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Image Generation/',
-        component: ComponentCreator('/docs/Toolkit/Image Generation/', '738'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/google_calendar',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/google_calendar', '9af'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Image Generation/dalle',
-        component: ComponentCreator('/docs/Toolkit/Image Generation/dalle', 'deb'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/google_search',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/google_search', '129'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Image Generation/stable_diffusion',
-        component: ComponentCreator('/docs/Toolkit/Image Generation/stable_diffusion', 'a33'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/google_serp',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/google_serp', '56f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/jira',
-        component: ComponentCreator('/docs/Toolkit/jira', '9fb'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/Image Generation/',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/Image Generation/', '481'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/searx',
-        component: ComponentCreator('/docs/Toolkit/searx', '055'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle', '1d6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/slack',
-        component: ComponentCreator('/docs/Toolkit/slack', '798'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion', 'd53'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/webscraper',
-        component: ComponentCreator('/docs/Toolkit/webscraper', '3bf'),
+        path: '/docs/Toolkit/SuperAGI Toolkits/instagram',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/instagram', '1c5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/jira',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/jira', '70f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/searx',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/searx', 'e42'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/slack',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/slack', '328'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/twitter',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/twitter', '21d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/webscraper',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/webscraper', 'cb3'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

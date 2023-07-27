@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Installation/docker",
+  "id": "Installation/docker",
+  "title": "Docker",
+  "description": "1. Download the repo using git clone https://github.com/TransformerOptimus/SuperAGI.git in your terminal or directly from GitHub page in a zip format.",
+  "source": "@site/docs/Installation/docker.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/docker",
+  "permalink": "/docs/Installation/docker",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/docker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/docs/Installation/prerequisites"
+  },
+  "next": {
+    "title": "GitHub Codespaces",
+    "permalink": "/docs/Installation/gitcode"
+  }
+}

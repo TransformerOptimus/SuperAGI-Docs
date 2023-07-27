@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Installation",
-    "permalink": "/docs/Installation Guide/"
+    "title": "Getting Started",
+    "permalink": "/docs/Installation/"
   }
 }

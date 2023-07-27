@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Marketplace/index",
+  "id": "Marketplace/index",
+  "title": "Marketplace",
+  "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+  "source": "@site/docs/Marketplace/index.md",
+  "sourceDirName": "Marketplace",
+  "slug": "/Marketplace/",
+  "permalink": "/docs/Marketplace/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web Scraper",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+  },
+  "next": {
+    "title": "Agent Template Marketplace",
+    "permalink": "/docs/Marketplace/agent_template_marketplace"
+  }
+}

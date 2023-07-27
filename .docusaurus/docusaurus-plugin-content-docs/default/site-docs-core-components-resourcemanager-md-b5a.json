@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/resourcemanager",
+  "id": "Core Components/resourcemanager",
+  "title": "Resource Manager",
+  "description": "Introduction",
+  "source": "@site/docs/Core Components/resourcemanager.md",
+  "sourceDirName": "Core Components",
+  "slug": "/Core Components/resourcemanager",
+  "permalink": "/docs/Core Components/resourcemanager",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/resourcemanager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Agent Template",
+    "permalink": "/docs/Core Components/Agents/edit_agent_template"
+  },
+  "next": {
+    "title": "Toolkits",
+    "permalink": "/docs/Toolkit/"
+  }
+}

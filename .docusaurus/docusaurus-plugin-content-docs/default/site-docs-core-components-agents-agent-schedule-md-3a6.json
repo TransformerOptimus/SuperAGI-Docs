@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Agents/agent_schedule",
+  "id": "Core Components/Agents/agent_schedule",
+  "title": "Agent Scheduling",
+  "description": "Agents can now be scheduled to run at a particular time and also run recursively at pre-defined timer intervals and also after ‘n’ number of run completions.",
+  "source": "@site/docs/Core Components/Agents/agent_schedule.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/agent_schedule",
+  "permalink": "/docs/Core Components/Agents/agent_schedule",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_schedule.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run History",
+    "permalink": "/docs/Core Components/Agents/run_history"
+  },
+  "next": {
+    "title": "Agent type",
+    "permalink": "/docs/Core Components/Agents/agent_type"
+  }
+}

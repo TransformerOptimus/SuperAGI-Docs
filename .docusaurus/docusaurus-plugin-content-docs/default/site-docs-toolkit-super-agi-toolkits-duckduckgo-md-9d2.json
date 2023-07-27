@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/duckduckgo",
+  "id": "Toolkit/SuperAGI Toolkits/duckduckgo",
+  "title": "DuckDuckGo",
+  "description": "The SuperAGI DuckDuckGo Search Tool helps users perform a DuckDuckGo search and extract snippets and webpages.",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/duckduckgo.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/duckduckgo",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/duckduckgo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coding Toolkit",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/coding_tool"
+  },
+  "next": {
+    "title": "Email",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/email"
+  }
+}

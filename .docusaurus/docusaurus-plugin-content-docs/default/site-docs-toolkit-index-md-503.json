@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Toolkit/index",
+  "id": "Toolkit/index",
+  "title": "Toolkits",
+  "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+  "source": "@site/docs/Toolkit/index.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/",
+  "permalink": "/docs/Toolkit/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resource Manager",
+    "permalink": "/docs/Core Components/resourcemanager"
+  },
+  "next": {
+    "title": "How to add a Custom Toolkit",
+    "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+  }
+}

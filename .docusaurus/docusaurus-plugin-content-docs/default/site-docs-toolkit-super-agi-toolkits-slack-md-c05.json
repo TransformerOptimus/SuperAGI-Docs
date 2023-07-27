@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/slack",
+  "id": "Toolkit/SuperAGI Toolkits/slack",
+  "title": "Slack",
+  "description": "This SuperAGI Tool lets users send messages to Slack Channels.",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/slack.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/slack",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/slack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Searx Search",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx"
+  },
+  "next": {
+    "title": "Twitter",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/twitter"
+  }
+}

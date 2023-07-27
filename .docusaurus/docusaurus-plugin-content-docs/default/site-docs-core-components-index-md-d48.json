@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/index",
+  "id": "Core Components/index",
+  "title": "Core Components",
+  "description": "",
+  "source": "@site/docs/Core Components/index.md",
+  "sourceDirName": "Core Components",
+  "slug": "/Core Components/",
+  "permalink": "/docs/Core Components/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SuperAGI Cloud",
+    "permalink": "/docs/Installation/cloud"
+  },
+  "next": {
+    "title": "Agents",
+    "permalink": "/docs/Core Components/Agents/"
+  }
+}

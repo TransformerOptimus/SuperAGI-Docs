@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/searx",
+  "id": "Toolkit/SuperAGI Toolkits/searx",
+  "title": "Searx Search",
+  "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/searx.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/searx",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/searx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jira",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
+  },
+  "next": {
+    "title": "Slack",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack"
+  }
+}

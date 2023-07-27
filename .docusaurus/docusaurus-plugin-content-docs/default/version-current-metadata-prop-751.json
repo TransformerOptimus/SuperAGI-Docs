@@ -17,134 +17,439 @@
       },
       {
         "type": "category",
-        "label": "Installation",
+        "label": "Getting Started",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Win/MacOS/Linux",
-            "href": "/docs/Installation Guide/local",
-            "docId": "Installation Guide/local"
+            "label": "Prerequisites",
+            "href": "/docs/Installation/prerequisites",
+            "docId": "Installation/prerequisites"
+          },
+          {
+            "type": "link",
+            "label": "Docker",
+            "href": "/docs/Installation/docker",
+            "docId": "Installation/docker"
           },
           {
             "type": "link",
             "label": "GitHub Codespaces",
-            "href": "/docs/Installation Guide/gitcode",
-            "docId": "Installation Guide/gitcode"
+            "href": "/docs/Installation/gitcode",
+            "docId": "Installation/gitcode"
+          },
+          {
+            "type": "link",
+            "label": "SuperAGI Cloud",
+            "href": "/docs/Installation/cloud",
+            "docId": "Installation/cloud"
           }
         ],
-        "href": "/docs/Installation Guide/"
+        "href": "/docs/Installation/"
       },
       {
         "type": "category",
-        "label": "Toolkit",
+        "label": "Core Components",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "category",
-            "label": "Image Generation",
+            "label": "Agents",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "Dall-E",
-                "href": "/docs/Toolkit/Image Generation/dalle",
-                "docId": "Toolkit/Image Generation/dalle"
+                "label": "Agent Provisioning",
+                "href": "/docs/Core Components/Agents/agent_provisioning",
+                "docId": "Core Components/Agents/agent_provisioning"
               },
               {
                 "type": "link",
-                "label": "Stable Diffusion",
-                "href": "/docs/Toolkit/Image Generation/stable_diffusion",
-                "docId": "Toolkit/Image Generation/stable_diffusion"
+                "label": "Agent Details",
+                "href": "/docs/Core Components/Agents/agent_details",
+                "docId": "Core Components/Agents/agent_details"
+              },
+              {
+                "type": "link",
+                "label": "Agent Feed",
+                "href": "/docs/Core Components/Agents/agent_feed",
+                "docId": "Core Components/Agents/agent_feed"
+              },
+              {
+                "type": "link",
+                "label": "Pause & Resume an Agent",
+                "href": "/docs/Core Components/Agents/pause_resume",
+                "docId": "Core Components/Agents/pause_resume"
+              },
+              {
+                "type": "link",
+                "label": "Agent New Run",
+                "href": "/docs/Core Components/Agents/agent_newrun",
+                "docId": "Core Components/Agents/agent_newrun"
+              },
+              {
+                "type": "link",
+                "label": "Run History",
+                "href": "/docs/Core Components/Agents/run_history",
+                "docId": "Core Components/Agents/run_history"
+              },
+              {
+                "type": "link",
+                "label": "Agent Scheduling",
+                "href": "/docs/Core Components/Agents/agent_schedule",
+                "docId": "Core Components/Agents/agent_schedule"
+              },
+              {
+                "type": "link",
+                "label": "Agent type",
+                "href": "/docs/Core Components/Agents/agent_type",
+                "docId": "Core Components/Agents/agent_type"
+              },
+              {
+                "type": "link",
+                "label": "Delete Agent",
+                "href": "/docs/Core Components/Agents/delete_agent",
+                "docId": "Core Components/Agents/delete_agent"
+              },
+              {
+                "type": "link",
+                "label": "Edit Agent Template",
+                "href": "/docs/Core Components/Agents/edit_agent_template",
+                "docId": "Core Components/Agents/edit_agent_template"
               }
             ],
-            "href": "/docs/Toolkit/Image Generation/"
+            "href": "/docs/Core Components/Agents/"
           },
           {
             "type": "link",
-            "label": "Coding",
-            "href": "/docs/Toolkit/coding_tool",
-            "docId": "Toolkit/coding_tool"
+            "label": "Resource Manager",
+            "href": "/docs/Core Components/resourcemanager",
+            "docId": "Core Components/resourcemanager"
+          }
+        ],
+        "href": "/docs/Core Components/"
+      },
+      {
+        "type": "category",
+        "label": "Toolkits",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Adding Custom Toolkit",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "How to add a Custom Toolkit",
+                "href": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit",
+                "docId": "Toolkit/Adding Custom Toolkit/custom_toolkit"
+              }
+            ]
           },
           {
-            "type": "link",
-            "label": "Email",
-            "href": "/docs/Toolkit/email",
-            "docId": "Toolkit/email"
-          },
-          {
-            "type": "link",
-            "label": "GitHub",
-            "href": "/docs/Toolkit/github",
-            "docId": "Toolkit/github"
-          },
-          {
-            "type": "link",
-            "label": "Google Calendar",
-            "href": "/docs/Toolkit/google_calender",
-            "docId": "Toolkit/google_calender"
-          },
-          {
-            "type": "link",
-            "label": "Google Search",
-            "href": "/docs/Toolkit/google_search",
-            "docId": "Toolkit/google_search"
-          },
-          {
-            "type": "link",
-            "label": "Google SERP Search",
-            "href": "/docs/Toolkit/google_serp",
-            "docId": "Toolkit/google_serp"
-          },
-          {
-            "type": "link",
-            "label": "Jira",
-            "href": "/docs/Toolkit/jira",
-            "docId": "Toolkit/jira"
-          },
-          {
-            "type": "link",
-            "label": "Searx Search",
-            "href": "/docs/Toolkit/searx",
-            "docId": "Toolkit/searx"
-          },
-          {
-            "type": "link",
-            "label": "Slack",
-            "href": "/docs/Toolkit/slack",
-            "docId": "Toolkit/slack"
-          },
-          {
-            "type": "link",
-            "label": "Web Scraper",
-            "href": "/docs/Toolkit/webscraper",
-            "docId": "Toolkit/webscraper"
+            "type": "category",
+            "label": "SuperAGI's Toolkits",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Image Generation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Dall-E",
+                    "href": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+                    "docId": "Toolkit/SuperAGI Toolkits/Image Generation/dalle"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Stable Diffusion",
+                    "href": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+                    "docId": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion"
+                  }
+                ],
+                "href": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/"
+              },
+              {
+                "type": "link",
+                "label": "Coding Toolkit",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/coding_tool",
+                "docId": "Toolkit/SuperAGI Toolkits/coding_tool"
+              },
+              {
+                "type": "link",
+                "label": "DuckDuckGo",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo",
+                "docId": "Toolkit/SuperAGI Toolkits/duckduckgo"
+              },
+              {
+                "type": "link",
+                "label": "Email",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/email",
+                "docId": "Toolkit/SuperAGI Toolkits/email"
+              },
+              {
+                "type": "link",
+                "label": "GitHub",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/github",
+                "docId": "Toolkit/SuperAGI Toolkits/github"
+              },
+              {
+                "type": "link",
+                "label": "Google Calendar",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/google_calendar",
+                "docId": "Toolkit/SuperAGI Toolkits/google_calendar"
+              },
+              {
+                "type": "link",
+                "label": "Google Search",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/google_search",
+                "docId": "Toolkit/SuperAGI Toolkits/google_search"
+              },
+              {
+                "type": "link",
+                "label": "Google SERP Search",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/google_serp",
+                "docId": "Toolkit/SuperAGI Toolkits/google_serp"
+              },
+              {
+                "type": "link",
+                "label": "Instagram",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/instagram",
+                "docId": "Toolkit/SuperAGI Toolkits/instagram"
+              },
+              {
+                "type": "link",
+                "label": "Jira",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/jira",
+                "docId": "Toolkit/SuperAGI Toolkits/jira"
+              },
+              {
+                "type": "link",
+                "label": "Searx Search",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/searx",
+                "docId": "Toolkit/SuperAGI Toolkits/searx"
+              },
+              {
+                "type": "link",
+                "label": "Slack",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/slack",
+                "docId": "Toolkit/SuperAGI Toolkits/slack"
+              },
+              {
+                "type": "link",
+                "label": "Twitter",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/twitter",
+                "docId": "Toolkit/SuperAGI Toolkits/twitter"
+              },
+              {
+                "type": "link",
+                "label": "Web Scraper",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/webscraper",
+                "docId": "Toolkit/SuperAGI Toolkits/webscraper"
+              }
+            ],
+            "href": "/docs/Toolkit/SuperAGI Toolkits/"
           }
         ],
         "href": "/docs/Toolkit/"
+      },
+      {
+        "type": "category",
+        "label": "Marketplace",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Agent Template Marketplace",
+            "href": "/docs/Marketplace/agent_template_marketplace",
+            "docId": "Marketplace/agent_template_marketplace"
+          },
+          {
+            "type": "link",
+            "label": "Toolkit Marketplace",
+            "href": "/docs/Marketplace/toolkit_marketplace",
+            "docId": "Marketplace/toolkit_marketplace"
+          }
+        ],
+        "href": "/docs/Marketplace/"
+      },
+      {
+        "type": "category",
+        "label": "Contribute",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Contribute to Code",
+            "href": "/docs/Contribute/contribute_code",
+            "docId": "Contribute/contribute_code"
+          }
+        ],
+        "href": "/docs/Contribute/"
+      },
+      {
+        "type": "link",
+        "label": "Benchmarking",
+        "href": "/docs/benchmark",
+        "docId": "benchmark"
       }
     ]
   },
   "docs": {
-    "Installation Guide/gitcode": {
-      "id": "Installation Guide/gitcode",
+    "benchmark": {
+      "id": "benchmark",
+      "title": "Benchmarking",
+      "description": "| Objective           | Goals                                                                                              | Tools                                      | Models | Expected Output                                                        | Agent Output                                                | Tested | Doesn’t work | Somewhat Works | Works Perfect |",
+      "sidebar": "tutorialSidebar"
+    },
+    "Contribute/contribute_code": {
+      "id": "Contribute/contribute_code",
+      "title": "Contribute to Code",
+      "description": "First of all, thank you for taking the time to contribute to this project. We truly appreciate your contributions, whether it's bug reports, feature suggestions, or pull requests. Your time and effort are highly valued in this project. 🚀",
+      "sidebar": "tutorialSidebar"
+    },
+    "Contribute/index": {
+      "id": "Contribute/index",
+      "title": "Contribute",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_details": {
+      "id": "Core Components/Agents/agent_details",
+      "title": "Agent Details",
+      "description": "Agent Details provide you with a complete view of the Agent’s Performance and a summary of the details you had given while provisioning an agent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_feed": {
+      "id": "Core Components/Agents/agent_feed",
+      "title": "Agent Feed",
+      "description": "The agent feed page provides you with complete, real-time visibility of the activities performed by the agent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_newrun": {
+      "id": "Core Components/Agents/agent_newrun",
+      "title": "Agent New Run",
+      "description": "Agent New Run provides you with the capability to start a New Run of an Agent that has been previously provisioned.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_provisioning": {
+      "id": "Core Components/Agents/agent_provisioning",
+      "title": "Agent Provisioning",
+      "description": "Introduction:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_schedule": {
+      "id": "Core Components/Agents/agent_schedule",
+      "title": "Agent Scheduling",
+      "description": "Agents can now be scheduled to run at a particular time and also run recursively at pre-defined timer intervals and also after ‘n’ number of run completions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/agent_type": {
+      "id": "Core Components/Agents/agent_type",
+      "title": "Agent type",
+      "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/delete_agent": {
+      "id": "Core Components/Agents/delete_agent",
+      "title": "Delete Agent",
+      "description": "You can delete a provisioned agent - the activity feed and run history associated with the agent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/edit_agent_template": {
+      "id": "Core Components/Agents/edit_agent_template",
+      "title": "Edit Agent Template",
+      "description": "You can make changes to an existing template - such as modifying the goals, instructions, toolkits, the agent type, etc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/index": {
+      "id": "Core Components/Agents/index",
+      "title": "Agents",
+      "description": "Agents in SuperAGI are complex systems that leverage the power of LLMs to operate independently, reason, perform tasks, and takes decisions without the constant need for human intervention.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/pause_resume": {
+      "id": "Core Components/Agents/pause_resume",
+      "title": "Pause & Resume an Agent",
+      "description": "You can pause an agent during the middle of a run of resume a paused agent if you would like the agent to continue operating.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/run_history": {
+      "id": "Core Components/Agents/run_history",
+      "title": "Run History",
+      "description": "The Agent Run History provides you with a view of the runs that the agent has performed. It shows the last time the agent has run and the number of calls it has made",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/index": {
+      "id": "Core Components/index",
+      "title": "Core Components",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/resourcemanager": {
+      "id": "Core Components/resourcemanager",
+      "title": "Resource Manager",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Installation/cloud": {
+      "id": "Installation/cloud",
+      "title": "SuperAGI Cloud",
+      "description": "1. Navigate to app.superagi.com",
+      "sidebar": "tutorialSidebar"
+    },
+    "Installation/docker": {
+      "id": "Installation/docker",
+      "title": "Docker",
+      "description": "1. Download the repo using git clone https://github.com/TransformerOptimus/SuperAGI.git in your terminal or directly from GitHub page in a zip format.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Installation/gitcode": {
+      "id": "Installation/gitcode",
       "title": "GitHub Codespaces",
       "description": "1. Open the SuperAGI GitHub repository https://github.com/TransformerOptimus/SuperAGI/ and click on Code > Codespaces > Create new codespace",
       "sidebar": "tutorialSidebar"
     },
-    "Installation Guide/index": {
-      "id": "Installation Guide/index",
-      "title": "Installation",
+    "Installation/index": {
+      "id": "Installation/index",
+      "title": "Getting Started",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Installation Guide/local": {
-      "id": "Installation Guide/local",
-      "title": "Win/MacOS/Linux",
-      "description": "1. Download the repo using git clone https://github.com/TransformerOptimus/SuperAGI.git in your terminal or directly from github page in zip format.",
+    "Installation/prerequisites": {
+      "id": "Installation/prerequisites",
+      "title": "Prerequisites",
+      "description": "You will require an API key for the LLM to  get started with your first agent. In this tutorial, you will learn how to obtain the OpenAI's API Key.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Marketplace/agent_template_marketplace": {
+      "id": "Marketplace/agent_template_marketplace",
+      "title": "Agent Template Marketplace",
+      "description": "The SuperAGI Agent Template Marketplace, offers users a curated selection of agent templates that are pre-approved by SuperAGI. Each template is designed to address specific use cases, ensuring users have a tailored starting point for a variety of tasks. With predefined attributes like Agent Name, Description, Goals, Instructions, Tool, Agent Type, and Models., these templates accelerate the agent creation process.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Marketplace/index": {
+      "id": "Marketplace/index",
+      "title": "Marketplace",
+      "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Marketplace/toolkit_marketplace": {
+      "id": "Marketplace/toolkit_marketplace",
+      "title": "Toolkit Marketplace",
+      "description": "The SuperAGI Toolkit Marketplace, accessible at marketplace.superagi.com, serves as a centralized repository of toolkits developed by SuperAGI. It contains a collection of specialized tools that can be integrated into the agents. By browsing the marketplace, users can access, review, and install essential tools to enhance the capabilities of their agents.",
       "sidebar": "tutorialSidebar"
     },
     "superagi-home": {
@@ -153,86 +458,116 @@
       "description": "A dev-first open source autonomous AI agent framework enabling developers to build, manage & run useful autonomous agents. You can run concurrent agents seamlessly, extend agent capabilities with tools. The agents efficiently perform a variety of tasks and continually improve their performance with each subsequent run.",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/coding_tool": {
-      "id": "Toolkit/coding_tool",
-      "title": "Coding",
-      "description": "The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/email": {
-      "id": "Toolkit/email",
-      "title": "Email",
-      "description": "The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/github": {
-      "id": "Toolkit/github",
-      "title": "GitHub",
-      "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/google_calender": {
-      "id": "Toolkit/google_calender",
-      "title": "Google Calendar",
-      "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/google_search": {
-      "id": "Toolkit/google_search",
-      "title": "Google Search",
-      "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/google_serp": {
-      "id": "Toolkit/google_serp",
-      "title": "Google SERP Search",
-      "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/Image Generation/dalle": {
-      "id": "Toolkit/Image Generation/dalle",
-      "title": "Dall-E",
-      "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/Image Generation/index": {
-      "id": "Toolkit/Image Generation/index",
-      "title": "Image Generation",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Toolkit/Image Generation/stable_diffusion": {
-      "id": "Toolkit/Image Generation/stable_diffusion",
-      "title": "Stable Diffusion",
-      "description": "Introducing Stable Diffusion Integration with SuperAGI",
+    "Toolkit/Adding Custom Toolkit/custom_toolkit": {
+      "id": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+      "title": "How to add a Custom Toolkit",
+      "description": "With a few easy-to-follow steps, you can get started with building and adding your own custom Toolkits to SuperAGI:",
       "sidebar": "tutorialSidebar"
     },
     "Toolkit/index": {
       "id": "Toolkit/index",
-      "title": "Toolkit",
+      "title": "Toolkits",
+      "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/coding_tool": {
+      "id": "Toolkit/SuperAGI Toolkits/coding_tool",
+      "title": "Coding Toolkit",
+      "description": "The Coding Toolkit lies at the heart of SuperAGI's SuperCoder - providing your agent with the ability to create a codebase from a single prompt.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/duckduckgo": {
+      "id": "Toolkit/SuperAGI Toolkits/duckduckgo",
+      "title": "DuckDuckGo",
+      "description": "The SuperAGI DuckDuckGo Search Tool helps users perform a DuckDuckGo search and extract snippets and webpages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/email": {
+      "id": "Toolkit/SuperAGI Toolkits/email",
+      "title": "Email",
+      "description": "The SuperAGI Email Tool lets users send and read emails while providing a foundation for other use cases.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/github": {
+      "id": "Toolkit/SuperAGI Toolkits/github",
+      "title": "GitHub",
+      "description": "The SuperAGI GitHub Tool enables users to perform various operations on GitHub repositories which include adding files or folders, deleting files, and searching for files or folders within a repository.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/google_calendar": {
+      "id": "Toolkit/SuperAGI Toolkits/google_calendar",
+      "title": "Google Calendar",
+      "description": "Introducing the Google Calendar Toolkit, a powerful integration for SuperAGI. With the Google Calendar toolkit, you have the ability to do the following:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/google_search": {
+      "id": "Toolkit/SuperAGI Toolkits/google_search",
+      "title": "Google Search",
+      "description": "The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/google_serp": {
+      "id": "Toolkit/SuperAGI Toolkits/google_serp",
+      "title": "Google SERP Search",
+      "description": "The SuperAGI Google Search Toolkit helps users perform a Google search and extract snippets and webpages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/Image Generation/dalle": {
+      "id": "Toolkit/SuperAGI Toolkits/Image Generation/dalle",
+      "title": "Dall-E",
+      "description": "The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/Image Generation/index": {
+      "id": "Toolkit/SuperAGI Toolkits/Image Generation/index",
+      "title": "Image Generation",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/jira": {
-      "id": "Toolkit/jira",
+    "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion": {
+      "id": "Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion",
+      "title": "Stable Diffusion",
+      "description": "Introducing Stable Diffusion Integration with SuperAGI",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/index": {
+      "id": "Toolkit/SuperAGI Toolkits/index",
+      "title": "SuperAGI's Toolkits",
+      "description": "With ready-to-use toolkits available out of the box on SuperAGI’s ecosystem, toolkits provide you with the following advantages:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/instagram": {
+      "id": "Toolkit/SuperAGI Toolkits/instagram",
+      "title": "Instagram",
+      "description": "The SuperAGI Instagram Tool works with the stable diffusion tool, generates an image & caption based on the goals defined by the user and posts it on their instagram business account. Currently will only work on the Cloud Version",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/jira": {
+      "id": "Toolkit/SuperAGI Toolkits/jira",
       "title": "Jira",
       "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/searx": {
-      "id": "Toolkit/searx",
+    "Toolkit/SuperAGI Toolkits/searx": {
+      "id": "Toolkit/SuperAGI Toolkits/searx",
       "title": "Searx Search",
       "description": "The SuperAGI Searx Search Tool helps users perform a Searx search and extract snippets and webpages. We parse the HTML response pages because most Searx instances do not support the JSON response format without an API key.",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/slack": {
-      "id": "Toolkit/slack",
+    "Toolkit/SuperAGI Toolkits/slack": {
+      "id": "Toolkit/SuperAGI Toolkits/slack",
       "title": "Slack",
-      "description": "This SuperAGI Tool lets users send messages to Slack Channels and provides a strong foundation for use cases to come.",
+      "description": "This SuperAGI Tool lets users send messages to Slack Channels.",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/webscraper": {
-      "id": "Toolkit/webscraper",
+    "Toolkit/SuperAGI Toolkits/twitter": {
+      "id": "Toolkit/SuperAGI Toolkits/twitter",
+      "title": "Twitter",
+      "description": "Introducing Twitter Toolkit for SuperAGI. With Twitter Integrated into SuperAGI, you can now deploy agents to",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/webscraper": {
+      "id": "Toolkit/SuperAGI Toolkits/webscraper",
       "title": "Web Scraper",
       "description": "The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.",
       "sidebar": "tutorialSidebar"

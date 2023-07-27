@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Agents/delete_agent",
+  "id": "Core Components/Agents/delete_agent",
+  "title": "Delete Agent",
+  "description": "You can delete a provisioned agent - the activity feed and run history associated with the agent.",
+  "source": "@site/docs/Core Components/Agents/delete_agent.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/delete_agent",
+  "permalink": "/docs/Core Components/Agents/delete_agent",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/delete_agent.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent type",
+    "permalink": "/docs/Core Components/Agents/agent_type"
+  },
+  "next": {
+    "title": "Edit Agent Template",
+    "permalink": "/docs/Core Components/Agents/edit_agent_template"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "benchmark",
+  "id": "benchmark",
+  "title": "Benchmarking",
+  "description": "| Objective           | Goals                                                                                              | Tools                                      | Models | Expected Output                                                        | Agent Output                                                | Tested | Doesn’t work | Somewhat Works | Works Perfect |",
+  "source": "@site/docs/benchmark.md",
+  "sourceDirName": ".",
+  "slug": "/benchmark",
+  "permalink": "/docs/benchmark",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/benchmark.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contribute to Code",
+    "permalink": "/docs/Contribute/contribute_code"
+  }
+}

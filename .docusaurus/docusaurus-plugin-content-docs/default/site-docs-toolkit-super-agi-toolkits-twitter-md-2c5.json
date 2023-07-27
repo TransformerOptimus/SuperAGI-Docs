@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/twitter",
+  "id": "Toolkit/SuperAGI Toolkits/twitter",
+  "title": "Twitter",
+  "description": "Introducing Twitter Toolkit for SuperAGI. With Twitter Integrated into SuperAGI, you can now deploy agents to",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/twitter.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/twitter",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/twitter",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/twitter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slack",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/slack"
+  },
+  "next": {
+    "title": "Web Scraper",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+  }
+}

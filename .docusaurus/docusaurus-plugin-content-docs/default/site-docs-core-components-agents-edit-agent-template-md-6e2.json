@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Agents/edit_agent_template",
+  "id": "Core Components/Agents/edit_agent_template",
+  "title": "Edit Agent Template",
+  "description": "You can make changes to an existing template - such as modifying the goals, instructions, toolkits, the agent type, etc.",
+  "source": "@site/docs/Core Components/Agents/edit_agent_template.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/edit_agent_template",
+  "permalink": "/docs/Core Components/Agents/edit_agent_template",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/edit_agent_template.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Agent",
+    "permalink": "/docs/Core Components/Agents/delete_agent"
+  },
+  "next": {
+    "title": "Resource Manager",
+    "permalink": "/docs/Core Components/resourcemanager"
+  }
+}

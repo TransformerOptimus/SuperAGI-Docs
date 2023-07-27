@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Contribute/contribute_code",
+  "id": "Contribute/contribute_code",
+  "title": "Contribute to Code",
+  "description": "First of all, thank you for taking the time to contribute to this project. We truly appreciate your contributions, whether it's bug reports, feature suggestions, or pull requests. Your time and effort are highly valued in this project. 🚀",
+  "source": "@site/docs/Contribute/contribute_code.md",
+  "sourceDirName": "Contribute",
+  "slug": "/Contribute/contribute_code",
+  "permalink": "/docs/Contribute/contribute_code",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Contribute/contribute_code.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contribute",
+    "permalink": "/docs/Contribute/"
+  },
+  "next": {
+    "title": "Benchmarking",
+    "permalink": "/docs/benchmark"
+  }
+}

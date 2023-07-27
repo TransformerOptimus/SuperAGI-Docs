@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Contribute/index",
+  "id": "Contribute/index",
+  "title": "Contribute",
+  "description": "",
+  "source": "@site/docs/Contribute/index.md",
+  "sourceDirName": "Contribute",
+  "slug": "/Contribute/",
+  "permalink": "/docs/Contribute/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Contribute/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toolkit Marketplace",
+    "permalink": "/docs/Marketplace/toolkit_marketplace"
+  },
+  "next": {
+    "title": "Contribute to Code",
+    "permalink": "/docs/Contribute/contribute_code"
+  }
+}

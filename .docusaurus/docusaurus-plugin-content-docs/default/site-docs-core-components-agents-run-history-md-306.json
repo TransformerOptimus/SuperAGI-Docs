@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Agents/run_history",
+  "id": "Core Components/Agents/run_history",
+  "title": "Run History",
+  "description": "The Agent Run History provides you with a view of the runs that the agent has performed. It shows the last time the agent has run and the number of calls it has made",
+  "source": "@site/docs/Core Components/Agents/run_history.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/run_history",
+  "permalink": "/docs/Core Components/Agents/run_history",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/run_history.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent New Run",
+    "permalink": "/docs/Core Components/Agents/agent_newrun"
+  },
+  "next": {
+    "title": "Agent Scheduling",
+    "permalink": "/docs/Core Components/Agents/agent_schedule"
+  }
+}

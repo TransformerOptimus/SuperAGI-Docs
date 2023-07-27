@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Marketplace/toolkit_marketplace",
+  "id": "Marketplace/toolkit_marketplace",
+  "title": "Toolkit Marketplace",
+  "description": "The SuperAGI Toolkit Marketplace, accessible at marketplace.superagi.com, serves as a centralized repository of toolkits developed by SuperAGI. It contains a collection of specialized tools that can be integrated into the agents. By browsing the marketplace, users can access, review, and install essential tools to enhance the capabilities of their agents.",
+  "source": "@site/docs/Marketplace/toolkit_marketplace.md",
+  "sourceDirName": "Marketplace",
+  "slug": "/Marketplace/toolkit_marketplace",
+  "permalink": "/docs/Marketplace/toolkit_marketplace",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Marketplace/toolkit_marketplace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Template Marketplace",
+    "permalink": "/docs/Marketplace/agent_template_marketplace"
+  },
+  "next": {
+    "title": "Contribute",
+    "permalink": "/docs/Contribute/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/coding_tool",
+  "id": "Toolkit/SuperAGI Toolkits/coding_tool",
+  "title": "Coding Toolkit",
+  "description": "The Coding Toolkit lies at the heart of SuperAGI's SuperCoder - providing your agent with the ability to create a codebase from a single prompt.",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/coding_tool.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/coding_tool",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/coding_tool",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/coding_tool.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stable Diffusion",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion"
+  },
+  "next": {
+    "title": "DuckDuckGo",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/duckduckgo"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Installation/index",
+  "id": "Installation/index",
+  "title": "Getting Started",
+  "description": "",
+  "source": "@site/docs/Installation/index.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/",
+  "permalink": "/docs/Installation/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Installation/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to SuperAGI",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/docs/Installation/prerequisites"
+  }
+}

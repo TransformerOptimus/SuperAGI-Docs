@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Agents/agent_type",
+  "id": "Core Components/Agents/agent_type",
+  "title": "Agent type",
+  "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
+  "source": "@site/docs/Core Components/Agents/agent_type.md",
+  "sourceDirName": "Core Components/Agents",
+  "slug": "/Core Components/Agents/agent_type",
+  "permalink": "/docs/Core Components/Agents/agent_type",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/agent_type.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Scheduling",
+    "permalink": "/docs/Core Components/Agents/agent_schedule"
+  },
+  "next": {
+    "title": "Delete Agent",
+    "permalink": "/docs/Core Components/Agents/delete_agent"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+  "id": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+  "title": "How to add a Custom Toolkit",
+  "description": "With a few easy-to-follow steps, you can get started with building and adding your own custom Toolkits to SuperAGI:",
+  "source": "@site/docs/Toolkit/Adding Custom Toolkit/custom_toolkit.md",
+  "sourceDirName": "Toolkit/Adding Custom Toolkit",
+  "slug": "/Toolkit/Adding Custom Toolkit/custom_toolkit",
+  "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/Adding Custom Toolkit/custom_toolkit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toolkits",
+    "permalink": "/docs/Toolkit/"
+  },
+  "next": {
+    "title": "SuperAGI's Toolkits",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/"
+  }
+}
