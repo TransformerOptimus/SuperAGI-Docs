@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Activity Feed
+# Activity Activity Feed
 
 The agent feed page provides you with complete, real-time visibility of the activities performed by the agent. 
 

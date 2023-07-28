@@ -74,6 +74,12 @@
               },
               {
                 "type": "link",
+                "label": "Activity Feed",
+                "href": "/docs/Core Components/Agents/activity_feed",
+                "docId": "Core Components/Agents/activity_feed"
+              },
+              {
+                "type": "link",
                 "label": "Agent Feed",
                 "href": "/docs/Core Components/Agents/agent_feed",
                 "docId": "Core Components/Agents/agent_feed"
@@ -95,6 +101,12 @@
                 "label": "Run History",
                 "href": "/docs/Core Components/Agents/run_history",
                 "docId": "Core Components/Agents/run_history"
+              },
+              {
+                "type": "link",
+                "label": "Action Console",
+                "href": "/docs/Core Components/Agents/action_console",
+                "docId": "Core Components/Agents/action_console"
               },
               {
                 "type": "link",
@@ -330,6 +342,18 @@
       "id": "Contribute/index",
       "title": "Contribute",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/action_console": {
+      "id": "Core Components/Agents/action_console",
+      "title": "Action Console",
+      "description": "The Action Console is used when you are running a permission-based agent. When the agent is running, you can provide directions to the agent before it proceeds to execute the next action such as approving the action, denying and denying with feedback.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Agents/activity_feed": {
+      "id": "Core Components/Agents/activity_feed",
+      "title": "Activity Feed",
+      "description": "The agent feed page provides you with complete, real-time visibility of the activities performed by the agent.",
       "sidebar": "tutorialSidebar"
     },
     "Core Components/Agents/agent_details": {

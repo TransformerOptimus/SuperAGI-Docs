@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Run History",
-    "permalink": "/docs/Core Components/Agents/run_history"
+    "title": "Action Console",
+    "permalink": "/docs/Core Components/Agents/action_console"
   },
   "next": {
     "title": "Agent type",

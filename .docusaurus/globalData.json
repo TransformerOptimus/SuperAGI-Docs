@@ -35,6 +35,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Core Components/Agents/action_console",
+              "path": "/docs/Core Components/Agents/action_console",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Agents/activity_feed",
+              "path": "/docs/Core Components/Agents/activity_feed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Core Components/Agents/agent_details",
               "path": "/docs/Core Components/Agents/agent_details",
               "sidebar": "tutorialSidebar"

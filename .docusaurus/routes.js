@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '5ee'),
+    component: ComponentCreator('/docs/', 'cfe'),
     routes: [
       {
         path: '/docs/',
@@ -44,6 +44,18 @@ export default [
       {
         path: '/docs/Core Components/Agents/',
         component: ComponentCreator('/docs/Core Components/Agents/', '7cb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/action_console',
+        component: ComponentCreator('/docs/Core Components/Agents/action_console', '21e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Agents/activity_feed',
+        component: ComponentCreator('/docs/Core Components/Agents/activity_feed', '59c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

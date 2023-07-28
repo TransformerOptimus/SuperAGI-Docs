@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Agent Details",
-    "permalink": "/docs/Core Components/Agents/agent_details"
+    "title": "Activity Feed",
+    "permalink": "/docs/Core Components/Agents/activity_feed"
   },
   "next": {
     "title": "Pause & Resume an Agent",

@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/docs/-5ee": {
+  "/docs/-cfe": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "eaa68edf"
@@ -36,6 +36,14 @@
   "/docs/Core Components/Agents/-7cb": {
     "__comp": "17896441",
     "content": "30ff9d7c"
+  },
+  "/docs/Core Components/Agents/action_console-21e": {
+    "__comp": "17896441",
+    "content": "bb704407"
+  },
+  "/docs/Core Components/Agents/activity_feed-59c": {
+    "__comp": "17896441",
+    "content": "3464ed35"
   },
   "/docs/Core Components/Agents/agent_details-95c": {
     "__comp": "17896441",
