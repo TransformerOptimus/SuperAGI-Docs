@@ -21,7 +21,7 @@
     "permalink": "/docs/Core Components/resourcemanager"
   },
   "next": {
-    "title": "How to add a Custom Toolkit",
-    "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+    "title": "SuperAGI's Toolkits",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/"
   }
 }

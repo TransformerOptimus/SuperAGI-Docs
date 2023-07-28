@@ -152,20 +152,6 @@
         "items": [
           {
             "type": "category",
-            "label": "Adding Custom Toolkit",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "How to add a Custom Toolkit",
-                "href": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit",
-                "docId": "Toolkit/Adding Custom Toolkit/custom_toolkit"
-              }
-            ]
-          },
-          {
-            "type": "category",
             "label": "SuperAGI's Toolkits",
             "collapsible": true,
             "collapsed": true,
@@ -271,6 +257,12 @@
               }
             ],
             "href": "/docs/Toolkit/SuperAGI Toolkits/"
+          },
+          {
+            "type": "link",
+            "label": "How to add a Custom Toolkit",
+            "href": "/docs/Toolkit/custom_toolkit",
+            "docId": "Toolkit/custom_toolkit"
           }
         ],
         "href": "/docs/Toolkit/"
@@ -467,7 +459,7 @@
     "Marketplace/index": {
       "id": "Marketplace/index",
       "title": "Marketplace",
-      "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Marketplace/toolkit_marketplace": {
@@ -482,8 +474,8 @@
       "description": "A dev-first open source autonomous AI agent framework enabling developers to build, manage & run useful autonomous agents. You can run concurrent agents seamlessly, extend agent capabilities with tools. The agents efficiently perform a variety of tasks and continually improve their performance with each subsequent run.",
       "sidebar": "tutorialSidebar"
     },
-    "Toolkit/Adding Custom Toolkit/custom_toolkit": {
-      "id": "Toolkit/Adding Custom Toolkit/custom_toolkit",
+    "Toolkit/custom_toolkit": {
+      "id": "Toolkit/custom_toolkit",
       "title": "How to add a Custom Toolkit",
       "description": "With a few easy-to-follow steps, you can get started with building and adding your own custom Toolkits to SuperAGI:",
       "sidebar": "tutorialSidebar"

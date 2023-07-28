@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '084'),
+    component: ComponentCreator('/docs/', 'fc6'),
     routes: [
       {
         path: '/docs/',
@@ -180,8 +180,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Toolkit/Adding Custom Toolkit/custom_toolkit',
-        component: ComponentCreator('/docs/Toolkit/Adding Custom Toolkit/custom_toolkit', '178'),
+        path: '/docs/Toolkit/custom_toolkit',
+        component: ComponentCreator('/docs/Toolkit/custom_toolkit', '03b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

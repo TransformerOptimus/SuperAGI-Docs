@@ -2,7 +2,7 @@
   "unversionedId": "Marketplace/index",
   "id": "Marketplace/index",
   "title": "Marketplace",
-  "description": "Toolkits allow SuperAGI Agents to interact with third-party plugins and external systems.",
+  "description": "",
   "source": "@site/docs/Marketplace/index.md",
   "sourceDirName": "Marketplace",
   "slug": "/Marketplace/",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Web Scraper",
-    "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+    "title": "How to add a Custom Toolkit",
+    "permalink": "/docs/Toolkit/custom_toolkit"
   },
   "next": {
     "title": "Agent Template Marketplace",

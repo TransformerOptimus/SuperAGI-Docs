@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "How to add a Custom Toolkit",
-    "permalink": "/docs/Toolkit/Adding Custom Toolkit/custom_toolkit"
+    "title": "Toolkits",
+    "permalink": "/docs/Toolkit/"
   },
   "next": {
     "title": "Image Generation",

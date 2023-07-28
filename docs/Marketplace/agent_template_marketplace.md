@@ -2,7 +2,7 @@
 
 The SuperAGI Agent Template Marketplace, offers users a curated selection of agent templates that are pre-approved by SuperAGI. Each template is designed to address specific use cases, ensuring users have a tailored starting point for a variety of tasks. With predefined attributes like Agent Name, Description, Goals, Instructions, Tool, Agent Type, and Models., these templates accelerate the agent creation process.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46950e75-2472-4503-b8c9-8141579edabf/Untitled.png)
+![Untitled](/../assets/images/agent_template_marketplace1.png)
 
 ### **Overview**
 
@@ -16,7 +16,7 @@ Each agent template in the marketplace is crafted to cater to specific scenarios
 - **Agent Type**: The Type of Agent required for the Template - Task Queue Agent, Dynamic Task Agent or Fixed Action Agent.
 - **Models**: The Model the agent is designed to work with. It can work with other models as well, but works best with the model mentioned.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/137815fd-e34a-4aad-a078-cde7e470f50d/Untitled.png)
+![Untitled](/../assets/images/agent_template_marketplace2.png)
 
 ### **Installation Process**
 

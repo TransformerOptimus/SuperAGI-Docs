@@ -2,7 +2,7 @@
 
 The SuperAGI Toolkit Marketplace, accessible at **[marketplace.superagi.com](https://marketplace.superagi.com/)**, serves as a centralized repository of toolkits developed by SuperAGI. It contains a collection of specialized tools that can be integrated into the agents. By browsing the marketplace, users can access, review, and install essential tools to enhance the capabilities of their agents.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39db97a3-c522-4901-b08a-ee19e12e473e/Untitled.png)
+![Untitled](/../assets/images/toolkit_marketplace_1.png)
 
 ### Toolkit Listings
 
@@ -12,7 +12,7 @@ Each toolkit in the marketplace comes with detailed information, which includes:
 - **Description**: A brief summary outlining the toolkit's primary functions and features.
 - **List of Tools**: An itemized breakdown of all the tools contained within the toolkit.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d231098d-cab0-4326-8f7a-b7949002efb3/Untitled.png)
+![Untitled](/../assets/images/toolkit_marketplace_2.png)
 
 ### **Installation Process**
 

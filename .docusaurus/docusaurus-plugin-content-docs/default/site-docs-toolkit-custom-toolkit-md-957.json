@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/custom_toolkit",
+  "id": "Toolkit/custom_toolkit",
+  "title": "How to add a Custom Toolkit",
+  "description": "With a few easy-to-follow steps, you can get started with building and adding your own custom Toolkits to SuperAGI:",
+  "source": "@site/docs/Toolkit/custom_toolkit.md",
+  "sourceDirName": "Toolkit",
+  "slug": "/Toolkit/custom_toolkit",
+  "permalink": "/docs/Toolkit/custom_toolkit",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/custom_toolkit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web Scraper",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/webscraper"
+  },
+  "next": {
+    "title": "Marketplace",
+    "permalink": "/docs/Marketplace/"
+  }
+}
