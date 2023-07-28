@@ -1,7 +1,7 @@
 {
   "unversionedId": "Core Components/Agents/agent_type",
   "id": "Core Components/Agents/agent_type",
-  "title": "Agent type",
+  "title": "Agent Type",
   "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
   "source": "@site/docs/Core Components/Agents/agent_type.md",
   "sourceDirName": "Core Components/Agents",

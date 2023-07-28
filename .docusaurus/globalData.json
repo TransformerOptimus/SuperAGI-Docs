@@ -50,11 +50,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Core Components/Agents/agent_feed",
-              "path": "/docs/Core Components/Agents/agent_feed",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Core Components/Agents/agent_newrun",
               "path": "/docs/Core Components/Agents/agent_newrun",
               "sidebar": "tutorialSidebar"

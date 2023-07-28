@@ -80,12 +80,6 @@
               },
               {
                 "type": "link",
-                "label": "Agent Feed",
-                "href": "/docs/Core Components/Agents/agent_feed",
-                "docId": "Core Components/Agents/agent_feed"
-              },
-              {
-                "type": "link",
                 "label": "Pause & Resume an Agent",
                 "href": "/docs/Core Components/Agents/pause_resume",
                 "docId": "Core Components/Agents/pause_resume"
@@ -116,7 +110,7 @@
               },
               {
                 "type": "link",
-                "label": "Agent type",
+                "label": "Agent Type",
                 "href": "/docs/Core Components/Agents/agent_type",
                 "docId": "Core Components/Agents/agent_type"
               },
@@ -362,12 +356,6 @@
       "description": "Agent Details provide you with a complete view of the Agent’s Performance and a summary of the details you had given while provisioning an agent.",
       "sidebar": "tutorialSidebar"
     },
-    "Core Components/Agents/agent_feed": {
-      "id": "Core Components/Agents/agent_feed",
-      "title": "Agent Feed",
-      "description": "The agent feed page provides you with complete, real-time visibility of the activities performed by the agent.",
-      "sidebar": "tutorialSidebar"
-    },
     "Core Components/Agents/agent_newrun": {
       "id": "Core Components/Agents/agent_newrun",
       "title": "Agent New Run",
@@ -388,7 +376,7 @@
     },
     "Core Components/Agents/agent_type": {
       "id": "Core Components/Agents/agent_type",
-      "title": "Agent type",
+      "title": "Agent Type",
       "description": "Agents in SuperAGI currently follow Re-Act architecture, where there is a thinking step that is performed by the LLM and an Execution with the tool that is suggested in the thinking step.",
       "sidebar": "tutorialSidebar"
     },
@@ -401,7 +389,7 @@
     "Core Components/Agents/delete_agent": {
       "id": "Core Components/Agents/delete_agent",
       "title": "Delete Agent",
-      "description": "You can delete a provisioned agent - the activity feed and run history associated with the agent.",
+      "description": "You can delete a provisioned agent - the activity feed and the run history associated with the agent.",
       "sidebar": "tutorialSidebar"
     },
     "Core Components/Agents/edit_agent_template": {

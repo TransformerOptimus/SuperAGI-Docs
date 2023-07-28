@@ -8,7 +8,6 @@ export default {
   '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ '@theme/MDXPage'), '@theme/MDXPage', require.resolveWeak('@theme/MDXPage')],
-  '1fa1d607': [() => import(/* webpackChunkName: '1fa1d607' */ '@site/docs/Core Components/Agents/agent_feed.md'), '@site/docs/Core Components/Agents/agent_feed.md', require.resolveWeak('@site/docs/Core Components/Agents/agent_feed.md')],
   '22c2069b': [() => import(/* webpackChunkName: '22c2069b' */ '@site/docs/Toolkit/SuperAGI Toolkits/google_calendar.md'), '@site/docs/Toolkit/SuperAGI Toolkits/google_calendar.md', require.resolveWeak('@site/docs/Toolkit/SuperAGI Toolkits/google_calendar.md')],
   '2c52041a': [() => import(/* webpackChunkName: '2c52041a' */ '@site/docs/Toolkit/SuperAGI Toolkits/twitter.md'), '@site/docs/Toolkit/SuperAGI Toolkits/twitter.md', require.resolveWeak('@site/docs/Toolkit/SuperAGI Toolkits/twitter.md')],
   '2e652882': [() => import(/* webpackChunkName: '2e652882' */ '@site/docs/Toolkit/SuperAGI Toolkits/webscraper.md'), '@site/docs/Toolkit/SuperAGI Toolkits/webscraper.md', require.resolveWeak('@site/docs/Toolkit/SuperAGI Toolkits/webscraper.md')],

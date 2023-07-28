@@ -2,7 +2,7 @@
   "unversionedId": "Core Components/Agents/delete_agent",
   "id": "Core Components/Agents/delete_agent",
   "title": "Delete Agent",
-  "description": "You can delete a provisioned agent - the activity feed and run history associated with the agent.",
+  "description": "You can delete a provisioned agent - the activity feed and the run history associated with the agent.",
   "source": "@site/docs/Core Components/Agents/delete_agent.md",
   "sourceDirName": "Core Components/Agents",
   "slug": "/Core Components/Agents/delete_agent",
