@@ -10,7 +10,7 @@ All the KPIs are updated only after run completion.
 
 These KPIs give an executive overview of SuperAGI.
 
-![Screenshot 2023-07-21 at 2.12.59 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb07ae68-c3e2-43b9-acb2-aceee7327d3f/Screenshot_2023-07-21_at_2.12.59_PM.png)
+![Alt text](/../assets/images/apm_1.png)
 
 **Total number of agents:** The total agents that have run till date irrespective of deletion.
 
@@ -32,7 +32,7 @@ These KPIs give an executive overview of SuperAGI.
 
 This shows the model used, tokens consumed, runs made, avg. tokens per run, tools used, calls made, avg. run time for each agent.
 
-![Screenshot 2023-07-21 at 2.13.47 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/152f6053-7df9-4b2e-b459-511e8d515804/Screenshot_2023-07-21_at_2.13.47_PM.png)
+![Alt text](/../assets/images/apm_2.png)
 
 **Model:** Each agent can use only one model
 
@@ -52,7 +52,7 @@ This shows the model used, tokens consumed, runs made, avg. tokens per run, tool
 
 The three plots of run analytics are connected by a single Agent wise filter which give Tokens consumed per run, calls made per run and Average tokens consumed over all calls per run for a particular agent.
 
-![Screenshot 2023-07-21 at 2.18.22 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0969bc8-5154-4b0a-81c8-de96238609c1/Screenshot_2023-07-21_at_2.18.22_PM.png)
+![Alt text](/../assets/images/apm_3.png)
 
 **Tokens consumed per run:** Total Tokens consume for a particular run of an agent
 
