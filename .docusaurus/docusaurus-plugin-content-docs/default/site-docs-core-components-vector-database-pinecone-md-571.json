@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Vector Database/pinecone",
+  "id": "Core Components/Vector Database/pinecone",
+  "title": "Pinecone",
+  "description": "Setting up Pinecone with SuperAGI",
+  "source": "@site/docs/Core Components/Vector Database/pinecone.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/pinecone",
+  "permalink": "/docs/Core Components/Vector Database/pinecone",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/pinecone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vector Database",
+    "permalink": "/docs/Core Components/Vector Database/"
+  },
+  "next": {
+    "title": "Qdrant",
+    "permalink": "/docs/Core Components/Vector Database/qdrant"
+  }
+}

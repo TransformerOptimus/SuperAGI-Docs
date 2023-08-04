@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Vector Database/qdrant",
+  "id": "Core Components/Vector Database/qdrant",
+  "title": "Qdrant",
+  "description": "Setting up Qdrant with SuperAGI",
+  "source": "@site/docs/Core Components/Vector Database/qdrant.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/qdrant",
+  "permalink": "/docs/Core Components/Vector Database/qdrant",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/qdrant.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pinecone",
+    "permalink": "/docs/Core Components/Vector Database/pinecone"
+  },
+  "next": {
+    "title": "Resource Manager",
+    "permalink": "/docs/Core Components/resourcemanager"
+  }
+}

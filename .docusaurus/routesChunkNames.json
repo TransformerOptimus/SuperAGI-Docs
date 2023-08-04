@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/docs/-fc6": {
+  "/docs/-35b": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "eaa68edf"
@@ -88,6 +88,18 @@
   "/docs/Core Components/resourcemanager-f31": {
     "__comp": "17896441",
     "content": "b5aa5c3a"
+  },
+  "/docs/Core Components/Vector Database/-ffd": {
+    "__comp": "17896441",
+    "content": "2a6a18d5"
+  },
+  "/docs/Core Components/Vector Database/pinecone-0e1": {
+    "__comp": "17896441",
+    "content": "5714f603"
+  },
+  "/docs/Core Components/Vector Database/qdrant-ceb": {
+    "__comp": "17896441",
+    "content": "e721b672"
   },
   "/docs/Installation/-5bb": {
     "__comp": "17896441",
@@ -180,6 +192,10 @@
   "/docs/Toolkit/SuperAGI Toolkits/jira-70f": {
     "__comp": "17896441",
     "content": "6e74905b"
+  },
+  "/docs/Toolkit/SuperAGI Toolkits/notion-785": {
+    "__comp": "17896441",
+    "content": "44610515"
   },
   "/docs/Toolkit/SuperAGI Toolkits/searx-e42": {
     "__comp": "17896441",

@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', 'fc6'),
+    component: ComponentCreator('/docs/', '35b'),
     routes: [
       {
         path: '/docs/',
@@ -122,6 +122,24 @@ export default [
       {
         path: '/docs/Core Components/resourcemanager',
         component: ComponentCreator('/docs/Core Components/resourcemanager', 'f31'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Vector Database/',
+        component: ComponentCreator('/docs/Core Components/Vector Database/', 'ffd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Vector Database/pinecone',
+        component: ComponentCreator('/docs/Core Components/Vector Database/pinecone', '0e1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/Vector Database/qdrant',
+        component: ComponentCreator('/docs/Core Components/Vector Database/qdrant', 'ceb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -260,6 +278,12 @@ export default [
       {
         path: '/docs/Toolkit/SuperAGI Toolkits/jira',
         component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/jira', '70f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Toolkit/SuperAGI Toolkits/notion',
+        component: ComponentCreator('/docs/Toolkit/SuperAGI Toolkits/notion', '785'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

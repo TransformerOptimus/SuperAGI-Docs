@@ -18,7 +18,7 @@
     "permalink": "/docs/Core Components/Agents/delete_agent"
   },
   "next": {
-    "title": "Resource Manager",
-    "permalink": "/docs/Core Components/resourcemanager"
+    "title": "Vector Database",
+    "permalink": "/docs/Core Components/Vector Database/"
   }
 }

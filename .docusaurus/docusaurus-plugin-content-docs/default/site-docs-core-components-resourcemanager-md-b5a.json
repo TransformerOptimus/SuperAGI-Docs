@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Edit Agent Template",
-    "permalink": "/docs/Core Components/Agents/edit_agent_template"
+    "title": "Qdrant",
+    "permalink": "/docs/Core Components/Vector Database/qdrant"
   },
   "next": {
     "title": "Toolkits",

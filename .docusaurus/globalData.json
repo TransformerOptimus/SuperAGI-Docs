@@ -110,6 +110,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Core Components/Vector Database/index",
+              "path": "/docs/Core Components/Vector Database/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/pinecone",
+              "path": "/docs/Core Components/Vector Database/pinecone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/qdrant",
+              "path": "/docs/Core Components/Vector Database/qdrant",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Installation/cloud",
               "path": "/docs/Installation/cloud",
               "sidebar": "tutorialSidebar"
@@ -227,6 +242,11 @@
             {
               "id": "Toolkit/SuperAGI Toolkits/jira",
               "path": "/docs/Toolkit/SuperAGI Toolkits/jira",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Toolkit/SuperAGI Toolkits/notion",
+              "path": "/docs/Toolkit/SuperAGI Toolkits/notion",
               "sidebar": "tutorialSidebar"
             },
             {

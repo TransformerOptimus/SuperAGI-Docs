@@ -136,6 +136,27 @@
             "href": "/docs/Core Components/Agents/"
           },
           {
+            "type": "category",
+            "label": "Vector Database",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Pinecone",
+                "href": "/docs/Core Components/Vector Database/pinecone",
+                "docId": "Core Components/Vector Database/pinecone"
+              },
+              {
+                "type": "link",
+                "label": "Qdrant",
+                "href": "/docs/Core Components/Vector Database/qdrant",
+                "docId": "Core Components/Vector Database/qdrant"
+              }
+            ],
+            "href": "/docs/Core Components/Vector Database/"
+          },
+          {
             "type": "link",
             "label": "Resource Manager",
             "href": "/docs/Core Components/resourcemanager",
@@ -230,6 +251,12 @@
                 "label": "Jira",
                 "href": "/docs/Toolkit/SuperAGI Toolkits/jira",
                 "docId": "Toolkit/SuperAGI Toolkits/jira"
+              },
+              {
+                "type": "link",
+                "label": "Notion",
+                "href": "/docs/Toolkit/SuperAGI Toolkits/notion",
+                "docId": "Toolkit/SuperAGI Toolkits/notion"
               },
               {
                 "type": "link",
@@ -420,6 +447,24 @@
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
+    "Core Components/Vector Database/index": {
+      "id": "Core Components/Vector Database/index",
+      "title": "Vector Database",
+      "description": "What is a Vector Database?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/pinecone": {
+      "id": "Core Components/Vector Database/pinecone",
+      "title": "Pinecone",
+      "description": "Setting up Pinecone with SuperAGI",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/qdrant": {
+      "id": "Core Components/Vector Database/qdrant",
+      "title": "Qdrant",
+      "description": "Setting up Qdrant with SuperAGI",
+      "sidebar": "tutorialSidebar"
+    },
     "Installation/cloud": {
       "id": "Installation/cloud",
       "title": "SuperAGI Cloud",
@@ -562,6 +607,12 @@
       "id": "Toolkit/SuperAGI Toolkits/jira",
       "title": "Jira",
       "description": "The SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other great use cases.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Toolkit/SuperAGI Toolkits/notion": {
+      "id": "Toolkit/SuperAGI Toolkits/notion",
+      "title": "Notion",
+      "description": "Introducing Notion Toolkit to increase your productivity via SuperAGI. With Notion toolkit, you can:",
       "sidebar": "tutorialSidebar"
     },
     "Toolkit/SuperAGI Toolkits/searx": {

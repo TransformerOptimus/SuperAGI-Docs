@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/Vector Database/index",
+  "id": "Core Components/Vector Database/index",
+  "title": "Vector Database",
+  "description": "What is a Vector Database?",
+  "source": "@site/docs/Core Components/Vector Database/index.mdx",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/",
+  "permalink": "/docs/Core Components/Vector Database/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Agent Template",
+    "permalink": "/docs/Core Components/Agents/edit_agent_template"
+  },
+  "next": {
+    "title": "Pinecone",
+    "permalink": "/docs/Core Components/Vector Database/pinecone"
+  }
+}

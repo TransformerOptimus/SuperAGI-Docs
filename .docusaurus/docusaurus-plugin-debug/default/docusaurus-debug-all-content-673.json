@@ -341,8 +341,8 @@
                 "permalink": "/docs/Core Components/Agents/delete_agent"
               },
               "next": {
-                "title": "Resource Manager",
-                "permalink": "/docs/Core Components/resourcemanager"
+                "title": "Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/"
               }
             },
             {
@@ -466,12 +466,84 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Edit Agent Template",
-                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+                "title": "Qdrant",
+                "permalink": "/docs/Core Components/Vector Database/qdrant"
               },
               "next": {
                 "title": "Toolkits",
                 "permalink": "/docs/Toolkit/"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/index",
+              "id": "Core Components/Vector Database/index",
+              "title": "Vector Database",
+              "description": "What is a Vector Database?",
+              "source": "@site/docs/Core Components/Vector Database/index.mdx",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/",
+              "permalink": "/docs/Core Components/Vector Database/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edit Agent Template",
+                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+              },
+              "next": {
+                "title": "Pinecone",
+                "permalink": "/docs/Core Components/Vector Database/pinecone"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/pinecone",
+              "id": "Core Components/Vector Database/pinecone",
+              "title": "Pinecone",
+              "description": "Setting up Pinecone with SuperAGI",
+              "source": "@site/docs/Core Components/Vector Database/pinecone.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/pinecone",
+              "permalink": "/docs/Core Components/Vector Database/pinecone",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/pinecone.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/"
+              },
+              "next": {
+                "title": "Qdrant",
+                "permalink": "/docs/Core Components/Vector Database/qdrant"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/qdrant",
+              "id": "Core Components/Vector Database/qdrant",
+              "title": "Qdrant",
+              "description": "Setting up Qdrant with SuperAGI",
+              "source": "@site/docs/Core Components/Vector Database/qdrant.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/qdrant",
+              "permalink": "/docs/Core Components/Vector Database/qdrant",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/qdrant.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pinecone",
+                "permalink": "/docs/Core Components/Vector Database/pinecone"
+              },
+              "next": {
+                "title": "Resource Manager",
+                "permalink": "/docs/Core Components/resourcemanager"
               }
             },
             {
@@ -1068,6 +1140,30 @@
                 "permalink": "/docs/Toolkit/SuperAGI Toolkits/instagram"
               },
               "next": {
+                "title": "Notion",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/notion"
+              }
+            },
+            {
+              "unversionedId": "Toolkit/SuperAGI Toolkits/notion",
+              "id": "Toolkit/SuperAGI Toolkits/notion",
+              "title": "Notion",
+              "description": "Introducing Notion Toolkit to increase your productivity via SuperAGI. With Notion toolkit, you can:",
+              "source": "@site/docs/Toolkit/SuperAGI Toolkits/notion.md",
+              "sourceDirName": "Toolkit/SuperAGI Toolkits",
+              "slug": "/Toolkit/SuperAGI Toolkits/notion",
+              "permalink": "/docs/Toolkit/SuperAGI Toolkits/notion",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/notion.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Jira",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
+              },
+              "next": {
                 "title": "Searx Search",
                 "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx"
               }
@@ -1088,8 +1184,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Jira",
-                "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
+                "title": "Notion",
+                "permalink": "/docs/Toolkit/SuperAGI Toolkits/notion"
               },
               "next": {
                 "title": "Slack",
@@ -1271,6 +1367,26 @@
                     }
                   },
                   {
+                    "type": "category",
+                    "label": "Vector Database",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/pinecone"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/qdrant"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Core Components/Vector Database/index"
+                    }
+                  },
+                  {
                     "type": "doc",
                     "id": "Core Components/resourcemanager"
                   }
@@ -1347,6 +1463,10 @@
                       {
                         "type": "doc",
                         "id": "Toolkit/SuperAGI Toolkits/jira"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Toolkit/SuperAGI Toolkits/notion"
                       },
                       {
                         "type": "doc",

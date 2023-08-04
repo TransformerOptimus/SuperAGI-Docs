@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Toolkit/SuperAGI Toolkits/notion",
+  "id": "Toolkit/SuperAGI Toolkits/notion",
+  "title": "Notion",
+  "description": "Introducing Notion Toolkit to increase your productivity via SuperAGI. With Notion toolkit, you can:",
+  "source": "@site/docs/Toolkit/SuperAGI Toolkits/notion.md",
+  "sourceDirName": "Toolkit/SuperAGI Toolkits",
+  "slug": "/Toolkit/SuperAGI Toolkits/notion",
+  "permalink": "/docs/Toolkit/SuperAGI Toolkits/notion",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Toolkit/SuperAGI Toolkits/notion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jira",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/jira"
+  },
+  "next": {
+    "title": "Searx Search",
+    "permalink": "/docs/Toolkit/SuperAGI Toolkits/searx"
+  }
+}
