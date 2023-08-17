@@ -103,7 +103,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://documenter.getpostman.com/view/9667257/2s93shypCT',
+            to: 'https://documenter.getpostman.com/view/28438662/2s9Xy6rqP5',
             label: 'APIs',
             position: 'left',
           }, 
