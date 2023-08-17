@@ -29,8 +29,12 @@ Introducing Twitter Toolkit for SuperAGI. With Twitter Integrated into SuperAGI,
     
 ![TW5](https://github.com/TransformerOptimus/SuperAGI/assets/133874957/08d322f3-b248-49e6-8e5c-85f8d84b9a5f)
     
-6. Add the Following Callback URIs and the Website URL as shown in the image below: `https://app.superagi.com/api/twitter/oauth-tokens`
- `http://localhost:3000/api/twitter/oauth-tokens`
+6. Add the Following Callback URIs and the Website URL as shown in the image below:
+   
+   `https://app.superagi.com/api/twitter/oauth-tokens`
+   
+   `http://localhost:3000/api/twitter/oauth-tokens`
+   
 
 ![alt_text](/../assets/images/TW_OAUTH_URI.png)
 
