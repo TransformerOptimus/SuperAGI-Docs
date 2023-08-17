@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Qdrant
 
 ## Setting up Qdrant with SuperAGI

@@ -1,259 +1,236 @@
 {
-  "/docs/__docusaurus/debug-e00": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
-  "/docs/__docusaurus/debug/config-2df": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
-  "/docs/__docusaurus/debug/content-695": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    },
-    "allContent": "allContent---docs-docusaurus-debug-content-246-f36"
-  },
-  "/docs/__docusaurus/debug/globalData-d12": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
-  "/docs/__docusaurus/debug/metadata-9e2": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
-  "/docs/__docusaurus/debug/registry-b7c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
-  "/docs/__docusaurus/debug/routes-08f": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docs-docusaurus-debugf-42-f02"
-    }
-  },
   "/docs/markdown-page-822": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docs-markdown-page-07-b-9d5"
+      "plugin": "07b88aaa"
     },
-    "content": "content---docs-markdown-page-393-8aa"
+    "content": "393be207"
   },
-  "/docs/-35b": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/docs/-28c": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docs-eaa-415"
+      "plugin": "eaa68edf"
     },
-    "versionMetadata": "versionMetadata---docs-935-739"
+    "versionMetadata": "935f2afb"
   },
   "/docs/-2bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-0-e-3-18c"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/benchmark-b3f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-benchmark-9-d-9-ace"
+    "__comp": "17896441",
+    "content": "9d965dc0"
   },
   "/docs/Contribute/-4df": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contribute-791-408"
+    "__comp": "17896441",
+    "content": "791fe6c2"
   },
   "/docs/Contribute/contribute_code-e4a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contribute-contribute-code-0-da-dd2"
+    "__comp": "17896441",
+    "content": "0da94253"
   },
   "/docs/Core Components/-84f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-d-48-37c"
+    "__comp": "17896441",
+    "content": "d483291e"
   },
   "/docs/Core Components/Agents/-7cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-30-f-4f6"
+    "__comp": "17896441",
+    "content": "30ff9d7c"
   },
   "/docs/Core Components/Agents/action_console-21e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-action-consolebb-7-d95"
+    "__comp": "17896441",
+    "content": "bb704407"
   },
   "/docs/Core Components/Agents/activity_feed-59c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-activity-feed-346-a23"
+    "__comp": "17896441",
+    "content": "3464ed35"
   },
   "/docs/Core Components/Agents/agent_details-95c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-agent-detailse-94-766"
+    "__comp": "17896441",
+    "content": "e94dde4e"
   },
   "/docs/Core Components/Agents/agent_newrun-abe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-agent-newrunbf-5-eab"
+    "__comp": "17896441",
+    "content": "bf516a20"
   },
   "/docs/Core Components/Agents/agent_provisioning-5f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-agent-provisioning-7-bb-e1b"
+    "__comp": "17896441",
+    "content": "7bb77681"
   },
   "/docs/Core Components/Agents/agent_schedule-328": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-agent-schedule-3-a-6-5f5"
+    "__comp": "17896441",
+    "content": "3a6fd89f"
   },
   "/docs/Core Components/Agents/agent_type-09a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-agent-typefea-cad"
+    "__comp": "17896441",
+    "content": "fea11035"
   },
   "/docs/Core Components/Agents/apm-efe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-apmc-9-d-d29"
+    "__comp": "17896441",
+    "content": "c9d169c6"
   },
   "/docs/Core Components/Agents/delete_agent-b91": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-delete-agent-7-ef-223"
+    "__comp": "17896441",
+    "content": "7efce611"
   },
   "/docs/Core Components/Agents/edit_agent_template-ca9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-edit-agent-template-6-e-2-7f9"
+    "__comp": "17896441",
+    "content": "6e2dc67f"
   },
   "/docs/Core Components/Agents/pause_resume-d51": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-pause-resume-5-c-1-320"
+    "__comp": "17896441",
+    "content": "5c1600a7"
   },
   "/docs/Core Components/Agents/run_history-9f1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-agents-run-history-306-571"
+    "__comp": "17896441",
+    "content": "306b5e1a"
   },
   "/docs/Core Components/resourcemanager-f31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-resourcemanagerb-5-a-495"
+    "__comp": "17896441",
+    "content": "b5aa5c3a"
   },
   "/docs/Core Components/Vector Database/-ffd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-vector-database-2-a-6-b38"
+    "__comp": "17896441",
+    "content": "2a6a18d5"
+  },
+  "/docs/Core Components/Vector Database/custom_knowledge-5cf": {
+    "__comp": "17896441",
+    "content": "186c18e8"
+  },
+  "/docs/Core Components/Vector Database/delete_db-288": {
+    "__comp": "17896441",
+    "content": "b07c2dd3"
+  },
+  "/docs/Core Components/Vector Database/marketplace_knowledge-ccf": {
+    "__comp": "17896441",
+    "content": "8d783b46"
   },
   "/docs/Core Components/Vector Database/pinecone-0e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-vector-database-pinecone-571-09b"
+    "__comp": "17896441",
+    "content": "5714f603"
   },
   "/docs/Core Components/Vector Database/qdrant-ceb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-core-components-vector-database-qdrante-72-eab"
+    "__comp": "17896441",
+    "content": "e721b672"
+  },
+  "/docs/Core Components/Vector Database/update_db-4e8": {
+    "__comp": "17896441",
+    "content": "2a2c0690"
+  },
+  "/docs/Core Components/Vector Database/weaviate-0d3": {
+    "__comp": "17896441",
+    "content": "82ffa1d0"
   },
   "/docs/Installation/-5bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-installation-bee-d2a"
+    "__comp": "17896441",
+    "content": "beebaad6"
   },
   "/docs/Installation/cloud-de8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-installation-cloud-416-644"
+    "__comp": "17896441",
+    "content": "4160ff4f"
   },
   "/docs/Installation/docker-7aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-installation-docker-3-b-9-ad8"
+    "__comp": "17896441",
+    "content": "3b941570"
   },
   "/docs/Installation/gitcode-c87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-installation-gitcode-0-c-5-45f"
+    "__comp": "17896441",
+    "content": "0c5defec"
   },
   "/docs/Installation/prerequisites-3fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-installation-prerequisites-76-a-731"
+    "__comp": "17896441",
+    "content": "76a268bf"
   },
   "/docs/Marketplace/-0fd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketplace-b-96-ca4"
+    "__comp": "17896441",
+    "content": "b96bff6f"
   },
   "/docs/Marketplace/agent_template_marketplace-45b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketplace-agent-template-marketplace-622-27f"
+    "__comp": "17896441",
+    "content": "62237e8e"
   },
   "/docs/Marketplace/toolkit_marketplace-bf7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketplace-toolkit-marketplace-62-b-1f6"
+    "__comp": "17896441",
+    "content": "62ba9268"
   },
   "/docs/Toolkit/-36b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-503-559"
+    "__comp": "17896441",
+    "content": "50337adc"
   },
   "/docs/Toolkit/custom_toolkit-03b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-custom-toolkit-957-d74"
+    "__comp": "17896441",
+    "content": "957747c0"
   },
   "/docs/Toolkit/SuperAGI Toolkits/-144": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-a-05-2f1"
+    "__comp": "17896441",
+    "content": "a0507036"
   },
   "/docs/Toolkit/SuperAGI Toolkits/coding_tool-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-coding-tool-4-c-8-e39"
+    "__comp": "17896441",
+    "content": "4c867cb9"
   },
   "/docs/Toolkit/SuperAGI Toolkits/duckduckgo-6b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-duckduckgo-9-d-2-53b"
+    "__comp": "17896441",
+    "content": "9d2938d0"
   },
   "/docs/Toolkit/SuperAGI Toolkits/email-fbf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-emaild-94-a98"
+    "__comp": "17896441",
+    "content": "d94eb7bd"
   },
   "/docs/Toolkit/SuperAGI Toolkits/github-f2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-githubd-21-989"
+    "__comp": "17896441",
+    "content": "d21320b1"
   },
   "/docs/Toolkit/SuperAGI Toolkits/google_calendar-9af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-google-calendar-22-c-728"
+    "__comp": "17896441",
+    "content": "22c2069b"
   },
   "/docs/Toolkit/SuperAGI Toolkits/google_search-129": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-google-search-56-e-8a3"
+    "__comp": "17896441",
+    "content": "56e4d574"
   },
   "/docs/Toolkit/SuperAGI Toolkits/google_serp-56f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-google-serp-71-b-c1a"
+    "__comp": "17896441",
+    "content": "71bb6150"
   },
   "/docs/Toolkit/SuperAGI Toolkits/Image Generation/-481": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-image-generation-159-b67"
+    "__comp": "17896441",
+    "content": "15925129"
   },
   "/docs/Toolkit/SuperAGI Toolkits/Image Generation/dalle-1d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-image-generation-dalle-01-f-890"
+    "__comp": "17896441",
+    "content": "01fddfde"
   },
   "/docs/Toolkit/SuperAGI Toolkits/Image Generation/stable_diffusion-d53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-image-generation-stable-diffusion-99-d-434"
+    "__comp": "17896441",
+    "content": "99d62167"
   },
   "/docs/Toolkit/SuperAGI Toolkits/instagram-1c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-instagram-989-3d9"
+    "__comp": "17896441",
+    "content": "9897e9d4"
   },
   "/docs/Toolkit/SuperAGI Toolkits/jira-70f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-jira-6-e-7-ca5"
+    "__comp": "17896441",
+    "content": "6e74905b"
   },
   "/docs/Toolkit/SuperAGI Toolkits/notion-785": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-notion-446-726"
+    "__comp": "17896441",
+    "content": "44610515"
   },
   "/docs/Toolkit/SuperAGI Toolkits/searx-e42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-searx-3-f-2-d42"
+    "__comp": "17896441",
+    "content": "3f2576f0"
   },
   "/docs/Toolkit/SuperAGI Toolkits/slack-328": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-slackc-05-f68"
+    "__comp": "17896441",
+    "content": "c0591dcf"
   },
   "/docs/Toolkit/SuperAGI Toolkits/twitter-21d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-twitter-2-c-5-0d5"
+    "__comp": "17896441",
+    "content": "2c52041a"
   },
   "/docs/Toolkit/SuperAGI Toolkits/webscraper-cb3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toolkit-super-agi-toolkits-webscraper-2-e-6-aa7"
+    "__comp": "17896441",
+    "content": "2e652882"
   }
 }

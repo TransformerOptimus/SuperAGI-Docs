@@ -62,7 +62,7 @@ Choosing an agent type allows you to change the agent's thought processs. Such a
 
 ## Adding Resources
 
-You can add resources in formats such as .txt, .pdf, .csv, which the agent would ingest during the run. To learn more about how the Resource Manager works, navigate to the [Resource Manager](docs\Core%20Components\resourcemanager.md) section.
+You can add resources in formats such as .txt, .pdf, .csv, .epub, .docx, which the agent would ingest during the run. To learn more about how the Resource Manager works, navigate to the [Resource Manager](docs\Core%20Components\resourcemanager.md) section.
 
 ![Alt text](/../assets/images/Resource_Agent.png)
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Pinecone
 
 ## Setting up Pinecone with SuperAGI

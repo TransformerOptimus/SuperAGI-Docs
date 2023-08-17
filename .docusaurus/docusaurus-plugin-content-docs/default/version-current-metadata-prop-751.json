@@ -152,6 +152,36 @@
                 "label": "Qdrant",
                 "href": "/docs/Core Components/Vector Database/qdrant",
                 "docId": "Core Components/Vector Database/qdrant"
+              },
+              {
+                "type": "link",
+                "label": "Weaviate",
+                "href": "/docs/Core Components/Vector Database/weaviate",
+                "docId": "Core Components/Vector Database/weaviate"
+              },
+              {
+                "type": "link",
+                "label": "Using Marketplace Knowledge",
+                "href": "/docs/Core Components/Vector Database/marketplace_knowledge",
+                "docId": "Core Components/Vector Database/marketplace_knowledge"
+              },
+              {
+                "type": "link",
+                "label": "Using Custom Knowledge",
+                "href": "/docs/Core Components/Vector Database/custom_knowledge",
+                "docId": "Core Components/Vector Database/custom_knowledge"
+              },
+              {
+                "type": "link",
+                "label": "Update your Vector Database",
+                "href": "/docs/Core Components/Vector Database/update_db",
+                "docId": "Core Components/Vector Database/update_db"
+              },
+              {
+                "type": "link",
+                "label": "Delete your Vector Database",
+                "href": "/docs/Core Components/Vector Database/delete_db",
+                "docId": "Core Components/Vector Database/delete_db"
               }
             ],
             "href": "/docs/Core Components/Vector Database/"
@@ -447,10 +477,28 @@
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
+    "Core Components/Vector Database/custom_knowledge": {
+      "id": "Core Components/Vector Database/custom_knowledge",
+      "title": "Using Custom Knowledge",
+      "description": "To add custom knowledge select Knowledge in left panel, and click Add Knowledge button",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/delete_db": {
+      "id": "Core Components/Vector Database/delete_db",
+      "title": "Delete your Vector Database",
+      "description": "Select the vector database to be deleted and click on Uninstall.",
+      "sidebar": "tutorialSidebar"
+    },
     "Core Components/Vector Database/index": {
       "id": "Core Components/Vector Database/index",
       "title": "Vector Database",
       "description": "What is a Vector Database?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/marketplace_knowledge": {
+      "id": "Core Components/Vector Database/marketplace_knowledge",
+      "title": "Using Marketplace Knowledge",
+      "description": "To use Marketplace Knowledge, follow the given steps:",
       "sidebar": "tutorialSidebar"
     },
     "Core Components/Vector Database/pinecone": {
@@ -463,6 +511,18 @@
       "id": "Core Components/Vector Database/qdrant",
       "title": "Qdrant",
       "description": "Setting up Qdrant with SuperAGI",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/update_db": {
+      "id": "Core Components/Vector Database/update_db",
+      "title": "Update your Vector Database",
+      "description": "1. To later update your vector database, select the database you’d like to update",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/Vector Database/weaviate": {
+      "id": "Core Components/Vector Database/weaviate",
+      "title": "Weaviate",
+      "description": "Setting up Weaviate with SuperAGI",
       "sidebar": "tutorialSidebar"
     },
     "Installation/cloud": {

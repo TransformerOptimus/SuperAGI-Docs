@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Vector Database/marketplace_knowledge",
+  "id": "Core Components/Vector Database/marketplace_knowledge",
+  "title": "Using Marketplace Knowledge",
+  "description": "To use Marketplace Knowledge, follow the given steps:",
+  "source": "@site/docs/Core Components/Vector Database/marketplace_knowledge.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/marketplace_knowledge",
+  "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/marketplace_knowledge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weaviate",
+    "permalink": "/docs/Core Components/Vector Database/weaviate"
+  },
+  "next": {
+    "title": "Using Custom Knowledge",
+    "permalink": "/docs/Core Components/Vector Database/custom_knowledge"
+  }
+}

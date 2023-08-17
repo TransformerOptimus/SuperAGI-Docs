@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Vector Database/weaviate",
+  "id": "Core Components/Vector Database/weaviate",
+  "title": "Weaviate",
+  "description": "Setting up Weaviate with SuperAGI",
+  "source": "@site/docs/Core Components/Vector Database/weaviate.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/weaviate",
+  "permalink": "/docs/Core Components/Vector Database/weaviate",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/weaviate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qdrant",
+    "permalink": "/docs/Core Components/Vector Database/qdrant"
+  },
+  "next": {
+    "title": "Using Marketplace Knowledge",
+    "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge"
+  }
+}

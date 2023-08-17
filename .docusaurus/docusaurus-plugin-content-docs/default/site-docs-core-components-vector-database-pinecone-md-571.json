@@ -11,7 +11,10 @@
   "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/pinecone.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Vector Database",

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Vector Database/custom_knowledge",
+  "id": "Core Components/Vector Database/custom_knowledge",
+  "title": "Using Custom Knowledge",
+  "description": "To add custom knowledge select Knowledge in left panel, and click Add Knowledge button",
+  "source": "@site/docs/Core Components/Vector Database/custom_knowledge.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/custom_knowledge",
+  "permalink": "/docs/Core Components/Vector Database/custom_knowledge",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/custom_knowledge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Marketplace Knowledge",
+    "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge"
+  },
+  "next": {
+    "title": "Update your Vector Database",
+    "permalink": "/docs/Core Components/Vector Database/update_db"
+  }
+}

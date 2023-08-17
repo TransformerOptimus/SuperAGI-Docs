@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/qdrant.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pinecone",
     "permalink": "/docs/Core Components/Vector Database/pinecone"
   },
   "next": {
-    "title": "Resource Manager",
-    "permalink": "/docs/Core Components/resourcemanager"
+    "title": "Weaviate",
+    "permalink": "/docs/Core Components/Vector Database/weaviate"
   }
 }

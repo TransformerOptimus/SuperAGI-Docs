@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Vector Database/delete_db",
+  "id": "Core Components/Vector Database/delete_db",
+  "title": "Delete your Vector Database",
+  "description": "Select the vector database to be deleted and click on Uninstall.",
+  "source": "@site/docs/Core Components/Vector Database/delete_db.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/delete_db",
+  "permalink": "/docs/Core Components/Vector Database/delete_db",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/delete_db.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update your Vector Database",
+    "permalink": "/docs/Core Components/Vector Database/update_db"
+  },
+  "next": {
+    "title": "Resource Manager",
+    "permalink": "/docs/Core Components/resourcemanager"
+  }
+}

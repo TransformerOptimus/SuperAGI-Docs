@@ -110,8 +110,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Core Components/Vector Database/custom_knowledge",
+              "path": "/docs/Core Components/Vector Database/custom_knowledge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/delete_db",
+              "path": "/docs/Core Components/Vector Database/delete_db",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Core Components/Vector Database/index",
               "path": "/docs/Core Components/Vector Database/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/marketplace_knowledge",
+              "path": "/docs/Core Components/Vector Database/marketplace_knowledge",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -122,6 +137,16 @@
             {
               "id": "Core Components/Vector Database/qdrant",
               "path": "/docs/Core Components/Vector Database/qdrant",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/update_db",
+              "path": "/docs/Core Components/Vector Database/update_db",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/Vector Database/weaviate",
+              "path": "/docs/Core Components/Vector Database/weaviate",
               "sidebar": "tutorialSidebar"
             },
             {

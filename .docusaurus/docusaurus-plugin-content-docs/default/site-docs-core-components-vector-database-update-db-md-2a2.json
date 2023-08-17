@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/Vector Database/update_db",
+  "id": "Core Components/Vector Database/update_db",
+  "title": "Update your Vector Database",
+  "description": "1. To later update your vector database, select the database you’d like to update",
+  "source": "@site/docs/Core Components/Vector Database/update_db.md",
+  "sourceDirName": "Core Components/Vector Database",
+  "slug": "/Core Components/Vector Database/update_db",
+  "permalink": "/docs/Core Components/Vector Database/update_db",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/update_db.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Custom Knowledge",
+    "permalink": "/docs/Core Components/Vector Database/custom_knowledge"
+  },
+  "next": {
+    "title": "Delete your Vector Database",
+    "permalink": "/docs/Core Components/Vector Database/delete_db"
+  }
+}
