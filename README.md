@@ -1,7 +1,6 @@
 <h2 align="center">
 Documentation of
 </h2>
-
 <p align="center">
   <a href="https://superagi.com//#gh-light-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2023/05/Logo-dark.svg" width="318px" alt="SuperAGI logo" />
@@ -9,16 +8,36 @@ Documentation of
   <a href="https://superagi.com//#gh-dark-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2023/05/Logo-light.svg" width="318px" alt="SuperAGI logo" />
   </a>
-
-  
 </p>
 
 <p align="center"><i>Open-source framework to build, manage and run useful Autonomous AI Agents</i></p>
+    
 
 <p align="center">
-<a href="https://superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Website.svg"></a>
+<a href="https://superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/08/Website.svg"></a>
 <a href="https://app.superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Cloud.svg"></a>
-<a href="https://marketplace.superagi.com/"> <img src="https://superagi.com/wp-content/uploads/2023/07/Marketplace.svg"></a>
+<a href="https://marketplace.superagi.com/"> <img src="https://superagi.com/wp-content/uploads/2023/08/Marketplace.svg"></a>
+<a href="https://superagi.com/docs/"> <img src="https://superagi.com/wp-content/uploads/2023/08/Docs.svg"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/TransformerOptimus/SuperAGI/fork" target="blank">
+<img src="https://img.shields.io/github/forks/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI forks"/>
+</a>
+
+<a href="https://github.com/TransformerOptimus/SuperAGI/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI stars"/>
+</a>
+<a href="https://github.com/TransformerOptimus/SuperAGI/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI pull-requests"/>
+</a>
+<a href='https://github.com/TransformerOptimus/SuperAGI/releases'>
+<img src='https://img.shields.io/github/release/TransformerOptimus/SuperAGI?&label=Latest&style=for-the-badge'>
+</a>
+
+<a href="https://github.com/TransformerOptimus/SuperAGI/commits" target="blank">
+<img src="https://img.shields.io/github/commits-since/TransformerOptimus/SuperAGI/v0.0.3.svg?style=for-the-badge" alt="SuperAGI Commits"/>
+</a>
 </p>
 
 <p align="center"><b>Follow SuperAGI </b></p>
@@ -32,7 +51,6 @@ Documentation of
 <a href="https://discord.gg/dXbRe5BHJC" target="blank">
 <img src="https://img.shields.io/discord/1107593006032355359?label=Join%20SuperAGI&logo=discord&style=social" alt="Join SuperAGI Discord Community"/>
 </a>
-<a href="https://superagi.com" target="_blank"><img src="https://img.shields.io/twitter/url?label=SuperAGI Website&logo=website&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
 <a href="https://www.youtube.com/@_superagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
 </p>
 
@@ -43,7 +61,6 @@ Documentation of
 <img src="https://img.shields.io/twitter/follow/ishaanbhola?label=Follow: ishaanbhola&style=social" alt="Follow ishaanbhola"/>
 </a>
 </p>
-
 
 <p align="center"><b>Share SuperAGI Repository</b></p>
 
