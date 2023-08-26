@@ -28,15 +28,13 @@ Documentation of
 <a href="https://github.com/TransformerOptimus/SuperAGI/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI stars"/>
 </a>
-<a href="https://github.com/TransformerOptimus/SuperAGI/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI pull-requests"/>
-</a>
+
 <a href='https://github.com/TransformerOptimus/SuperAGI/releases'>
 <img src='https://img.shields.io/github/release/TransformerOptimus/SuperAGI?&label=Latest&style=for-the-badge'>
 </a>
 
 <a href="https://github.com/TransformerOptimus/SuperAGI/commits" target="blank">
-<img src="https://img.shields.io/github/commits-since/TransformerOptimus/SuperAGI/v0.0.3.svg?style=for-the-badge" alt="SuperAGI Commits"/>
+<img src="https://img.shields.io/github/commits-since/TransformerOptimus/SuperAGI/v0.0.10.svg?style=for-the-badge" alt="SuperAGI Commits"/>
 </a>
 </p>
 
