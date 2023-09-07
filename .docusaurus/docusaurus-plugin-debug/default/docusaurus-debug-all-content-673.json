@@ -466,12 +466,66 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Qdrant",
-                "permalink": "/docs/Core Components/Vector Database/qdrant"
+                "title": "Delete your Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/delete_db"
               },
               "next": {
                 "title": "Toolkits",
                 "permalink": "/docs/Toolkit/"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/custom_knowledge",
+              "id": "Core Components/Vector Database/custom_knowledge",
+              "title": "Using Custom Knowledge",
+              "description": "To add custom knowledge select Knowledge in left panel, and click Add Knowledge button",
+              "source": "@site/docs/Core Components/Vector Database/custom_knowledge.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/custom_knowledge",
+              "permalink": "/docs/Core Components/Vector Database/custom_knowledge",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/custom_knowledge.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Marketplace Knowledge",
+                "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge"
+              },
+              "next": {
+                "title": "Update your Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/update_db"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/delete_db",
+              "id": "Core Components/Vector Database/delete_db",
+              "title": "Delete your Vector Database",
+              "description": "Select the vector database to be deleted and click on Uninstall.",
+              "source": "@site/docs/Core Components/Vector Database/delete_db.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/delete_db",
+              "permalink": "/docs/Core Components/Vector Database/delete_db",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/delete_db.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Update your Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/update_db"
+              },
+              "next": {
+                "title": "Resource Manager",
+                "permalink": "/docs/Core Components/resourcemanager"
               }
             },
             {
@@ -499,6 +553,33 @@
               }
             },
             {
+              "unversionedId": "Core Components/Vector Database/marketplace_knowledge",
+              "id": "Core Components/Vector Database/marketplace_knowledge",
+              "title": "Using Marketplace Knowledge",
+              "description": "To use Marketplace Knowledge, follow the given steps:",
+              "source": "@site/docs/Core Components/Vector Database/marketplace_knowledge.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/marketplace_knowledge",
+              "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/marketplace_knowledge.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Weaviate",
+                "permalink": "/docs/Core Components/Vector Database/weaviate"
+              },
+              "next": {
+                "title": "Using Custom Knowledge",
+                "permalink": "/docs/Core Components/Vector Database/custom_knowledge"
+              }
+            },
+            {
               "unversionedId": "Core Components/Vector Database/pinecone",
               "id": "Core Components/Vector Database/pinecone",
               "title": "Pinecone",
@@ -511,7 +592,10 @@
               "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/pinecone.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Vector Database",
@@ -535,15 +619,72 @@
               "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/qdrant.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Pinecone",
                 "permalink": "/docs/Core Components/Vector Database/pinecone"
               },
               "next": {
-                "title": "Resource Manager",
-                "permalink": "/docs/Core Components/resourcemanager"
+                "title": "Weaviate",
+                "permalink": "/docs/Core Components/Vector Database/weaviate"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/update_db",
+              "id": "Core Components/Vector Database/update_db",
+              "title": "Update your Vector Database",
+              "description": "1. To later update your vector database, select the database you’d like to update",
+              "source": "@site/docs/Core Components/Vector Database/update_db.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/update_db",
+              "permalink": "/docs/Core Components/Vector Database/update_db",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/update_db.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Custom Knowledge",
+                "permalink": "/docs/Core Components/Vector Database/custom_knowledge"
+              },
+              "next": {
+                "title": "Delete your Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/delete_db"
+              }
+            },
+            {
+              "unversionedId": "Core Components/Vector Database/weaviate",
+              "id": "Core Components/Vector Database/weaviate",
+              "title": "Weaviate",
+              "description": "Setting up Weaviate with SuperAGI",
+              "source": "@site/docs/Core Components/Vector Database/weaviate.md",
+              "sourceDirName": "Core Components/Vector Database",
+              "slug": "/Core Components/Vector Database/weaviate",
+              "permalink": "/docs/Core Components/Vector Database/weaviate",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Vector Database/weaviate.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Qdrant",
+                "permalink": "/docs/Core Components/Vector Database/qdrant"
+              },
+              "next": {
+                "title": "Using Marketplace Knowledge",
+                "permalink": "/docs/Core Components/Vector Database/marketplace_knowledge"
               }
             },
             {
@@ -1379,6 +1520,26 @@
                       {
                         "type": "doc",
                         "id": "Core Components/Vector Database/qdrant"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/weaviate"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/marketplace_knowledge"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/custom_knowledge"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/update_db"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Core Components/Vector Database/delete_db"
                       }
                     ],
                     "link": {
@@ -1573,6 +1734,7 @@
   "docusaurus-plugin-debug": {},
   "docusaurus-plugin-google-gtag": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

@@ -8,6 +8,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs/search',
+    component: ComponentCreator('/docs/search', '414'),
+    exact: true
+  },
+  {
     path: '/docs/',
     component: ComponentCreator('/docs/', '28c'),
     routes: [

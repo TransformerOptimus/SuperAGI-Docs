@@ -47,8 +47,17 @@ export default {
   "themeConfig": {
     "colorMode": {
       "defaultMode": "dark",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
+      "disableSwitch": true,
+      "respectPrefersColorScheme": true
+    },
+    "algolia": {
+      "appId": "QJ04C3W5Z0",
+      "apiKey": "b60525206340f31fc002ea02a8b7be2d",
+      "indexName": "superagi",
+      "insights": true,
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
     },
     "image": "https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png",
     "navbar": {
@@ -77,6 +86,10 @@ export default {
         {
           "href": "https://github.com/TransformerOptimus/SuperAGI",
           "label": "GitHub Repo",
+          "position": "right"
+        },
+        {
+          "type": "search",
           "position": "right"
         }
       ],

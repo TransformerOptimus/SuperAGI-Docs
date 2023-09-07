@@ -4,22 +4,11 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-module.exports = {
-  themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: true,
-      respectPrefersColorScheme: false,
-    },
-  },
-};
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SuperAGI Docs',
   tagline: 'Dev-First  open source framework to build, manage & run autonomous AI agents',
   favicon: 'https://superagi.com/wp-content/uploads/2023/05/Superagi_favicon.png',
-
   // Set the production url of your site here
   url: 'https://superagi.com',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -76,11 +65,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false,
-        respectPrefersColorScheme: false,
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
       },
+      
+      algolia: {
+      appId: 'QJ04C3W5Z0',
+      apiKey: 'b60525206340f31fc002ea02a8b7be2d',
+      indexName: 'superagi',
+      insights: true,
+      contextualSearch: true,
+      },
+
       // Replace with your project's social card
       image: 'https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png',
       navbar: {
@@ -112,6 +111,10 @@ const config = {
             label: 'GitHub Repo',
             position: 'right',
           },
+          {
+          type: 'search',
+          position: 'right',
+        },
         ],
       },
       footer: {
