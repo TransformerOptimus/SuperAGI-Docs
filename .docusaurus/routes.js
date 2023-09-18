@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '28c'),
+    component: ComponentCreator('/docs/', 'f24'),
     routes: [
       {
         path: '/docs/',
@@ -48,7 +48,7 @@ export default [
       },
       {
         path: '/docs/Core Components/Agents/',
-        component: ComponentCreator('/docs/Core Components/Agents/', '7cb'),
+        component: ComponentCreator('/docs/Core Components/Agents/', '829'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -127,6 +127,18 @@ export default [
       {
         path: '/docs/Core Components/resourcemanager',
         component: ComponentCreator('/docs/Core Components/resourcemanager', 'f31'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/SDK/',
+        component: ComponentCreator('/docs/Core Components/SDK/', '413'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Core Components/SDK/python_sdk',
+        component: ComponentCreator('/docs/Core Components/SDK/python_sdk', '30b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

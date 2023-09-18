@@ -12,7 +12,7 @@
       "plugin": "ddfba498"
     }
   },
-  "/docs/-28c": {
+  "/docs/-f24": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "eaa68edf"
@@ -39,9 +39,9 @@
     "__comp": "17896441",
     "content": "d483291e"
   },
-  "/docs/Core Components/Agents/-7cb": {
+  "/docs/Core Components/Agents/-829": {
     "__comp": "17896441",
-    "content": "30ff9d7c"
+    "content": "52d165ce"
   },
   "/docs/Core Components/Agents/action_console-21e": {
     "__comp": "17896441",
@@ -94,6 +94,14 @@
   "/docs/Core Components/resourcemanager-f31": {
     "__comp": "17896441",
     "content": "b5aa5c3a"
+  },
+  "/docs/Core Components/SDK/-413": {
+    "__comp": "17896441",
+    "content": "7bb8aac3"
+  },
+  "/docs/Core Components/SDK/python_sdk-30b": {
+    "__comp": "17896441",
+    "content": "b74fd2d2"
   },
   "/docs/Core Components/Vector Database/-ffd": {
     "__comp": "17896441",

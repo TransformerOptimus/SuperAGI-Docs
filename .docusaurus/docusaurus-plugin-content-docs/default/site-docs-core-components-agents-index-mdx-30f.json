@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Core Components",
-    "permalink": "/docs/Core Components/"
+    "title": "SuperAGI Python SDK",
+    "permalink": "/docs/Core Components/SDK/Python sdk"
   },
   "next": {
     "title": "Agent Provisioning",

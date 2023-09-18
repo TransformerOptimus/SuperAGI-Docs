@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Core Components/SDK/index",
+  "id": "Core Components/SDK/index",
+  "title": "SDK",
+  "description": "",
+  "source": "@site/docs/Core Components/SDK/index.md",
+  "sourceDirName": "Core Components/SDK",
+  "slug": "/Core Components/SDK/",
+  "permalink": "/docs/Core Components/SDK/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/SDK/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Agent Template",
+    "permalink": "/docs/Core Components/Agents/edit_agent_template"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/docs/Core Components/SDK/python_sdk"
+  }
+}

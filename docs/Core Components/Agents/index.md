@@ -1,0 +1,17 @@
+---
+sidebar_position: 1
+---
+
+# Agents
+
+Agents in SuperAGI are complex systems that leverage the power of LLMs to operate independently, reason, perform tasks, and takes decisions without the constant need for human intervention. 
+
+The Agents, plan, reason, interact with toolkits, and execute based on the user's Goals, Instructions, Resources, and Constraints to achieve the expected results.  
+
+To dive deeper into how Agents operate, you can explore the sections below:
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```

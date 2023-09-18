@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Core Components/sdk",
+  "id": "Core Components/sdk",
+  "title": "SuperAGI Python SDK",
+  "description": "SuperAGI Client Library",
+  "source": "@site/docs/Core Components/sdk.md",
+  "sourceDirName": "Core Components",
+  "slug": "/Core Components/sdk",
+  "permalink": "/docs/Core Components/sdk",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/sdk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resource Manager",
+    "permalink": "/docs/Core Components/resourcemanager"
+  },
+  "next": {
+    "title": "Toolkits",
+    "permalink": "/docs/Toolkit/"
+  }
+}

@@ -110,6 +110,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Core Components/SDK/index",
+              "path": "/docs/Core Components/SDK/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Core Components/SDK/python_sdk",
+              "path": "/docs/Core Components/SDK/python_sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Core Components/Vector Database/custom_knowledge",
               "path": "/docs/Core Components/Vector Database/custom_knowledge",
               "sidebar": "tutorialSidebar"

@@ -137,6 +137,21 @@
           },
           {
             "type": "category",
+            "label": "SDK",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Python",
+                "href": "/docs/Core Components/SDK/python_sdk",
+                "docId": "Core Components/SDK/python_sdk"
+              }
+            ],
+            "href": "/docs/Core Components/SDK/"
+          },
+          {
+            "type": "category",
             "label": "Vector Database",
             "collapsible": true,
             "collapsed": true,
@@ -475,6 +490,18 @@
       "id": "Core Components/resourcemanager",
       "title": "Resource Manager",
       "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/SDK/index": {
+      "id": "Core Components/SDK/index",
+      "title": "SDK",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Core Components/SDK/python_sdk": {
+      "id": "Core Components/SDK/python_sdk",
+      "title": "Python",
+      "description": "SuperAGI Client Library",
       "sidebar": "tutorialSidebar"
     },
     "Core Components/Vector Database/custom_knowledge": {

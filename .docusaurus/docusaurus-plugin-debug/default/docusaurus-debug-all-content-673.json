@@ -341,8 +341,8 @@
                 "permalink": "/docs/Core Components/Agents/delete_agent"
               },
               "next": {
-                "title": "Vector Database",
-                "permalink": "/docs/Core Components/Vector Database/"
+                "title": "SDK",
+                "permalink": "/docs/Core Components/SDK/"
               }
             },
             {
@@ -350,15 +350,18 @@
               "id": "Core Components/Agents/index",
               "title": "Agents",
               "description": "Agents in SuperAGI are complex systems that leverage the power of LLMs to operate independently, reason, perform tasks, and takes decisions without the constant need for human intervention.",
-              "source": "@site/docs/Core Components/Agents/index.mdx",
+              "source": "@site/docs/Core Components/Agents/index.md",
               "sourceDirName": "Core Components/Agents",
               "slug": "/Core Components/Agents/",
               "permalink": "/docs/Core Components/Agents/",
               "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/index.mdx",
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/Agents/index.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Core Components",
@@ -475,6 +478,57 @@
               }
             },
             {
+              "unversionedId": "Core Components/SDK/index",
+              "id": "Core Components/SDK/index",
+              "title": "SDK",
+              "description": "",
+              "source": "@site/docs/Core Components/SDK/index.md",
+              "sourceDirName": "Core Components/SDK",
+              "slug": "/Core Components/SDK/",
+              "permalink": "/docs/Core Components/SDK/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/SDK/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edit Agent Template",
+                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+              },
+              "next": {
+                "title": "Python",
+                "permalink": "/docs/Core Components/SDK/python_sdk"
+              }
+            },
+            {
+              "unversionedId": "Core Components/SDK/python_sdk",
+              "id": "Core Components/SDK/python_sdk",
+              "title": "Python",
+              "description": "SuperAGI Client Library",
+              "source": "@site/docs/Core Components/SDK/python_sdk.md",
+              "sourceDirName": "Core Components/SDK",
+              "slug": "/Core Components/SDK/python_sdk",
+              "permalink": "/docs/Core Components/SDK/python_sdk",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/SDK/python_sdk.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SDK",
+                "permalink": "/docs/Core Components/SDK/"
+              },
+              "next": {
+                "title": "Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/"
+              }
+            },
+            {
               "unversionedId": "Core Components/Vector Database/custom_knowledge",
               "id": "Core Components/Vector Database/custom_knowledge",
               "title": "Using Custom Knowledge",
@@ -544,8 +598,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Edit Agent Template",
-                "permalink": "/docs/Core Components/Agents/edit_agent_template"
+                "title": "Python",
+                "permalink": "/docs/Core Components/SDK/python_sdk"
               },
               "next": {
                 "title": "Pinecone",
@@ -1505,6 +1559,22 @@
                     "link": {
                       "type": "doc",
                       "id": "Core Components/Agents/index"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "SDK",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Core Components/SDK/python_sdk"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Core Components/SDK/index"
                     }
                   },
                   {
