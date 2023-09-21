@@ -110,16 +110,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Core Components/SDK/index",
-              "path": "/docs/Core Components/SDK/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Core Components/SDK/python_sdk",
-              "path": "/docs/Core Components/SDK/python_sdk",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Core Components/Vector Database/custom_knowledge",
               "path": "/docs/Core Components/Vector Database/custom_knowledge",
               "sidebar": "tutorialSidebar"
@@ -197,6 +187,16 @@
             {
               "id": "Marketplace/toolkit_marketplace",
               "path": "/docs/Marketplace/toolkit_marketplace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SDK/index",
+              "path": "/docs/SDK/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SDK/python_sdk",
+              "path": "/docs/SDK/python_sdk",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -85,8 +85,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Toolkit Marketplace",
-                "permalink": "/docs/Marketplace/toolkit_marketplace"
+                "title": "Python SDK",
+                "permalink": "/docs/SDK/python_sdk"
               },
               "next": {
                 "title": "Contribute to Code",
@@ -341,8 +341,8 @@
                 "permalink": "/docs/Core Components/Agents/delete_agent"
               },
               "next": {
-                "title": "SDK",
-                "permalink": "/docs/Core Components/SDK/"
+                "title": "Vector Database",
+                "permalink": "/docs/Core Components/Vector Database/"
               }
             },
             {
@@ -478,57 +478,6 @@
               }
             },
             {
-              "unversionedId": "Core Components/SDK/index",
-              "id": "Core Components/SDK/index",
-              "title": "SDK",
-              "description": "",
-              "source": "@site/docs/Core Components/SDK/index.md",
-              "sourceDirName": "Core Components/SDK",
-              "slug": "/Core Components/SDK/",
-              "permalink": "/docs/Core Components/SDK/",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/SDK/index.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Edit Agent Template",
-                "permalink": "/docs/Core Components/Agents/edit_agent_template"
-              },
-              "next": {
-                "title": "Python",
-                "permalink": "/docs/Core Components/SDK/python_sdk"
-              }
-            },
-            {
-              "unversionedId": "Core Components/SDK/python_sdk",
-              "id": "Core Components/SDK/python_sdk",
-              "title": "Python",
-              "description": "SuperAGI Client Library",
-              "source": "@site/docs/Core Components/SDK/python_sdk.md",
-              "sourceDirName": "Core Components/SDK",
-              "slug": "/Core Components/SDK/python_sdk",
-              "permalink": "/docs/Core Components/SDK/python_sdk",
-              "draft": false,
-              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/Core Components/SDK/python_sdk.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "SDK",
-                "permalink": "/docs/Core Components/SDK/"
-              },
-              "next": {
-                "title": "Vector Database",
-                "permalink": "/docs/Core Components/Vector Database/"
-              }
-            },
-            {
               "unversionedId": "Core Components/Vector Database/custom_knowledge",
               "id": "Core Components/Vector Database/custom_knowledge",
               "title": "Using Custom Knowledge",
@@ -598,8 +547,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Python",
-                "permalink": "/docs/Core Components/SDK/python_sdk"
+                "title": "Edit Agent Template",
+                "permalink": "/docs/Core Components/Agents/edit_agent_template"
               },
               "next": {
                 "title": "Pinecone",
@@ -945,6 +894,57 @@
               "previous": {
                 "title": "Agent Template Marketplace",
                 "permalink": "/docs/Marketplace/agent_template_marketplace"
+              },
+              "next": {
+                "title": "SDK",
+                "permalink": "/docs/SDK/"
+              }
+            },
+            {
+              "unversionedId": "SDK/index",
+              "id": "SDK/index",
+              "title": "SDK",
+              "description": "",
+              "source": "@site/docs/SDK/index.md",
+              "sourceDirName": "SDK",
+              "slug": "/SDK/",
+              "permalink": "/docs/SDK/",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Toolkit Marketplace",
+                "permalink": "/docs/Marketplace/toolkit_marketplace"
+              },
+              "next": {
+                "title": "Python SDK",
+                "permalink": "/docs/SDK/python_sdk"
+              }
+            },
+            {
+              "unversionedId": "SDK/python_sdk",
+              "id": "SDK/python_sdk",
+              "title": "Python SDK",
+              "description": "SuperAGI Client Library",
+              "source": "@site/docs/SDK/python_sdk.md",
+              "sourceDirName": "SDK",
+              "slug": "/SDK/python_sdk",
+              "permalink": "/docs/SDK/python_sdk",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/python_sdk.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SDK",
+                "permalink": "/docs/SDK/"
               },
               "next": {
                 "title": "Contribute",
@@ -1563,22 +1563,6 @@
                   },
                   {
                     "type": "category",
-                    "label": "SDK",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Core Components/SDK/python_sdk"
-                      }
-                    ],
-                    "link": {
-                      "type": "doc",
-                      "id": "Core Components/SDK/index"
-                    }
-                  },
-                  {
-                    "type": "category",
                     "label": "Vector Database",
                     "collapsible": true,
                     "collapsed": true,
@@ -1749,6 +1733,22 @@
                 "link": {
                   "type": "doc",
                   "id": "Marketplace/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "SDK",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDK/python_sdk"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "SDK/index"
                 }
               },
               {

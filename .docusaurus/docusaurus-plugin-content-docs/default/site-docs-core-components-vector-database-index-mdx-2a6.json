@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Python",
-    "permalink": "/docs/Core Components/SDK/python_sdk"
+    "title": "Edit Agent Template",
+    "permalink": "/docs/Core Components/Agents/edit_agent_template"
   },
   "next": {
     "title": "Pinecone",

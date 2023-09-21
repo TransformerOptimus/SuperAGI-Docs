@@ -1,0 +1,27 @@
+{
+  "unversionedId": "SDK/index",
+  "id": "SDK/index",
+  "title": "SDK",
+  "description": "",
+  "source": "@site/docs/SDK/index.md",
+  "sourceDirName": "SDK",
+  "slug": "/SDK/",
+  "permalink": "/docs/SDK/",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toolkit Marketplace",
+    "permalink": "/docs/Marketplace/toolkit_marketplace"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/docs/SDK/python_sdk"
+  }
+}

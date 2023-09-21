@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDK/python_sdk",
+  "id": "SDK/python_sdk",
+  "title": "Python SDK",
+  "description": "SuperAGI Client Library",
+  "source": "@site/docs/SDK/python_sdk.md",
+  "sourceDirName": "SDK",
+  "slug": "/SDK/python_sdk",
+  "permalink": "/docs/SDK/python_sdk",
+  "draft": false,
+  "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/python_sdk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK",
+    "permalink": "/docs/SDK/"
+  },
+  "next": {
+    "title": "Contribute",
+    "permalink": "/docs/Contribute/"
+  }
+}

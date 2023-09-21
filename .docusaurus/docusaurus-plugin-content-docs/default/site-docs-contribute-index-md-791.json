@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Toolkit Marketplace",
-    "permalink": "/docs/Marketplace/toolkit_marketplace"
+    "title": "Python SDK",
+    "permalink": "/docs/SDK/python_sdk"
   },
   "next": {
     "title": "Contribute to Code",

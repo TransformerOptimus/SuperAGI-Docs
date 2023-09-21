@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', 'f24'),
+    component: ComponentCreator('/docs/', 'ea3'),
     routes: [
       {
         path: '/docs/',
@@ -131,18 +131,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Core Components/SDK/',
-        component: ComponentCreator('/docs/Core Components/SDK/', '413'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Core Components/SDK/python_sdk',
-        component: ComponentCreator('/docs/Core Components/SDK/python_sdk', '30b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/Core Components/Vector Database/',
         component: ComponentCreator('/docs/Core Components/Vector Database/', 'ffd'),
         exact: true,
@@ -235,6 +223,18 @@ export default [
       {
         path: '/docs/Marketplace/toolkit_marketplace',
         component: ComponentCreator('/docs/Marketplace/toolkit_marketplace', 'bf7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/SDK/',
+        component: ComponentCreator('/docs/SDK/', '80e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/SDK/python_sdk',
+        component: ComponentCreator('/docs/SDK/python_sdk', 'bb4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
