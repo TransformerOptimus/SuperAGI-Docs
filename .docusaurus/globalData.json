@@ -195,6 +195,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "SDK/node_sdk",
+              "path": "/docs/SDK/node_sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "SDK/python_sdk",
               "path": "/docs/SDK/python_sdk",
               "sidebar": "tutorialSidebar"

@@ -85,8 +85,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Python SDK",
-                "permalink": "/docs/SDK/python_sdk"
+                "title": "NodeJS SDK",
+                "permalink": "/docs/SDK/node_sdk"
               },
               "next": {
                 "title": "Contribute to Code",
@@ -928,6 +928,33 @@
               }
             },
             {
+              "unversionedId": "SDK/node_sdk",
+              "id": "SDK/node_sdk",
+              "title": "NodeJS SDK",
+              "description": "The SuperAGI NodeJS client library is designed to offer developers a seamless way to interact with the SuperAGI API. This library enables users to create, manage, and execute autonomous agents within the SuperAGI framework.",
+              "source": "@site/docs/SDK/node_sdk.md",
+              "sourceDirName": "SDK",
+              "slug": "/SDK/node_sdk",
+              "permalink": "/docs/SDK/node_sdk",
+              "draft": false,
+              "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/node_sdk.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python SDK",
+                "permalink": "/docs/SDK/python_sdk"
+              },
+              "next": {
+                "title": "Contribute",
+                "permalink": "/docs/Contribute/"
+              }
+            },
+            {
               "unversionedId": "SDK/python_sdk",
               "id": "SDK/python_sdk",
               "title": "Python SDK",
@@ -940,15 +967,18 @@
               "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/python_sdk.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "SDK",
                 "permalink": "/docs/SDK/"
               },
               "next": {
-                "title": "Contribute",
-                "permalink": "/docs/Contribute/"
+                "title": "NodeJS SDK",
+                "permalink": "/docs/SDK/node_sdk"
               }
             },
             {
@@ -1744,6 +1774,10 @@
                   {
                     "type": "doc",
                     "id": "SDK/python_sdk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDK/node_sdk"
                   }
                 ],
                 "link": {

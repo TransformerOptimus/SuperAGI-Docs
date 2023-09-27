@@ -356,6 +356,12 @@
             "label": "Python SDK",
             "href": "/docs/SDK/python_sdk",
             "docId": "SDK/python_sdk"
+          },
+          {
+            "type": "link",
+            "label": "NodeJS SDK",
+            "href": "/docs/SDK/node_sdk",
+            "docId": "SDK/node_sdk"
           }
         ],
         "href": "/docs/SDK/"
@@ -592,6 +598,12 @@
       "id": "SDK/index",
       "title": "SDK",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "SDK/node_sdk": {
+      "id": "SDK/node_sdk",
+      "title": "NodeJS SDK",
+      "description": "The SuperAGI NodeJS client library is designed to offer developers a seamless way to interact with the SuperAGI API. This library enables users to create, manage, and execute autonomous agents within the SuperAGI framework.",
       "sidebar": "tutorialSidebar"
     },
     "SDK/python_sdk": {

@@ -1,5 +1,9 @@
-# Python SDK
+---
+sidebar_position: 1
+---
 
+
+# Python SDK
 
 ## SuperAGI Client Library
 

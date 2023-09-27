@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/TransformerOptimus/SuperAGI-Docs/tree/main/docs/SDK/python_sdk.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK",
     "permalink": "/docs/SDK/"
   },
   "next": {
-    "title": "Contribute",
-    "permalink": "/docs/Contribute/"
+    "title": "NodeJS SDK",
+    "permalink": "/docs/SDK/node_sdk"
   }
 }

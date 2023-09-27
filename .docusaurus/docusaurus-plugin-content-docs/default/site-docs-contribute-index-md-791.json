@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Python SDK",
-    "permalink": "/docs/SDK/python_sdk"
+    "title": "NodeJS SDK",
+    "permalink": "/docs/SDK/node_sdk"
   },
   "next": {
     "title": "Contribute to Code",
